@@ -74,7 +74,7 @@ H2GNN/
 | `Hypergraph_Chemical/`, `Metabolic-Hypergraph/` | Data | Hypergraph structure files |
 | `K-mer/` | Data | Pre-computed K-mer features |
 | `Best-Embedding/` | Data | Chemical network embeddings for transfer learning |
-| `baselines/` | Code + Results | Baseline models with comparison benchmarks |
+| `baselines/` | Code | Baseline models with comparison benchmarks |
 
 **Note**: Each experiment folder contains all conducted experiments and their results, not just the top performers.
 
