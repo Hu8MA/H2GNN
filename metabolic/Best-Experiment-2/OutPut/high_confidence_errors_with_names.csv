@@ -1,0 +1,1087 @@
+Drug1_ID,Drug1_Name,Drug2_ID,Drug2_Name,Prediction_Score,Predicted_Type_Index,Predicted_Type_Name,Interaction_Translation,True_Type_Index,True_Type_Name,Match
+DB01045,Rifampicin,DB01181,Ifosfamide,0.7227182388305664,4,Type_4,The metabolism of Ifosfamide can be increased when combined with Rifampicin.,77,Type_77,No
+DB06154,Pentaerythritol tetranitrate,DB09030,Vorapaxar,0.8448987007141113,6,Type_6,Pentaerythritol tetranitrate may increase the anticoagulant activities of Vorapaxar.,49,Type_49,No
+DB00633,Dexmedetomidine,DB00794,Primidone,0.7349085807800293,4,Type_4,The metabolism of Primidone can be increased when combined with Dexmedetomidine.,49,Type_49,No
+DB00501,Cimetidine,DB01254,Dasatinib,0.7157022953033447,73,Type_73,The serum concentration of Dasatinib can be increased when it is combined with Cimetidine.,67,Type_67,No
+DB00612,Bisoprolol,DB00794,Primidone,0.7879684567451477,60,Type_60,Bisoprolol may increase the hypotensive activities of Primidone.,4,Type_4,No
+DB06708,Lumefantrine,DB09280,Lumacaftor,0.7063891291618347,75,Type_75,The serum concentration of Lumacaftor can be decreased when it is combined with Lumefantrine.,4,Type_4,No
+DB00363,Clozapine,DB01267,Paliperidone,0.7454303503036499,20,Type_20,Clozapine may increase the QTc-prolonging activities of Paliperidone.,49,Type_49,No
+DB00751,Epinastine,DB06207,Silodosin,0.7619932293891907,73,Type_73,The serum concentration of Silodosin can be increased when it is combined with Epinastine.,5,Type_5,No
+DB00705,Delavirdine,DB00863,Ranitidine,0.8568779230117798,47,Type_47,The metabolism of Ranitidine can be decreased when combined with Delavirdine.,67,Type_67,No
+DB00673,Aprepitant,DB01395,Drospirenone,0.9793045520782471,73,Type_73,The serum concentration of Drospirenone can be increased when it is combined with Aprepitant.,75,Type_75,No
+DB00929,Misoprostol,DB00936,Salicylic acid,0.7551267743110657,49,Type_49,The risk or severity of adverse effects can be increased when Misoprostol is combined with Salicylic acid.,70,Type_70,No
+DB00373,Timolol,DB01242,Clomipramine,0.8882521390914917,47,Type_47,The metabolism of Clomipramine can be decreased when combined with Timolol.,49,Type_49,No
+DB00468,Quinine,DB00699,Nicergoline,0.743132472038269,49,Type_49,The risk or severity of adverse effects can be increased when Quinine is combined with Nicergoline.,47,Type_47,No
+DB00514,Dextromethorphan,DB00601,Linezolid,0.9726921319961548,64,Type_64,Dextromethorphan may increase the serotonergic activities of Linezolid.,49,Type_49,No
+DB00946,Phenprocoumon,DB01101,Capecitabine,0.8094984292984009,47,Type_47,The metabolism of Capecitabine can be decreased when combined with Phenprocoumon.,73,Type_73,No
+DB01002,Levobupivacaine,DB01263,Posaconazole,0.8526359796524048,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Levobupivacaine.,73,Type_73,No
+DB00359,Sulfadiazine,DB00435,Nitric Oxide,0.9135910868644714,47,Type_47,The metabolism of Nitric Oxide can be decreased when combined with Sulfadiazine.,49,Type_49,No
+DB00343,Diltiazem,DB08932,Macitentan,0.9442543983459473,60,Type_60,Diltiazem may increase the hypotensive activities of Macitentan.,47,Type_47,No
+DB01110,Miconazole,DB09238,Manidipine,0.7492668032646179,47,Type_47,The metabolism of Manidipine can be decreased when combined with Miconazole.,49,Type_49,No
+DB00847,Cysteamine,DB06216,Asenapine,0.9007601141929626,49,Type_49,The risk or severity of adverse effects can be increased when Cysteamine is combined with Asenapine.,70,Type_70,No
+DB01224,Quetiapine,DB04948,Lofexidine,0.7699281573295593,60,Type_60,Quetiapine may increase the hypotensive activities of Lofexidine.,49,Type_49,No
+DB00206,Reserpine,DB09236,Lacidipine,0.9503346681594849,49,Type_49,The risk or severity of adverse effects can be increased when Reserpine is combined with Lacidipine.,60,Type_60,No
+DB01218,Halofantrine,DB06636,Isavuconazonium,0.7827867269515991,47,Type_47,The metabolism of Isavuconazonium can be decreased when combined with Halofantrine.,73,Type_73,No
+DB00653,Magnesium sulfate,DB09270,Ubidecarenone,0.8323022723197937,73,Type_73,The serum concentration of Ubidecarenone can be increased when it is combined with Magnesium sulfate.,49,Type_49,No
+DB00582,Voriconazole,DB04938,Ospemifene,0.8744807839393616,47,Type_47,The metabolism of Ospemifene can be decreased when combined with Voriconazole.,73,Type_73,No
+DB00588,Fluticasone propionate,DB05271,Rotigotine,0.8351230621337891,49,Type_49,The risk or severity of adverse effects can be increased when Fluticasone propionate is combined with Rotigotine.,32,Type_32,No
+DB00976,Telithromycin,DB01126,Dutasteride,0.9530659317970276,47,Type_47,The metabolism of Dutasteride can be decreased when combined with Telithromycin.,73,Type_73,No
+DB00264,Metoprolol,DB01074,Perhexiline,0.7534536719322205,60,Type_60,Metoprolol may increase the hypotensive activities of Perhexiline.,73,Type_73,No
+DB01149,Nefazodone,DB09262,Imidafenacin,0.9478535056114197,47,Type_47,The metabolism of Imidafenacin can be decreased when combined with Nefazodone.,73,Type_73,No
+DB01589,Quazepam,DB04871,Lorcaserin,0.8365226984024048,47,Type_47,The metabolism of Lorcaserin can be decreased when combined with Quazepam.,73,Type_73,No
+DB00613,Amodiaquine,DB01103,Quinacrine,0.8110987544059753,47,Type_47,The metabolism of Quinacrine can be decreased when combined with Amodiaquine.,75,Type_75,No
+DB00278,Argatroban,DB00705,Delavirdine,0.7535884976387024,47,Type_47,The metabolism of Delavirdine can be decreased when combined with Argatroban.,75,Type_75,No
+DB00980,Ramelteon,DB01205,Flumazenil,0.9853870868682861,49,Type_49,The risk or severity of adverse effects can be increased when Ramelteon is combined with Flumazenil.,76,Type_76,No
+DB08881,Vemurafenib,DB09389,Norgestrel,0.707744836807251,73,Type_73,The serum concentration of Norgestrel can be increased when it is combined with Vemurafenib.,75,Type_75,No
+DB05521,Telaprevir,DB08875,Cabozantinib,0.7602547407150269,47,Type_47,The metabolism of Cabozantinib can be decreased when combined with Telaprevir.,73,Type_73,No
+DB09079,Nintedanib,DB11268,Protocatechualdehyde,0.7872005105018616,12,Type_12,Nintedanib may decrease the anticoagulant activities of Protocatechualdehyde.,49,Type_49,No
+DB06209,Prasugrel,DB09543,Methyl salicylate,0.8638432621955872,6,Type_6,Prasugrel may increase the anticoagulant activities of Methyl salicylate.,49,Type_49,No
+DB00220,Nelfinavir,DB01194,Brinzolamide,0.7901333570480347,47,Type_47,The metabolism of Brinzolamide can be decreased when combined with Nelfinavir.,73,Type_73,No
+DB00751,Epinastine,DB01167,Itraconazole,0.886639416217804,47,Type_47,The metabolism of Itraconazole can be decreased when combined with Epinastine.,75,Type_75,No
+DB01580,Oxprenolol,DB01614,Acepromazine,0.7530196905136108,60,Type_60,Oxprenolol may increase the hypotensive activities of Acepromazine.,49,Type_49,No
+DB00528,Lercanidipine,DB01162,Terazosin,0.9780514240264893,49,Type_49,The risk or severity of adverse effects can be increased when Lercanidipine is combined with Terazosin.,60,Type_60,No
+DB04868,Nilotinib,DB08815,Lurasidone,0.8325971961021423,20,Type_20,Nilotinib may increase the QTc-prolonging activities of Lurasidone.,73,Type_73,No
+DB00912,Repaglinide,DB08881,Vemurafenib,0.7669098377227783,73,Type_73,The serum concentration of Vemurafenib can be increased when it is combined with Repaglinide.,75,Type_75,No
+DB00320,Dihydroergotamine,DB01321,Josamycin,0.853201150894165,47,Type_47,The metabolism of Josamycin can be decreased when combined with Dihydroergotamine.,73,Type_73,No
+DB00531,Cyclophosphamide,DB01015,Sulfamethoxazole,0.7323788404464722,49,Type_49,The risk or severity of adverse effects can be increased when Cyclophosphamide is combined with Sulfamethoxazole.,47,Type_47,No
+DB00250,Dapsone,DB00359,Sulfadiazine,0.9767757654190063,47,Type_47,The metabolism of Sulfadiazine can be decreased when combined with Dapsone.,49,Type_49,No
+DB08865,Crizotinib,DB09054,Idelalisib,0.7684672474861145,47,Type_47,The metabolism of Idelalisib can be decreased when combined with Crizotinib.,73,Type_73,No
+DB00281,Lidocaine,DB00934,Maprotiline,0.7032049894332886,49,Type_49,The risk or severity of adverse effects can be increased when Lidocaine is combined with Maprotiline.,47,Type_47,No
+DB01235,Levodopa,DB09242,Moxonidine,0.8235134482383728,49,Type_49,The risk or severity of adverse effects can be increased when Levodopa is combined with Moxonidine.,30,Type_30,No
+DB00490,Buspirone,DB01392,Yohimbine,0.9026296734809875,47,Type_47,The metabolism of Yohimbine can be decreased when combined with Buspirone.,70,Type_70,No
+DB00285,Venlafaxine,DB01264,Darunavir,0.7638682723045349,47,Type_47,The metabolism of Darunavir can be decreased when combined with Venlafaxine.,73,Type_73,No
+DB00774,Hydroflumethiazide,DB00966,Telmisartan,0.8918682932853699,49,Type_49,The risk or severity of adverse effects can be increased when Hydroflumethiazide is combined with Telmisartan.,60,Type_60,No
+DB08893,Mirabegron,DB09053,Ibrutinib,0.7729737758636475,73,Type_73,The serum concentration of Ibrutinib can be increased when it is combined with Mirabegron.,47,Type_47,No
+DB00972,Azelastine,DB01250,Olsalazine,0.7226650714874268,49,Type_49,The risk or severity of adverse effects can be increased when Azelastine is combined with Olsalazine.,57,Type_57,No
+DB00203,Sildenafil,DB01118,Amiodarone,0.8502922058105469,47,Type_47,The metabolism of Amiodarone can be decreased when combined with Sildenafil.,73,Type_73,No
+DB01169,Arsenic trioxide,DB01623,Thiothixene,0.7145192623138428,33,Type_33,The risk or severity of QTc prolongation can be increased when Arsenic trioxide is combined with Thiothixene.,20,Type_20,No
+DB01090,Pentolinium,DB01580,Oxprenolol,0.7541828155517578,10,Type_10,Pentolinium may increase the antihypertensive activities of Oxprenolol.,60,Type_60,No
+DB00904,Ondansetron,DB04871,Lorcaserin,0.7263872027397156,47,Type_47,The metabolism of Lorcaserin can be decreased when combined with Ondansetron.,64,Type_64,No
+DB00244,Mesalazine,DB04743,Nimesulide,0.8536547422409058,57,Type_57,Mesalazine may increase the nephrotoxic activities of Nimesulide.,49,Type_49,No
+DB00495,Zidovudine,DB00722,Lisinopril,0.8041651248931885,49,Type_49,The risk or severity of adverse effects can be increased when Zidovudine is combined with Lisinopril.,75,Type_75,No
+DB00313,Valproic acid,DB01601,Lopinavir,0.7019838094711304,47,Type_47,The metabolism of Lopinavir can be decreased when combined with Valproic acid.,75,Type_75,No
+DB08881,Vemurafenib,DB08903,Bedaquiline,0.7734763026237488,73,Type_73,The serum concentration of Bedaquiline can be increased when it is combined with Vemurafenib.,75,Type_75,No
+DB00370,Mirtazapine,DB06695,Dabigatran etexilate,0.8367676138877869,77,Type_77,The serum concentration of the active metabolites of Dabigatran etexilate can be increased when Dabigatran etexilate is used in combination with Mirtazapine.,73,Type_73,No
+DB08880,Teriflunomide,DB08881,Vemurafenib,0.7124775052070618,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Teriflunomide.,73,Type_73,No
+DB00661,Verapamil,DB01320,Fosphenytoin,0.8832594156265259,4,Type_4,The metabolism of Fosphenytoin can be increased when combined with Verapamil.,73,Type_73,No
+DB00297,Bupivacaine,DB01203,Nadolol,0.7288660407066345,49,Type_49,The risk or severity of adverse effects can be increased when Bupivacaine is combined with Nadolol.,73,Type_73,No
+DB01211,Clarithromycin,DB09262,Imidafenacin,0.8515518307685852,47,Type_47,The metabolism of Imidafenacin can be decreased when combined with Clarithromycin.,73,Type_73,No
+DB00282,Pamidronic acid,DB00448,Lansoprazole,0.7655970454216003,49,Type_49,The risk or severity of adverse effects can be increased when Pamidronic acid is combined with Lansoprazole.,70,Type_70,No
+DB00296,Ropivacaine,DB00734,Risperidone,0.8076420426368713,49,Type_49,The risk or severity of adverse effects can be increased when Ropivacaine is combined with Risperidone.,60,Type_60,No
+DB00315,Zolmitriptan,DB00601,Linezolid,0.8638381361961365,64,Type_64,Zolmitriptan may increase the serotonergic activities of Linezolid.,49,Type_49,No
+DB01195,Flecainide,DB08864,Rilpivirine,0.8099534511566162,73,Type_73,The serum concentration of Rilpivirine can be increased when it is combined with Flecainide.,20,Type_20,No
+DB01320,Fosphenytoin,DB08881,Vemurafenib,0.9435880184173584,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Fosphenytoin.,73,Type_73,No
+DB00831,Trifluoperazine,DB01200,Bromocriptine,0.7785047292709351,49,Type_49,The risk or severity of adverse effects can be increased when Trifluoperazine is combined with Bromocriptine.,70,Type_70,No
+DB00679,Thioridazine,DB00967,Desloratadine,0.996065080165863,49,Type_49,The risk or severity of adverse effects can be increased when Thioridazine is combined with Desloratadine.,73,Type_73,No
+DB00325,Nitroprusside,DB01193,Acebutolol,0.9305513501167297,60,Type_60,Nitroprusside may increase the hypotensive activities of Acebutolol.,49,Type_49,No
+DB09231,Benidipine,DB09270,Ubidecarenone,0.8618625402450562,73,Type_73,The serum concentration of Ubidecarenone can be increased when it is combined with Benidipine.,49,Type_49,No
+DB00655,Estrone,DB04938,Ospemifene,0.8161861896514893,47,Type_47,The metabolism of Ospemifene can be decreased when combined with Estrone.,49,Type_49,No
+DB01234,Dexamethasone,DB09070,Tibolone,0.9359269142150879,81,Type_81,Dexamethasone may increase the thrombogenic activities of Tibolone.,73,Type_73,No
+DB00834,Mifepristone,DB05294,Vandetanib,0.7202146649360657,20,Type_20,Mifepristone may increase the QTc-prolonging activities of Vandetanib.,73,Type_73,No
+DB00363,Clozapine,DB01005,Hydroxyurea,0.8565525412559509,73,Type_73,The serum concentration of Hydroxyurea can be increased when it is combined with Clozapine.,49,Type_49,No
+DB01107,Methyprylon,DB06603,Panobinostat,0.7554842829704285,47,Type_47,The metabolism of Panobinostat can be decreased when combined with Methyprylon.,73,Type_73,No
+DB01200,Bromocriptine,DB04948,Lofexidine,0.7769351601600647,25,Type_25,Bromocriptine may increase the atrioventricular blocking (AV block) activities of Lofexidine.,49,Type_49,No
+DB00866,Alprenolol,DB08808,Bupranolol,0.7535189986228943,54,Type_54,Alprenolol may increase the bradycardic activities of Bupranolol.,60,Type_60,No
+DB00261,Anagrelide,DB00489,Sotalol,0.7818735837936401,20,Type_20,Anagrelide may increase the QTc-prolonging activities of Sotalol.,33,Type_33,No
+DB04272,Citric acid,DB09123,Dienogest,0.7244964241981506,12,Type_12,Citric acid may decrease the anticoagulant activities of Dienogest.,70,Type_70,No
+DB00343,Diltiazem,DB00945,Acetylsalicylic acid,0.8171901702880859,47,Type_47,The metabolism of Acetylsalicylic acid can be decreased when combined with Diltiazem.,6,Type_6,No
+DB05351,Dexlansoprazole,DB08931,Riociguat,0.7006120681762695,47,Type_47,The metabolism of Riociguat can be decreased when combined with Dexlansoprazole.,75,Type_75,No
+DB01026,Ketoconazole,DB08860,Pitavastatin,0.7783432006835938,73,Type_73,The serum concentration of Pitavastatin can be increased when it is combined with Ketoconazole.,47,Type_47,No
+DB00489,Sotalol,DB01158,Bretylium,0.792219340801239,49,Type_49,The risk or severity of adverse effects can be increased when Sotalol is combined with Bretylium.,54,Type_54,No
+DB00264,Metoprolol,DB00349,Clobazam,0.7422276735305786,47,Type_47,The metabolism of Clobazam can be decreased when combined with Metoprolol.,73,Type_73,No
+DB01182,Propafenone,DB01193,Acebutolol,0.8940533995628357,54,Type_54,Propafenone may increase the bradycardic activities of Acebutolol.,73,Type_73,No
+DB00497,Oxycodone,DB01118,Amiodarone,0.808580219745636,47,Type_47,The metabolism of Amiodarone can be decreased when combined with Oxycodone.,49,Type_49,No
+DB05521,Telaprevir,DB09289,Tianeptine,0.8125776648521423,47,Type_47,The metabolism of Tianeptine can be decreased when combined with Telaprevir.,73,Type_73,No
+DB01236,Sevoflurane,DB06695,Dabigatran etexilate,0.946429431438446,77,Type_77,The serum concentration of the active metabolites of Dabigatran etexilate can be increased when Dabigatran etexilate is used in combination with Sevoflurane.,6,Type_6,No
+DB01224,Quetiapine,DB11730,Ribociclib,0.941294252872467,33,Type_33,The risk or severity of QTc prolongation can be increased when Quetiapine is combined with Ribociclib.,73,Type_73,No
+DB01223,Aminophylline,DB01355,Hexobarbital,0.7614522576332092,70,Type_70,The therapeutic efficacy of Hexobarbital can be decreased when used in combination with Aminophylline.,75,Type_75,No
+DB00934,Maprotiline,DB09118,Stiripentol,0.7830407023429871,73,Type_73,The serum concentration of Stiripentol can be increased when it is combined with Maprotiline.,47,Type_47,No
+DB00270,Isradipine,DB00656,Trazodone,0.8988853096961975,20,Type_20,Isradipine may increase the QTc-prolonging activities of Trazodone.,47,Type_47,No
+DB00682,Warfarin,DB01138,Sulfinpyrazone,0.9335777759552002,6,Type_6,Warfarin may increase the anticoagulant activities of Sulfinpyrazone.,47,Type_47,No
+DB00207,Azithromycin,DB00924,Cyclobenzaprine,0.7605948448181152,20,Type_20,Azithromycin may increase the QTc-prolonging activities of Cyclobenzaprine.,47,Type_47,No
+DB00706,Tamsulosin,DB09477,Enalaprilat,0.7800731062889099,60,Type_60,Tamsulosin may increase the hypotensive activities of Enalaprilat.,49,Type_49,No
+DB00364,Sucralfate,DB00682,Warfarin,0.8655247688293457,6,Type_6,Sucralfate may increase the anticoagulant activities of Warfarin.,12,Type_12,No
+DB08918,Levomilnacipran,DB09054,Idelalisib,0.8182986974716187,47,Type_47,The metabolism of Idelalisib can be decreased when combined with Levomilnacipran.,73,Type_73,No
+DB01466,Ethylmorphine,DB06212,Tolvaptan,0.7331517934799194,73,Type_73,The serum concentration of Tolvaptan can be increased when it is combined with Ethylmorphine.,49,Type_49,No
+DB00661,Verapamil,DB04855,Dronedarone,0.9055021405220032,47,Type_47,The metabolism of Dronedarone can be decreased when combined with Verapamil.,25,Type_25,No
+DB01156,Bupropion,DB01589,Quazepam,0.8585288524627686,47,Type_47,The metabolism of Quazepam can be decreased when combined with Bupropion.,73,Type_73,No
+DB00196,Fluconazole,DB07615,Tranilast,0.8186806440353394,47,Type_47,The metabolism of Tranilast can be decreased when combined with Fluconazole.,73,Type_73,No
+DB00564,Carbamazepine,DB06287,Temsirolimus,0.7271618843078613,4,Type_4,The metabolism of Temsirolimus can be increased when combined with Carbamazepine.,75,Type_75,No
+DB00227,Lovastatin,DB00677,Isoflurophate,0.7769170999526978,47,Type_47,The metabolism of Isoflurophate can be decreased when combined with Lovastatin.,73,Type_73,No
+DB00497,Oxycodone,DB01232,Saquinavir,0.7857639789581299,47,Type_47,The metabolism of Saquinavir can be decreased when combined with Oxycodone.,49,Type_49,No
+DB06605,Apixaban,DB08881,Vemurafenib,0.8541543483734131,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Apixaban.,73,Type_73,No
+DB00220,Nelfinavir,DB00736,Esomeprazole,0.868918240070343,47,Type_47,The metabolism of Esomeprazole can be decreased when combined with Nelfinavir.,11,Type_11,No
+DB01609,Deferasirox,DB04920,Clevidipine,0.9086157083511353,75,Type_75,The serum concentration of Clevidipine can be decreased when it is combined with Deferasirox.,73,Type_73,No
+DB06702,Fesoterodine,DB09120,Zucapsaicin,0.9793727993965149,47,Type_47,The metabolism of Zucapsaicin can be decreased when combined with Fesoterodine.,77,Type_77,No
+DB00751,Epinastine,DB00975,Dipyridamole,0.9873372912406921,53,Type_53,Epinastine may increase the antiplatelet activities of Dipyridamole.,6,Type_6,No
+DB00539,Toremifene,DB09063,Ceritinib,0.8246140480041504,20,Type_20,Toremifene may increase the QTc-prolonging activities of Ceritinib.,73,Type_73,No
+DB00486,Nabilone,DB00657,Mecamylamine,0.9931286573410034,49,Type_49,The risk or severity of adverse effects can be increased when Nabilone is combined with Mecamylamine.,85,Type_85,No
+DB00762,Irinotecan,DB01241,Gemfibrozil,0.7428547739982605,47,Type_47,The metabolism of Gemfibrozil can be decreased when combined with Irinotecan.,77,Type_77,No
+DB01264,Darunavir,DB08875,Cabozantinib,0.7669808864593506,47,Type_47,The metabolism of Cabozantinib can be decreased when combined with Darunavir.,73,Type_73,No
+DB01171,Moclobemide,DB08932,Macitentan,0.9546529650688171,60,Type_60,Moclobemide may increase the hypotensive activities of Macitentan.,47,Type_47,No
+DB04878,Voglibose,DB06663,Pasireotide,0.8670058250427246,9,Type_9,Voglibose may increase the hypoglycemic activities of Pasireotide.,70,Type_70,No
+DB00604,Cisapride,DB01224,Quetiapine,0.8873726725578308,20,Type_20,Cisapride may increase the QTc-prolonging activities of Quetiapine.,33,Type_33,No
+DB08881,Vemurafenib,DB09083,Ivabradine,0.7458289861679077,73,Type_73,The serum concentration of Ivabradine can be increased when it is combined with Vemurafenib.,75,Type_75,No
+DB00270,Isradipine,DB00422,Methylphenidate,0.8864781260490417,47,Type_47,The metabolism of Methylphenidate can be decreased when combined with Isradipine.,37,Type_37,No
+DB00257,Clotrimazole,DB06603,Panobinostat,0.8072136640548706,73,Type_73,The serum concentration of Panobinostat can be increased when it is combined with Clotrimazole.,47,Type_47,No
+DB08880,Teriflunomide,DB08899,Enzalutamide,0.9502585530281067,75,Type_75,The serum concentration of Enzalutamide can be decreased when it is combined with Teriflunomide.,47,Type_47,No
+DB00344,Protriptyline,DB09063,Ceritinib,0.9011393785476685,73,Type_73,The serum concentration of Ceritinib can be increased when it is combined with Protriptyline.,20,Type_20,No
+DB00564,Carbamazepine,DB01590,Everolimus,0.7878267168998718,75,Type_75,The serum concentration of Everolimus can be decreased when it is combined with Carbamazepine.,73,Type_73,No
+DB04868,Nilotinib,DB09074,Olaparib,0.7278643250465393,47,Type_47,The metabolism of Olaparib can be decreased when combined with Nilotinib.,73,Type_73,No
+DB00921,Buprenorphine,DB09274,Artesunate,0.9231507182121277,65,Type_65,Buprenorphine may increase the excretion rate of Artesunate which could result in a lower serum level and potentially a reduction in efficacy.,11,Type_11,No
+DB00409,Remoxipride,DB00907,Cocaine,0.7734974026679993,49,Type_49,The risk or severity of adverse effects can be increased when Remoxipride is combined with Cocaine.,47,Type_47,No
+DB00436,Bendroflumethiazide,DB00796,Candesartan cilexetil,0.7962225079536438,49,Type_49,The risk or severity of adverse effects can be increased when Bendroflumethiazide is combined with Candesartan cilexetil.,56,Type_56,No
+DB00246,Ziprasidone,DB06288,Amisulpride,0.8708553314208984,49,Type_49,The risk or severity of adverse effects can be increased when Ziprasidone is combined with Amisulpride.,36,Type_36,No
+DB00482,Celecoxib,DB00554,Piroxicam,0.7813906669616699,49,Type_49,The risk or severity of adverse effects can be increased when Celecoxib is combined with Piroxicam.,47,Type_47,No
+DB01002,Levobupivacaine,DB08881,Vemurafenib,0.822553813457489,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Levobupivacaine.,73,Type_73,No
+DB06210,Eltrombopag,DB09054,Idelalisib,0.7136873006820679,47,Type_47,The metabolism of Idelalisib can be decreased when combined with Eltrombopag.,73,Type_73,No
+DB00353,Methylergometrine,DB00542,Benazepril,0.7297360301017761,49,Type_49,The risk or severity of adverse effects can be increased when Methylergometrine is combined with Benazepril.,73,Type_73,No
+DB00472,Fluoxetine,DB00906,Tiagabine,0.7997288703918457,47,Type_47,The metabolism of Tiagabine can be decreased when combined with Fluoxetine.,49,Type_49,No
+DB01256,Retapamulin,DB01263,Posaconazole,0.9492108225822449,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Retapamulin.,73,Type_73,No
+DB00035,Desmopressin,DB06212,Tolvaptan,0.9981429576873779,49,Type_49,The risk or severity of adverse effects can be increased when Desmopressin is combined with Tolvaptan.,70,Type_70,No
+DB00518,Albendazole,DB00608,Chloroquine,0.9361971020698547,47,Type_47,The metabolism of Chloroquine can be decreased when combined with Albendazole.,75,Type_75,No
+DB00976,Telithromycin,DB09166,Etizolam,0.7617858052253723,47,Type_47,The metabolism of Etizolam can be decreased when combined with Telithromycin.,73,Type_73,No
+DB00178,Ramipril,DB00323,Tolcapone,0.8866912126541138,60,Type_60,Ramipril may increase the hypotensive activities of Tolcapone.,49,Type_49,No
+DB01357,Mestranol,DB01708,Prasterone,0.99648118019104,73,Type_73,The serum concentration of Prasterone can be increased when it is combined with Mestranol.,49,Type_49,No
+DB00697,Tizanidine,DB01171,Moclobemide,0.9527848958969116,49,Type_49,The risk or severity of adverse effects can be increased when Tizanidine is combined with Moclobemide.,73,Type_73,No
+DB00270,Isradipine,DB00758,Clopidogrel,0.9114665985107422,47,Type_47,The metabolism of Clopidogrel can be decreased when combined with Isradipine.,70,Type_70,No
+DB00866,Alprenolol,DB01580,Oxprenolol,0.7297557592391968,25,Type_25,Alprenolol may increase the atrioventricular blocking (AV block) activities of Oxprenolol.,60,Type_60,No
+DB00214,Torasemide,DB04846,Celiprolol,0.831805408000946,49,Type_49,The risk or severity of adverse effects can be increased when Torasemide is combined with Celiprolol.,83,Type_83,No
+DB00503,Ritonavir,DB00822,Disulfiram,0.8103864192962646,47,Type_47,The metabolism of Disulfiram can be decreased when combined with Ritonavir.,49,Type_49,No
+DB00489,Sotalol,DB00714,Apomorphine,0.8062351942062378,49,Type_49,The risk or severity of adverse effects can be increased when Sotalol is combined with Apomorphine.,25,Type_25,No
+DB00471,Montelukast,DB09280,Lumacaftor,0.7364906668663025,4,Type_4,The metabolism of Lumacaftor can be increased when combined with Montelukast.,75,Type_75,No
+DB00205,Pyrimethamine,DB01174,Phenobarbital,0.8040780425071716,4,Type_4,The metabolism of Phenobarbital can be increased when combined with Pyrimethamine.,47,Type_47,No
+DB00320,Dihydroergotamine,DB01392,Yohimbine,0.9256647229194641,37,Type_37,Dihydroergotamine may decrease the antihypertensive activities of Yohimbine.,47,Type_47,No
+DB01095,Fluvastatin,DB13874,Enasidenib,0.7052814960479736,73,Type_73,The serum concentration of Enasidenib can be increased when it is combined with Fluvastatin.,47,Type_47,No
+DB00379,Mexiletine,DB00806,Pentoxifylline,0.9169421792030334,47,Type_47,The metabolism of Pentoxifylline can be decreased when combined with Mexiletine.,73,Type_73,No
+DB06589,Pazopanib,DB09281,Magnesium trisilicate,0.8475003838539124,67,Type_67,Pazopanib can cause a decrease in the absorption of Magnesium trisilicate resulting in a reduced serum concentration and potentially a decrease in efficacy.,75,Type_75,No
+DB00613,Amodiaquine,DB00938,Salmeterol,0.9598938226699829,47,Type_47,The metabolism of Salmeterol can be decreased when combined with Amodiaquine.,73,Type_73,No
+DB00327,Hydromorphone,DB00418,Secobarbital,0.9682596921920776,49,Type_49,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Secobarbital.,4,Type_4,No
+DB00734,Risperidone,DB00899,Remifentanil,0.9723790287971497,49,Type_49,The risk or severity of adverse effects can be increased when Risperidone is combined with Remifentanil.,60,Type_60,No
+DB00182,Amphetamine,DB06767,Ammonium chloride,0.8629490733146667,73,Type_73,The serum concentration of Ammonium chloride can be increased when it is combined with Amphetamine.,75,Type_75,No
+DB01240,Epoprostenol,DB01282,Carbetocin,0.9838418960571289,60,Type_60,Epoprostenol may increase the hypotensive activities of Carbetocin.,49,Type_49,No
+DB00182,Amphetamine,DB01174,Phenobarbital,0.7713649868965149,4,Type_4,The metabolism of Phenobarbital can be increased when combined with Amphetamine.,75,Type_75,No
+DB00418,Secobarbital,DB08808,Bupranolol,0.7854322195053101,60,Type_60,Secobarbital may increase the hypotensive activities of Bupranolol.,75,Type_75,No
+DB00683,Midazolam,DB09054,Idelalisib,0.8511092662811279,47,Type_47,The metabolism of Idelalisib can be decreased when combined with Midazolam.,73,Type_73,No
+DB01151,Desipramine,DB06144,Sertindole,0.8737290501594543,49,Type_49,The risk or severity of adverse effects can be increased when Desipramine is combined with Sertindole.,47,Type_47,No
+DB01242,Clomipramine,DB01319,Fosamprenavir,0.8115975260734558,47,Type_47,The metabolism of Fosamprenavir can be decreased when combined with Clomipramine.,73,Type_73,No
+DB00277,Theophylline,DB04854,Febuxostat,0.9763115048408508,73,Type_73,The serum concentration of Febuxostat can be increased when it is combined with Theophylline.,77,Type_77,No
+DB00521,Carteolol,DB09118,Stiripentol,0.8325936794281006,73,Type_73,The serum concentration of Stiripentol can be increased when it is combined with Carteolol.,47,Type_47,No
+DB09054,Idelalisib,DB12001,Abemaciclib,0.773313581943512,47,Type_47,The metabolism of Abemaciclib can be decreased when combined with Idelalisib.,49,Type_49,No
+DB01011,Metyrapone,DB09288,Propacetamol,0.8910049200057983,73,Type_73,The serum concentration of Propacetamol can be increased when it is combined with Metyrapone.,77,Type_77,No
+DB00622,Nicardipine,DB08932,Macitentan,0.9597711563110352,60,Type_60,Nicardipine may increase the hypotensive activities of Macitentan.,47,Type_47,No
+DB00554,Piroxicam,DB00613,Amodiaquine,0.9576306343078613,47,Type_47,The metabolism of Amodiaquine can be decreased when combined with Piroxicam.,73,Type_73,No
+DB00448,Lansoprazole,DB01026,Ketoconazole,0.8202694654464722,47,Type_47,The metabolism of Ketoconazole can be decreased when combined with Lansoprazole.,75,Type_75,No
+DB00428,Streptozocin,DB08934,Sofosbuvir,0.71928870677948,73,Type_73,The serum concentration of Sofosbuvir can be increased when it is combined with Streptozocin.,75,Type_75,No
+DB00881,Quinapril,DB04576,Fleroxacin,0.8189033269882202,49,Type_49,The risk or severity of adverse effects can be increased when Quinapril is combined with Fleroxacin.,75,Type_75,No
+DB00598,Labetalol,DB00820,Tadalafil,0.7248969674110413,10,Type_10,Labetalol may increase the antihypertensive activities of Tadalafil.,60,Type_60,No
+DB00257,Clotrimazole,DB09073,Palbociclib,0.9915532469749451,73,Type_73,The serum concentration of Palbociclib can be increased when it is combined with Clotrimazole.,47,Type_47,No
+DB01166,Cilostazol,DB01628,Etoricoxib,0.8241526484489441,53,Type_53,Cilostazol may increase the antiplatelet activities of Etoricoxib.,73,Type_73,No
+DB00736,Esomeprazole,DB01263,Posaconazole,0.8991824388504028,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Esomeprazole.,75,Type_75,No
+DB00496,Darifenacin,DB09054,Idelalisib,0.9040236473083496,47,Type_47,The metabolism of Idelalisib can be decreased when combined with Darifenacin.,73,Type_73,No
+DB01095,Fluvastatin,DB08860,Pitavastatin,0.7194456458091736,73,Type_73,The serum concentration of Pitavastatin can be increased when it is combined with Fluvastatin.,47,Type_47,No
+DB00254,Doxycycline,DB09039,Eliglustat,0.7314525246620178,47,Type_47,The metabolism of Eliglustat can be decreased when combined with Doxycycline.,73,Type_73,No
+DB00297,Bupivacaine,DB08881,Vemurafenib,0.817847490310669,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Bupivacaine.,73,Type_73,No
+DB00176,Fluvoxamine,DB00934,Maprotiline,0.8066262602806091,49,Type_49,The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Maprotiline.,47,Type_47,No
+DB00451,Levothyroxine,DB01223,Aminophylline,0.7208893299102783,75,Type_75,The serum concentration of Aminophylline can be decreased when it is combined with Levothyroxine.,4,Type_4,No
+DB00203,Sildenafil,DB00212,Remikiren,0.8847044110298157,10,Type_10,Sildenafil may increase the antihypertensive activities of Remikiren.,73,Type_73,No
+DB00418,Secobarbital,DB04574,Estrone sulfate,0.8176460862159729,4,Type_4,The metabolism of Estrone sulfate can be increased when combined with Secobarbital.,70,Type_70,No
+DB06708,Lumefantrine,DB09241,Methylene blue,0.7251501083374023,47,Type_47,The metabolism of Methylene blue can be decreased when combined with Lumefantrine.,73,Type_73,No
+DB00339,Pyrazinamide,DB01045,Rifampicin,0.8209107518196106,4,Type_4,The metabolism of Rifampicin can be increased when combined with Pyrazinamide.,80,Type_80,No
+DB00320,Dihydroergotamine,DB09120,Zucapsaicin,0.9955413937568665,47,Type_47,The metabolism of Zucapsaicin can be decreased when combined with Dihydroergotamine.,49,Type_49,No
+DB00474,Methohexital,DB09204,Arotinolol,0.8105239272117615,60,Type_60,Methohexital may increase the hypotensive activities of Arotinolol.,75,Type_75,No
+DB00353,Methylergometrine,DB01263,Posaconazole,0.8911609053611755,49,Type_49,The risk or severity of adverse effects can be increased when Methylergometrine is combined with Posaconazole.,73,Type_73,No
+DB00177,Valsartan,DB00477,Chlorpromazine,0.7899491786956787,47,Type_47,The metabolism of Chlorpromazine can be decreased when combined with Valsartan.,49,Type_49,No
+DB00255,Diethylstilbestrol,DB01586,Ursodeoxycholic acid,0.8033477663993835,75,Type_75,The serum concentration of Ursodeoxycholic acid can be decreased when it is combined with Diethylstilbestrol.,70,Type_70,No
+DB00910,Paricalcitol,DB01026,Ketoconazole,0.9562410116195679,47,Type_47,The metabolism of Ketoconazole can be decreased when combined with Paricalcitol.,73,Type_73,No
+DB00396,Progesterone,DB00582,Voriconazole,0.7504338026046753,47,Type_47,The metabolism of Voriconazole can be decreased when combined with Progesterone.,13,Type_13,No
+DB00457,Prazosin,DB07615,Tranilast,0.8745846748352051,37,Type_37,Prazosin may decrease the antihypertensive activities of Tranilast.,60,Type_60,No
+DB00283,Clemastine,DB00834,Mifepristone,0.8091130256652832,73,Type_73,The serum concentration of Mifepristone can be increased when it is combined with Clemastine.,47,Type_47,No
+DB01072,Atazanavir,DB01198,Zopiclone,0.8158144354820251,47,Type_47,The metabolism of Zopiclone can be decreased when combined with Atazanavir.,73,Type_73,No
+DB00675,Tamoxifen,DB01156,Bupropion,0.8549692034721375,47,Type_47,The metabolism of Bupropion can be decreased when combined with Tamoxifen.,73,Type_73,No
+DB00484,Brimonidine,DB05271,Rotigotine,0.7114543914794922,16,Type_16,Brimonidine may increase the central nervous system depressant (CNS depressant) activities of Rotigotine.,32,Type_32,No
+DB00305,Mitomycin,DB00541,Vincristine,0.8895739912986755,73,Type_73,The serum concentration of Vincristine can be increased when it is combined with Mitomycin.,49,Type_49,No
+DB00750,Prilocaine,DB09112,Nitrous acid,0.7220213413238525,32,Type_32,Prilocaine may increase the sedative activities of Nitrous acid.,49,Type_49,No
+DB00393,Nimodipine,DB00774,Hydroflumethiazide,0.9649724960327148,49,Type_49,The risk or severity of adverse effects can be increased when Nimodipine is combined with Hydroflumethiazide.,60,Type_60,No
+DB06800,Methylnaltrexone,DB09272,Eluxadoline,0.8627874255180359,73,Type_73,The serum concentration of Eluxadoline can be increased when it is combined with Methylnaltrexone.,49,Type_49,No
+DB00501,Cimetidine,DB09048,Netupitant,0.9285484552383423,73,Type_73,The serum concentration of Netupitant can be increased when it is combined with Cimetidine.,47,Type_47,No
+DB00564,Carbamazepine,DB08875,Cabozantinib,0.7700698971748352,4,Type_4,The metabolism of Cabozantinib can be increased when combined with Carbamazepine.,75,Type_75,No
+DB00908,Quinidine,DB09183,Dasabuvir,0.907736599445343,47,Type_47,The metabolism of Dasabuvir can be decreased when combined with Quinidine.,73,Type_73,No
+DB00176,Fluvoxamine,DB05246,Methsuximide,0.9451261758804321,49,Type_49,The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Methsuximide.,47,Type_47,No
+DB00831,Trifluoperazine,DB09330,Osimertinib,0.9221231937408447,73,Type_73,The serum concentration of Osimertinib can be increased when it is combined with Trifluoperazine.,75,Type_75,No
+DB00391,Sulpiride,DB01235,Levodopa,0.9874330163002014,49,Type_49,The risk or severity of adverse effects can be increased when Sulpiride is combined with Levodopa.,70,Type_70,No
+DB00780,Phenelzine,DB01174,Phenobarbital,0.9534006118774414,49,Type_49,The risk or severity of adverse effects can be increased when Phenelzine is combined with Phenobarbital.,60,Type_60,No
+DB00808,Indapamide,DB01174,Phenobarbital,0.7912930250167847,60,Type_60,Indapamide may increase the hypotensive activities of Phenobarbital.,4,Type_4,No
+DB01222,Budesonide,DB06636,Isavuconazonium,0.8156319260597229,47,Type_47,The metabolism of Isavuconazonium can be decreased when combined with Budesonide.,73,Type_73,No
+DB01202,Levetiracetam,DB06148,Mianserin,0.8093131184577942,49,Type_49,The risk or severity of adverse effects can be increased when Levetiracetam is combined with Mianserin.,70,Type_70,No
+DB00732,Atracurium besylate,DB04574,Estrone sulfate,0.784031867980957,73,Type_73,The serum concentration of Estrone sulfate can be increased when it is combined with Atracurium besylate.,22,Type_22,No
+DB00182,Amphetamine,DB00956,Hydrocodone,0.9299479126930237,69,Type_69,Amphetamine may increase the analgesic activities of Hydrocodone.,49,Type_49,No
+DB00166,Lipoic acid,DB01397,Magnesium salicylate,0.9941805601119995,70,Type_70,The therapeutic efficacy of Magnesium salicylate can be decreased when used in combination with Lipoic acid.,67,Type_67,No
+DB00313,Valproic acid,DB06201,Rufinamide,0.9712601900100708,49,Type_49,The risk or severity of adverse effects can be increased when Valproic acid is combined with Rufinamide.,73,Type_73,No
+DB00956,Hydrocodone,DB01045,Rifampicin,0.8910360336303711,4,Type_4,The metabolism of Rifampicin can be increased when combined with Hydrocodone.,75,Type_75,No
+DB00176,Fluvoxamine,DB01656,Roflumilast,0.7259821891784668,73,Type_73,The serum concentration of Roflumilast can be increased when it is combined with Fluvoxamine.,77,Type_77,No
+DB00215,Citalopram,DB00914,Phenformin,0.9856385588645935,9,Type_9,Citalopram may increase the hypoglycemic activities of Phenformin.,47,Type_47,No
+DB00289,Atomoxetine,DB09083,Ivabradine,0.7743670344352722,20,Type_20,Atomoxetine may increase the QTc-prolonging activities of Ivabradine.,73,Type_73,No
+DB01232,Saquinavir,DB12267,Brigatinib,0.890268862247467,47,Type_47,The metabolism of Brigatinib can be decreased when combined with Saquinavir.,75,Type_75,No
+DB00334,Olanzapine,DB06290,Simeprevir,0.9828255772590637,73,Type_73,The serum concentration of Simeprevir can be increased when it is combined with Olanzapine.,47,Type_47,No
+DB00263,Sulfisoxazole,DB08815,Lurasidone,0.875375509262085,20,Type_20,Sulfisoxazole may increase the QTc-prolonging activities of Lurasidone.,73,Type_73,No
+DB00207,Azithromycin,DB00511,Acetyldigitoxin,0.7549344301223755,58,Type_58,Azithromycin may decrease the cardiotoxic activities of Acetyldigitoxin.,73,Type_73,No
+DB00502,Haloperidol,DB01189,Desflurane,0.822450578212738,49,Type_49,The risk or severity of adverse effects can be increased when Haloperidol is combined with Desflurane.,20,Type_20,No
+DB00539,Toremifene,DB01100,Pimozide,0.7839961051940918,20,Type_20,Toremifene may increase the QTc-prolonging activities of Pimozide.,33,Type_33,No
+DB01012,Cinacalcet,DB09068,Vortioxetine,0.9527463912963867,47,Type_47,The metabolism of Vortioxetine can be decreased when combined with Cinacalcet.,73,Type_73,No
+DB01067,Glipizide,DB01263,Posaconazole,0.7013683915138245,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Glipizide.,9,Type_9,No
+DB00195,Betaxolol,DB00468,Quinine,0.9415061473846436,47,Type_47,The metabolism of Quinine can be decreased when combined with Betaxolol.,60,Type_60,No
+DB00320,Dihydroergotamine,DB00333,Methadone,0.9280974864959717,47,Type_47,The metabolism of Methadone can be decreased when combined with Dihydroergotamine.,49,Type_49,No
+DB00325,Nitroprusside,DB00521,Carteolol,0.9072213768959045,60,Type_60,Nitroprusside may increase the hypotensive activities of Carteolol.,49,Type_49,No
+DB00458,Imipramine,DB00589,Lisuride,0.805086612701416,49,Type_49,The risk or severity of adverse effects can be increased when Imipramine is combined with Lisuride.,47,Type_47,No
+DB00976,Telithromycin,DB09262,Imidafenacin,0.9529995322227478,47,Type_47,The metabolism of Imidafenacin can be decreased when combined with Telithromycin.,73,Type_73,No
+DB01129,Rabeprazole,DB01263,Posaconazole,0.9054346084594727,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Rabeprazole.,75,Type_75,No
+DB00312,Pentobarbital,DB08875,Cabozantinib,0.837993323802948,4,Type_4,The metabolism of Cabozantinib can be increased when combined with Pentobarbital.,75,Type_75,No
+DB00318,Codeine,DB00333,Methadone,0.7601875066757202,49,Type_49,The risk or severity of adverse effects can be increased when Codeine is combined with Methadone.,70,Type_70,No
+DB00227,Lovastatin,DB00956,Hydrocodone,0.774231493473053,47,Type_47,The metabolism of Hydrocodone can be decreased when combined with Lovastatin.,73,Type_73,No
+DB00811,Ribavirin,DB00943,Zalcitabine,0.9895601272583008,4,Type_4,The metabolism of Zalcitabine can be increased when combined with Ribavirin.,80,Type_80,No
+DB00976,Telithromycin,DB01002,Levobupivacaine,0.8917872309684753,47,Type_47,The metabolism of Levobupivacaine can be decreased when combined with Telithromycin.,73,Type_73,No
+DB00714,Apomorphine,DB00849,Methylphenobarbital,0.7056488990783691,49,Type_49,The risk or severity of adverse effects can be increased when Apomorphine is combined with Methylphenobarbital.,60,Type_60,No
+DB01074,Perhexiline,DB09238,Manidipine,0.8698397278785706,60,Type_60,Perhexiline may increase the hypotensive activities of Manidipine.,47,Type_47,No
+DB01131,Proguanil,DB06708,Lumefantrine,0.8011197447776794,47,Type_47,The metabolism of Lumefantrine can be decreased when combined with Proguanil.,33,Type_33,No
+DB00501,Cimetidine,DB00908,Quinidine,0.9510505199432373,47,Type_47,The metabolism of Quinidine can be decreased when combined with Cimetidine.,73,Type_73,No
+DB00884,Risedronic acid,DB01162,Terazosin,0.9906644821166992,49,Type_49,The risk or severity of adverse effects can be increased when Risedronic acid is combined with Terazosin.,60,Type_60,No
+DB00363,Clozapine,DB06700,Desvenlafaxine,0.7619584798812866,49,Type_49,The risk or severity of adverse effects can be increased when Clozapine is combined with Desvenlafaxine.,73,Type_73,No
+DB00220,Nelfinavir,DB00448,Lansoprazole,0.7733362317085266,47,Type_47,The metabolism of Lansoprazole can be decreased when combined with Nelfinavir.,11,Type_11,No
+DB00243,Ranolazine,DB09296,Ombitasvir,0.8187493085861206,47,Type_47,The metabolism of Ombitasvir can be decreased when combined with Ranolazine.,73,Type_73,No
+DB00292,Etomidate,DB00472,Fluoxetine,0.7714037299156189,37,Type_37,Etomidate may decrease the antihypertensive activities of Fluoxetine.,49,Type_49,No
+DB00679,Thioridazine,DB01100,Pimozide,0.7194811701774597,20,Type_20,Thioridazine may increase the QTc-prolonging activities of Pimozide.,73,Type_73,No
+DB00861,Diflunisal,DB11079,Trolamine salicylate,0.9968063831329346,49,Type_49,The risk or severity of adverse effects can be increased when Diflunisal is combined with Trolamine salicylate.,6,Type_6,No
+DB00794,Primidone,DB06605,Apixaban,0.943855345249176,4,Type_4,The metabolism of Apixaban can be increased when combined with Primidone.,75,Type_75,No
+DB09073,Palbociclib,DB09280,Lumacaftor,0.753463625907898,73,Type_73,The serum concentration of Lumacaftor can be increased when it is combined with Palbociclib.,75,Type_75,No
+DB04865,Omacetaxine mepesuccinate,DB13783,Acemetacin,0.9616317749023438,66,Type_66,The risk or severity of bleeding can be increased when Omacetaxine mepesuccinate is combined with Acemetacin.,49,Type_49,No
+DB00582,Voriconazole,DB01002,Levobupivacaine,0.7963244318962097,47,Type_47,The metabolism of Levobupivacaine can be decreased when combined with Voriconazole.,73,Type_73,No
+DB00169,Cholecalciferol,DB01071,Mequitazine,0.7025346159934998,70,Type_70,The therapeutic efficacy of Mequitazine can be decreased when used in combination with Cholecalciferol.,47,Type_47,No
+DB00474,Methohexital,DB01240,Epoprostenol,0.7564422488212585,4,Type_4,The metabolism of Epoprostenol can be increased when combined with Methohexital.,60,Type_60,No
+DB00619,Imatinib,DB00956,Hydrocodone,0.9529725909233093,47,Type_47,The metabolism of Hydrocodone can be decreased when combined with Imatinib.,73,Type_73,No
+DB01071,Mequitazine,DB09167,Dosulepin,0.8657507300376892,47,Type_47,The metabolism of Dosulepin can be decreased when combined with Mequitazine.,73,Type_73,No
+DB00422,Methylphenidate,DB01069,Promethazine,0.8829582929611206,49,Type_49,The risk or severity of adverse effects can be increased when Methylphenidate is combined with Promethazine.,18,Type_18,No
+DB00613,Amodiaquine,DB09054,Idelalisib,0.7737776041030884,47,Type_47,The metabolism of Idelalisib can be decreased when combined with Amodiaquine.,73,Type_73,No
+DB00715,Paroxetine,DB09072,Sodium oxybate,0.9644604325294495,16,Type_16,Paroxetine may increase the central nervous system depressant (CNS depressant) activities of Sodium oxybate.,49,Type_49,No
+DB00523,Alitretinoin,DB09093,Chlortetracycline,0.7114884257316589,70,Type_70,The therapeutic efficacy of Chlortetracycline can be decreased when used in combination with Alitretinoin.,49,Type_49,No
+DB00975,Dipyridamole,DB08931,Riociguat,0.9513024687767029,49,Type_49,The risk or severity of adverse effects can be increased when Dipyridamole is combined with Riociguat.,60,Type_60,No
+DB00035,Desmopressin,DB00749,Etodolac,0.7553490996360779,70,Type_70,The therapeutic efficacy of Etodolac can be decreased when used in combination with Desmopressin.,49,Type_49,No
+DB00904,Ondansetron,DB01264,Darunavir,0.7472743988037109,47,Type_47,The metabolism of Darunavir can be decreased when combined with Ondansetron.,73,Type_73,No
+DB00613,Amodiaquine,DB00850,Perphenazine,0.8629920482635498,47,Type_47,The metabolism of Perphenazine can be decreased when combined with Amodiaquine.,73,Type_73,No
+DB00328,Indomethacin,DB01349,Tasosartan,0.8346573114395142,47,Type_47,The metabolism of Tasosartan can be decreased when combined with Indomethacin.,49,Type_49,No
+DB00391,Sulpiride,DB09104,Magnesium hydroxide,0.8281782269477844,67,Type_67,Sulpiride can cause a decrease in the absorption of Magnesium hydroxide resulting in a reduced serum concentration and potentially a decrease in efficacy.,75,Type_75,No
+DB00289,Atomoxetine,DB00393,Nimodipine,0.8846949934959412,47,Type_47,The metabolism of Nimodipine can be decreased when combined with Atomoxetine.,73,Type_73,No
+DB00246,Ziprasidone,DB09078,Lenvatinib,0.7665687203407288,20,Type_20,Ziprasidone may increase the QTc-prolonging activities of Lenvatinib.,47,Type_47,No
+DB00193,Tramadol,DB00257,Clotrimazole,0.8391003608703613,47,Type_47,The metabolism of Clotrimazole can be decreased when combined with Tramadol.,70,Type_70,No
+DB00706,Tamsulosin,DB09204,Arotinolol,0.8513904809951782,49,Type_49,The risk or severity of adverse effects can be increased when Tamsulosin is combined with Arotinolol.,30,Type_30,No
+DB00622,Nicardipine,DB01169,Arsenic trioxide,0.8237175941467285,49,Type_49,The risk or severity of adverse effects can be increased when Nicardipine is combined with Arsenic trioxide.,20,Type_20,No
+DB01115,Nifedipine,DB06697,Artemether,0.7140527367591858,47,Type_47,The metabolism of Artemether can be decreased when combined with Nifedipine.,49,Type_49,No
+DB00204,Dofetilide,DB08930,Dolutegravir,0.7744815349578857,75,Type_75,The serum concentration of Dolutegravir can be decreased when it is combined with Dofetilide.,73,Type_73,No
+DB00678,Losartan,DB00800,Fenoldopam,0.7341389060020447,49,Type_49,The risk or severity of adverse effects can be increased when Losartan is combined with Fenoldopam.,60,Type_60,No
+DB00515,Cisplatin,DB00531,Cyclophosphamide,0.9127787351608276,49,Type_49,The risk or severity of adverse effects can be increased when Cisplatin is combined with Cyclophosphamide.,15,Type_15,No
+DB00252,Phenytoin,DB01544,Flunitrazepam,0.9276886582374573,4,Type_4,The metabolism of Flunitrazepam can be increased when combined with Phenytoin.,73,Type_73,No
+DB00280,Disopyramide,DB00539,Toremifene,0.7967632412910461,20,Type_20,Disopyramide may increase the QTc-prolonging activities of Toremifene.,33,Type_33,No
+DB00624,Testosterone,DB01708,Prasterone,0.9992732405662537,74,Type_74,Testosterone may increase the fluid retaining activities of Prasterone.,49,Type_49,No
+DB01124,Tolbutamide,DB01544,Flunitrazepam,0.822861909866333,70,Type_70,The therapeutic efficacy of Flunitrazepam can be decreased when used in combination with Tolbutamide.,47,Type_47,No
+DB00661,Verapamil,DB01295,Bevantolol,0.8229489922523499,49,Type_49,The risk or severity of adverse effects can be increased when Verapamil is combined with Bevantolol.,60,Type_60,No
+DB00338,Omeprazole,DB00363,Clozapine,0.8904191851615906,47,Type_47,The metabolism of Clozapine can be decreased when combined with Omeprazole.,75,Type_75,No
+DB01143,Amifostine,DB01193,Acebutolol,0.821507453918457,49,Type_49,The risk or severity of adverse effects can be increased when Amifostine is combined with Acebutolol.,60,Type_60,No
+DB00254,Doxycycline,DB09073,Palbociclib,0.9838773608207703,73,Type_73,The serum concentration of Palbociclib can be increased when it is combined with Doxycycline.,47,Type_47,No
+DB00604,Cisapride,DB01100,Pimozide,0.8925653100013733,20,Type_20,Cisapride may increase the QTc-prolonging activities of Pimozide.,33,Type_33,No
+DB00450,Droperidol,DB08881,Vemurafenib,0.9375928044319153,20,Type_20,Droperidol may increase the QTc-prolonging activities of Vemurafenib.,33,Type_33,No
+DB01396,Digitoxin,DB08873,Boceprevir,0.8811203837394714,73,Type_73,The serum concentration of Boceprevir can be increased when it is combined with Digitoxin.,47,Type_47,No
+DB00273,Topiramate,DB00908,Quinidine,0.8924857974052429,47,Type_47,The metabolism of Quinidine can be decreased when combined with Topiramate.,49,Type_49,No
+DB00585,Nizatidine,DB00705,Delavirdine,0.8273986577987671,75,Type_75,The serum concentration of Delavirdine can be decreased when it is combined with Nizatidine.,67,Type_67,No
+DB00503,Ritonavir,DB00588,Fluticasone propionate,0.9371729493141174,47,Type_47,The metabolism of Fluticasone propionate can be decreased when combined with Ritonavir.,73,Type_73,No
+DB01076,Atorvastatin,DB01587,Ketazolam,0.7019217610359192,73,Type_73,The serum concentration of Ketazolam can be increased when it is combined with Atorvastatin.,49,Type_49,No
+DB00312,Pentobarbital,DB08881,Vemurafenib,0.9371384978294373,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Pentobarbital.,4,Type_4,No
+DB05812,Abiraterone,DB06736,Aceclofenac,0.7057347893714905,73,Type_73,The serum concentration of Aceclofenac can be increased when it is combined with Abiraterone.,47,Type_47,No
+DB00598,Labetalol,DB09227,Barnidipine,0.7643008232116699,49,Type_49,The risk or severity of adverse effects can be increased when Labetalol is combined with Barnidipine.,60,Type_60,No
+DB00398,Sorafenib,DB00559,Bosentan,0.7038752436637878,75,Type_75,The serum concentration of Bosentan can be decreased when it is combined with Sorafenib.,73,Type_73,No
+DB00501,Cimetidine,DB01175,Escitalopram,0.9644977450370789,47,Type_47,The metabolism of Escitalopram can be decreased when combined with Cimetidine.,73,Type_73,No
+DB00908,Quinidine,DB00936,Salicylic acid,0.7818193435668945,47,Type_47,The metabolism of Salicylic acid can be decreased when combined with Quinidine.,73,Type_73,No
+DB09167,Dosulepin,DB09242,Moxonidine,0.9442159533500671,37,Type_37,Dosulepin may decrease the antihypertensive activities of Moxonidine.,70,Type_70,No
+DB00091,Cyclosporine,DB01181,Ifosfamide,0.7994945049285889,47,Type_47,The metabolism of Ifosfamide can be decreased when combined with Cyclosporine.,11,Type_11,No
+DB00477,Chlorpromazine,DB06770,Benzyl alcohol,0.7927936911582947,49,Type_49,The risk or severity of adverse effects can be increased when Chlorpromazine is combined with Benzyl alcohol.,47,Type_47,No
+DB00289,Atomoxetine,DB00907,Cocaine,0.8754712343215942,47,Type_47,The metabolism of Cocaine can be decreased when combined with Atomoxetine.,73,Type_73,No
+DB00635,Prednisone,DB06335,Saxagliptin,0.8188877105712891,70,Type_70,The therapeutic efficacy of Saxagliptin can be decreased when used in combination with Prednisone.,75,Type_75,No
+DB00727,Nitroglycerin,DB08931,Riociguat,0.995261549949646,49,Type_49,The risk or severity of adverse effects can be increased when Nitroglycerin is combined with Riociguat.,60,Type_60,No
+DB00468,Quinine,DB00501,Cimetidine,0.9557234048843384,47,Type_47,The metabolism of Cimetidine can be decreased when combined with Quinine.,73,Type_73,No
+DB00400,Griseofulvin,DB01201,Rifapentine,0.7779250144958496,4,Type_4,The metabolism of Rifapentine can be increased when combined with Griseofulvin.,73,Type_73,No
+DB00608,Chloroquine,DB08868,Fingolimod,0.7250914573669434,47,Type_47,The metabolism of Fingolimod can be decreased when combined with Chloroquine.,20,Type_20,No
+DB00252,Phenytoin,DB00670,Pirenzepine,0.7112089991569519,16,Type_16,Phenytoin may increase the central nervous system depressant (CNS depressant) activities of Pirenzepine.,73,Type_73,No
+DB00474,Methohexital,DB00653,Magnesium sulfate,0.715337336063385,49,Type_49,The risk or severity of adverse effects can be increased when Methohexital is combined with Magnesium sulfate.,16,Type_16,No
+DB00373,Timolol,DB01580,Oxprenolol,0.7106858491897583,25,Type_25,Timolol may increase the atrioventricular blocking (AV block) activities of Oxprenolol.,60,Type_60,No
+DB00661,Verapamil,DB00976,Telithromycin,0.9386012554168701,47,Type_47,The metabolism of Telithromycin can be decreased when combined with Verapamil.,54,Type_54,No
+DB01149,Nefazodone,DB01583,Liotrix,0.8126280307769775,73,Type_73,The serum concentration of Liotrix can be increased when it is combined with Nefazodone.,70,Type_70,No
+DB00805,Minaprine,DB01264,Darunavir,0.8699367642402649,47,Type_47,The metabolism of Darunavir can be decreased when combined with Minaprine.,73,Type_73,No
+DB01118,Amiodarone,DB06414,Etravirine,0.8157470226287842,47,Type_47,The metabolism of Etravirine can be decreased when combined with Amiodarone.,75,Type_75,No
+DB00224,Indinavir,DB00912,Repaglinide,0.9151546955108643,47,Type_47,The metabolism of Repaglinide can be decreased when combined with Indinavir.,73,Type_73,No
+DB01095,Fluvastatin,DB04938,Ospemifene,0.7062383890151978,73,Type_73,The serum concentration of Ospemifene can be increased when it is combined with Fluvastatin.,47,Type_47,No
+DB00476,Duloxetine,DB04841,Flunarizine,0.8809237480163574,49,Type_49,The risk or severity of adverse effects can be increased when Duloxetine is combined with Flunarizine.,47,Type_47,No
+DB00203,Sildenafil,DB01149,Nefazodone,0.8441696166992188,47,Type_47,The metabolism of Nefazodone can be decreased when combined with Sildenafil.,73,Type_73,No
+DB00673,Aprepitant,DB00945,Acetylsalicylic acid,0.8866153359413147,73,Type_73,The serum concentration of Acetylsalicylic acid can be increased when it is combined with Aprepitant.,4,Type_4,No
+DB00715,Paroxetine,DB09048,Netupitant,0.9506588578224182,73,Type_73,The serum concentration of Netupitant can be increased when it is combined with Paroxetine.,47,Type_47,No
+DB01166,Cilostazol,DB02709,Resveratrol,0.7086882591247559,53,Type_53,Cilostazol may increase the antiplatelet activities of Resveratrol.,6,Type_6,No
+DB00327,Hydromorphone,DB00752,Tranylcypromine,0.7405174374580383,49,Type_49,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Tranylcypromine.,47,Type_47,No
+DB00252,Phenytoin,DB00962,Zaleplon,0.7555935978889465,49,Type_49,The risk or severity of adverse effects can be increased when Phenytoin is combined with Zaleplon.,75,Type_75,No
+DB06335,Saxagliptin,DB08864,Rilpivirine,0.8386831879615784,73,Type_73,The serum concentration of Rilpivirine can be increased when it is combined with Saxagliptin.,75,Type_75,No
+DB04839,Cyproterone acetate,DB12332,Rucaparib,0.7730447053909302,73,Type_73,The serum concentration of Rucaparib can be increased when it is combined with Cyproterone acetate.,75,Type_75,No
+DB00872,Conivaptan,DB09280,Lumacaftor,0.8206762671470642,73,Type_73,The serum concentration of Lumacaftor can be increased when it is combined with Conivaptan.,4,Type_4,No
+DB00582,Voriconazole,DB01129,Rabeprazole,0.8095610737800598,47,Type_47,The metabolism of Rabeprazole can be decreased when combined with Voriconazole.,73,Type_73,No
+DB00486,Nabilone,DB08941,Isoxsuprine,0.9656326174736023,49,Type_49,The risk or severity of adverse effects can be increased when Nabilone is combined with Isoxsuprine.,85,Type_85,No
+DB00409,Remoxipride,DB00752,Tranylcypromine,0.7392818927764893,49,Type_49,The risk or severity of adverse effects can be increased when Remoxipride is combined with Tranylcypromine.,47,Type_47,No
+DB00091,Cyclosporine,DB09074,Olaparib,0.9141063690185547,47,Type_47,The metabolism of Olaparib can be decreased when combined with Cyclosporine.,73,Type_73,No
+DB00315,Zolmitriptan,DB00904,Ondansetron,0.922258198261261,49,Type_49,The risk or severity of adverse effects can be increased when Zolmitriptan is combined with Ondansetron.,64,Type_64,No
+DB00153,Ergocalciferol,DB01070,Dihydrotachysterol,0.8044053912162781,51,Type_51,Ergocalciferol may increase the hypercalcemic activities of Dihydrotachysterol.,49,Type_49,No
+DB01174,Phenobarbital,DB01244,Bepridil,0.822170078754425,4,Type_4,The metabolism of Bepridil can be increased when combined with Phenobarbital.,60,Type_60,No
+DB00220,Nelfinavir,DB00863,Ranitidine,0.8394941687583923,47,Type_47,The metabolism of Ranitidine can be decreased when combined with Nelfinavir.,75,Type_75,No
+DB00393,Nimodipine,DB01143,Amifostine,0.8616890907287598,49,Type_49,The risk or severity of adverse effects can be increased when Nimodipine is combined with Amifostine.,60,Type_60,No
+DB00104,Octreotide,DB01015,Sulfamethoxazole,0.8547030687332153,20,Type_20,Octreotide may increase the QTc-prolonging activities of Sulfamethoxazole.,9,Type_9,No
+DB01021,Trichlormethiazide,DB08907,Canagliflozin,0.8467757701873779,49,Type_49,The risk or severity of adverse effects can be increased when Trichlormethiazide is combined with Canagliflozin.,70,Type_70,No
+DB00280,Disopyramide,DB01100,Pimozide,0.8807988166809082,20,Type_20,Disopyramide may increase the QTc-prolonging activities of Pimozide.,33,Type_33,No
+DB00834,Mifepristone,DB01015,Sulfamethoxazole,0.7411858439445496,20,Type_20,Mifepristone may increase the QTc-prolonging activities of Sulfamethoxazole.,73,Type_73,No
+DB00501,Cimetidine,DB04868,Nilotinib,0.9009462594985962,47,Type_47,The metabolism of Nilotinib can be decreased when combined with Cimetidine.,75,Type_75,No
+DB01198,Zopiclone,DB01205,Flumazenil,0.9821401238441467,49,Type_49,The risk or severity of adverse effects can be increased when Zopiclone is combined with Flumazenil.,76,Type_76,No
+DB00248,Cabergoline,DB00255,Diethylstilbestrol,0.7043161988258362,47,Type_47,The metabolism of Diethylstilbestrol can be decreased when combined with Cabergoline.,49,Type_49,No
+DB01580,Oxprenolol,DB09118,Stiripentol,0.8448127508163452,73,Type_73,The serum concentration of Stiripentol can be increased when it is combined with Oxprenolol.,49,Type_49,No
+DB00243,Ranolazine,DB00320,Dihydroergotamine,0.7067176103591919,47,Type_47,The metabolism of Dihydroergotamine can be decreased when combined with Ranolazine.,73,Type_73,No
+DB08816,Ticagrelor,DB11079,Trolamine salicylate,0.8417542576789856,6,Type_6,Ticagrelor may increase the anticoagulant activities of Trolamine salicylate.,49,Type_49,No
+DB00531,Cyclophosphamide,DB08893,Mirabegron,0.9979616403579712,15,Type_15,Cyclophosphamide may increase the cardiotoxic activities of Mirabegron.,47,Type_47,No
+DB04844,Tetrabenazine,DB06595,Midostaurin,0.9166297912597656,47,Type_47,The metabolism of Midostaurin can be decreased when combined with Tetrabenazine.,73,Type_73,No
+DB00472,Fluoxetine,DB00593,Ethosuximide,0.8226660490036011,47,Type_47,The metabolism of Ethosuximide can be decreased when combined with Fluoxetine.,49,Type_49,No
+DB00843,Donepezil,DB01264,Darunavir,0.7049483060836792,47,Type_47,The metabolism of Darunavir can be decreased when combined with Donepezil.,73,Type_73,No
+DB00263,Sulfisoxazole,DB00418,Secobarbital,0.9381786584854126,47,Type_47,The metabolism of Secobarbital can be decreased when combined with Sulfisoxazole.,4,Type_4,No
+DB01392,Yohimbine,DB09065,Cobicistat,0.9610651135444641,47,Type_47,The metabolism of Cobicistat can be decreased when combined with Yohimbine.,73,Type_73,No
+DB00252,Phenytoin,DB06218,Lacosamide,0.7782570719718933,4,Type_4,The metabolism of Lacosamide can be increased when combined with Phenytoin.,75,Type_75,No
+DB00959,Methylprednisolone,DB01167,Itraconazole,0.8169369101524353,47,Type_47,The metabolism of Itraconazole can be decreased when combined with Methylprednisolone.,73,Type_73,No
+DB01026,Ketoconazole,DB04920,Clevidipine,0.7172092199325562,47,Type_47,The metabolism of Clevidipine can be decreased when combined with Ketoconazole.,49,Type_49,No
+DB01072,Atazanavir,DB09065,Cobicistat,0.8041306138038635,73,Type_73,The serum concentration of Cobicistat can be increased when it is combined with Atazanavir.,47,Type_47,No
+DB00215,Citalopram,DB00697,Tizanidine,0.7317189574241638,20,Type_20,Citalopram may increase the QTc-prolonging activities of Tizanidine.,73,Type_73,No
+DB00243,Ranolazine,DB00518,Albendazole,0.8027926683425903,47,Type_47,The metabolism of Albendazole can be decreased when combined with Ranolazine.,73,Type_73,No
+DB00091,Cyclosporine,DB00932,Tipranavir,0.7452465891838074,47,Type_47,The metabolism of Tipranavir can be decreased when combined with Cyclosporine.,73,Type_73,No
+DB00618,Demeclocycline,DB01397,Magnesium salicylate,0.9369943737983704,49,Type_49,The risk or severity of adverse effects can be increased when Demeclocycline is combined with Magnesium salicylate.,67,Type_67,No
+DB00176,Fluvoxamine,DB01367,Rasagiline,0.7249330878257751,49,Type_49,The risk or severity of adverse effects can be increased when Fluvoxamine is combined with Rasagiline.,73,Type_73,No
+DB06813,Pralatrexate,DB13783,Acemetacin,0.7997668981552124,49,Type_49,The risk or severity of adverse effects can be increased when Pralatrexate is combined with Acemetacin.,73,Type_73,No
+DB08881,Vemurafenib,DB09039,Eliglustat,0.9485560059547424,33,Type_33,The risk or severity of QTc prolongation can be increased when Vemurafenib is combined with Eliglustat.,75,Type_75,No
+DB00501,Cimetidine,DB06712,Nilvadipine,0.8508719801902771,47,Type_47,The metabolism of Nilvadipine can be decreased when combined with Cimetidine.,73,Type_73,No
+DB00604,Cisapride,DB01184,Domperidone,0.8323684334754944,20,Type_20,Cisapride may increase the QTc-prolonging activities of Domperidone.,33,Type_33,No
+DB00458,Imipramine,DB09053,Ibrutinib,0.8372066617012024,73,Type_73,The serum concentration of Ibrutinib can be increased when it is combined with Imipramine.,47,Type_47,No
+DB00381,Amlodipine,DB00908,Quinidine,0.9361948370933533,47,Type_47,The metabolism of Quinidine can be decreased when combined with Amlodipine.,75,Type_75,No
+DB00338,Omeprazole,DB00582,Voriconazole,0.9360812902450562,47,Type_47,The metabolism of Voriconazole can be decreased when combined with Omeprazole.,73,Type_73,No
+DB00370,Mirtazapine,DB04846,Celiprolol,0.8261823058128357,37,Type_37,Mirtazapine may decrease the antihypertensive activities of Celiprolol.,49,Type_49,No
+DB00246,Ziprasidone,DB01120,Gliclazide,0.8434247970581055,47,Type_47,The metabolism of Gliclazide can be decreased when combined with Ziprasidone.,70,Type_70,No
+DB00752,Tranylcypromine,DB09048,Netupitant,0.8817482590675354,73,Type_73,The serum concentration of Netupitant can be increased when it is combined with Tranylcypromine.,47,Type_47,No
+DB01184,Domperidone,DB01319,Fosamprenavir,0.7469742894172668,47,Type_47,The metabolism of Fosamprenavir can be decreased when combined with Domperidone.,73,Type_73,No
+DB00294,Etonogestrel,DB08883,Perampanel,0.8077930212020874,70,Type_70,The therapeutic efficacy of Perampanel can be decreased when used in combination with Etonogestrel.,75,Type_75,No
+DB00203,Sildenafil,DB01263,Posaconazole,0.83889240026474,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Sildenafil.,73,Type_73,No
+DB00492,Fosinopril,DB08931,Riociguat,0.7045972347259521,49,Type_49,The risk or severity of adverse effects can be increased when Fosinopril is combined with Riociguat.,73,Type_73,No
+DB00975,Dipyridamole,DB11362,Selexipag,0.9912039041519165,60,Type_60,Dipyridamole may increase the hypotensive activities of Selexipag.,6,Type_6,No
+DB01392,Yohimbine,DB01580,Oxprenolol,0.9851199984550476,37,Type_37,Yohimbine may decrease the antihypertensive activities of Oxprenolol.,70,Type_70,No
+DB00199,Erythromycin,DB00248,Cabergoline,0.8785140514373779,47,Type_47,The metabolism of Cabergoline can be decreased when combined with Erythromycin.,73,Type_73,No
+DB00514,Dextromethorphan,DB01247,Isocarboxazid,0.8521338105201721,49,Type_49,The risk or severity of adverse effects can be increased when Dextromethorphan is combined with Isocarboxazid.,64,Type_64,No
+DB00559,Bosentan,DB01015,Sulfamethoxazole,0.7795636653900146,75,Type_75,The serum concentration of Sulfamethoxazole can be decreased when it is combined with Bosentan.,73,Type_73,No
+DB00244,Mesalazine,DB00586,Diclofenac,0.9511968493461609,57,Type_57,Mesalazine may increase the nephrotoxic activities of Diclofenac.,49,Type_49,No
+DB01264,Darunavir,DB01274,Arformoterol,0.8079422116279602,47,Type_47,The metabolism of Arformoterol can be decreased when combined with Darunavir.,73,Type_73,No
+DB01580,Oxprenolol,DB06694,Xylometazoline,0.954595685005188,60,Type_60,Oxprenolol may increase the hypotensive activities of Xylometazoline.,25,Type_25,No
+DB09543,Methyl salicylate,DB11079,Trolamine salicylate,0.9910079836845398,49,Type_49,The risk or severity of adverse effects can be increased when Methyl salicylate is combined with Trolamine salicylate.,6,Type_6,No
+DB00932,Tipranavir,DB01167,Itraconazole,0.7549023628234863,47,Type_47,The metabolism of Itraconazole can be decreased when combined with Tipranavir.,73,Type_73,No
+DB00541,Vincristine,DB08882,Linagliptin,0.8142620921134949,73,Type_73,The serum concentration of Linagliptin can be increased when it is combined with Vincristine.,75,Type_75,No
+DB01072,Atazanavir,DB08938,Magaldrate,0.7055099010467529,75,Type_75,The serum concentration of Magaldrate can be decreased when it is combined with Atazanavir.,67,Type_67,No
+DB00570,Vinblastine,DB00582,Voriconazole,0.8940005302429199,47,Type_47,The metabolism of Voriconazole can be decreased when combined with Vinblastine.,49,Type_49,No
+DB00523,Alitretinoin,DB00563,Methotrexate,0.7578203678131104,73,Type_73,The serum concentration of Methotrexate can be increased when it is combined with Alitretinoin.,80,Type_80,No
+DB01197,Captopril,DB01403,Methotrimeprazine,0.8642096519470215,73,Type_73,The serum concentration of Methotrimeprazine can be increased when it is combined with Captopril.,47,Type_47,No
+DB00420,Promazine,DB04946,Iloperidone,0.7652618885040283,20,Type_20,Promazine may increase the QTc-prolonging activities of Iloperidone.,47,Type_47,No
+DB00953,Rizatriptan,DB09330,Osimertinib,0.9195727109909058,73,Type_73,The serum concentration of Osimertinib can be increased when it is combined with Rizatriptan.,75,Type_75,No
+DB00813,Fentanyl,DB01365,Mephentermine,0.9953652620315552,69,Type_69,Fentanyl may increase the analgesic activities of Mephentermine.,75,Type_75,No
+DB00559,Bosentan,DB00820,Tadalafil,0.8213232755661011,60,Type_60,Bosentan may increase the hypotensive activities of Tadalafil.,75,Type_75,No
+DB00273,Topiramate,DB01196,Estramustine,0.7187796235084534,47,Type_47,The metabolism of Estramustine can be decreased when combined with Topiramate.,75,Type_75,No
+DB00472,Fluoxetine,DB01068,Clonazepam,0.7455840110778809,47,Type_47,The metabolism of Clonazepam can be decreased when combined with Fluoxetine.,49,Type_49,No
+DB00435,Nitric Oxide,DB01174,Phenobarbital,0.7009561657905579,60,Type_60,Nitric Oxide may increase the hypotensive activities of Phenobarbital.,49,Type_49,No
+DB00421,Spironolactone,DB04861,Nebivolol,0.9490470886230469,49,Type_49,The risk or severity of adverse effects can be increased when Spironolactone is combined with Nebivolol.,5,Type_5,No
+DB00934,Maprotiline,DB04844,Tetrabenazine,0.9249579310417175,49,Type_49,The risk or severity of adverse effects can be increased when Maprotiline is combined with Tetrabenazine.,20,Type_20,No
+DB00349,Clobazam,DB01196,Estramustine,0.7727991938591003,47,Type_47,The metabolism of Estramustine can be decreased when combined with Clobazam.,75,Type_75,No
+DB00559,Bosentan,DB00705,Delavirdine,0.7609801888465881,75,Type_75,The serum concentration of Delavirdine can be decreased when it is combined with Bosentan.,73,Type_73,No
+DB00834,Mifepristone,DB08916,Afatinib,0.9273833632469177,73,Type_73,The serum concentration of Afatinib can be increased when it is combined with Mifepristone.,75,Type_75,No
+DB00593,Ethosuximide,DB01255,Lisdexamfetamine,0.8123540878295898,76,Type_76,Ethosuximide may decrease the sedative activities of Lisdexamfetamine.,70,Type_70,No
+DB00297,Bupivacaine,DB01210,Levobunolol,0.8075122237205505,49,Type_49,The risk or severity of adverse effects can be increased when Bupivacaine is combined with Levobunolol.,73,Type_73,No
+DB04839,Cyproterone acetate,DB06770,Benzyl alcohol,0.7270398736000061,73,Type_73,The serum concentration of Benzyl alcohol can be increased when it is combined with Cyproterone acetate.,75,Type_75,No
+DB04846,Celiprolol,DB06694,Xylometazoline,0.852742612361908,60,Type_60,Celiprolol may increase the hypotensive activities of Xylometazoline.,25,Type_25,No
+DB00661,Verapamil,DB01158,Bretylium,0.94368577003479,49,Type_49,The risk or severity of adverse effects can be increased when Verapamil is combined with Bretylium.,54,Type_54,No
+DB00749,Etodolac,DB00770,Alprostadil,0.7393191456794739,53,Type_53,Etodolac may increase the antiplatelet activities of Alprostadil.,70,Type_70,No
+DB00501,Cimetidine,DB04841,Flunarizine,0.7889940142631531,47,Type_47,The metabolism of Flunarizine can be decreased when combined with Cimetidine.,73,Type_73,No
+DB00349,Clobazam,DB09389,Norgestrel,0.7293413877487183,47,Type_47,The metabolism of Norgestrel can be decreased when combined with Clobazam.,75,Type_75,No
+DB08873,Boceprevir,DB09262,Imidafenacin,0.8167049884796143,47,Type_47,The metabolism of Imidafenacin can be decreased when combined with Boceprevir.,73,Type_73,No
+DB00370,Mirtazapine,DB01583,Liotrix,0.8007811903953552,73,Type_73,The serum concentration of Liotrix can be increased when it is combined with Mirtazapine.,82,Type_82,No
+DB00619,Imatinib,DB01263,Posaconazole,0.8308727145195007,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Imatinib.,73,Type_73,No
+DB01175,Escitalopram,DB01264,Darunavir,0.786878228187561,47,Type_47,The metabolism of Darunavir can be decreased when combined with Escitalopram.,73,Type_73,No
+DB00904,Ondansetron,DB06288,Amisulpride,0.7761520147323608,49,Type_49,The risk or severity of adverse effects can be increased when Ondansetron is combined with Amisulpride.,36,Type_36,No
+DB00333,Methadone,DB00697,Tizanidine,0.8699164986610413,49,Type_49,The risk or severity of adverse effects can be increased when Methadone is combined with Tizanidine.,20,Type_20,No
+DB00875,Flupentixol,DB00904,Ondansetron,0.894801676273346,20,Type_20,Flupentixol may increase the QTc-prolonging activities of Ondansetron.,49,Type_49,No
+DB00758,Clopidogrel,DB01129,Rabeprazole,0.8060780167579651,47,Type_47,The metabolism of Rabeprazole can be decreased when combined with Clopidogrel.,11,Type_11,No
+DB01601,Lopinavir,DB04878,Voglibose,0.7145216464996338,47,Type_47,The metabolism of Voglibose can be decreased when combined with Lopinavir.,70,Type_70,No
+DB01167,Itraconazole,DB04938,Ospemifene,0.7802188992500305,47,Type_47,The metabolism of Ospemifene can be decreased when combined with Itraconazole.,73,Type_73,No
+DB00486,Nabilone,DB01193,Acebutolol,0.9969967603683472,49,Type_49,The risk or severity of adverse effects can be increased when Nabilone is combined with Acebutolol.,85,Type_85,No
+DB00091,Cyclosporine,DB00912,Repaglinide,0.7722473740577698,47,Type_47,The metabolism of Repaglinide can be decreased when combined with Cyclosporine.,73,Type_73,No
+DB06201,Rufinamide,DB08864,Rilpivirine,0.7956803441047668,49,Type_49,The risk or severity of adverse effects can be increased when Rufinamide is combined with Rilpivirine.,75,Type_75,No
+DB04839,Cyproterone acetate,DB06774,Capsaicin,0.7550866603851318,73,Type_73,The serum concentration of Capsaicin can be increased when it is combined with Cyproterone acetate.,75,Type_75,No
+DB00975,Dipyridamole,DB01295,Bevantolol,0.7145959734916687,49,Type_49,The risk or severity of adverse effects can be increased when Dipyridamole is combined with Bevantolol.,54,Type_54,No
+DB00910,Paricalcitol,DB01167,Itraconazole,0.9560363292694092,47,Type_47,The metabolism of Itraconazole can be decreased when combined with Paricalcitol.,73,Type_73,No
+DB00904,Ondansetron,DB00918,Almotriptan,0.7360092401504517,49,Type_49,The risk or severity of adverse effects can be increased when Ondansetron is combined with Almotriptan.,64,Type_64,No
+DB00489,Sotalol,DB05039,Indacaterol,0.7814145684242249,14,Type_14,Sotalol may decrease the bronchodilatory activities of Indacaterol.,20,Type_20,No
+DB01069,Promethazine,DB01589,Quazepam,0.8505502343177795,49,Type_49,The risk or severity of adverse effects can be increased when Promethazine is combined with Quazepam.,73,Type_73,No
+DB00252,Phenytoin,DB06605,Apixaban,0.7768586874008179,4,Type_4,The metabolism of Apixaban can be increased when combined with Phenytoin.,75,Type_75,No
+DB00246,Ziprasidone,DB00813,Fentanyl,0.8555164337158203,49,Type_49,The risk or severity of adverse effects can be increased when Ziprasidone is combined with Fentanyl.,73,Type_73,No
+DB00343,Diltiazem,DB00564,Carbamazepine,0.7675411701202393,4,Type_4,The metabolism of Carbamazepine can be increased when combined with Diltiazem.,73,Type_73,No
+DB01126,Dutasteride,DB01232,Saquinavir,0.8819122314453125,47,Type_47,The metabolism of Saquinavir can be decreased when combined with Dutasteride.,73,Type_73,No
+DB00196,Fluconazole,DB08899,Enzalutamide,0.8956799507141113,75,Type_75,The serum concentration of Enzalutamide can be decreased when it is combined with Fluconazole.,47,Type_47,No
+DB06824,Triethylenetetramine,DB09146,Iron sucrose,0.7883635759353638,67,Type_67,Triethylenetetramine can cause a decrease in the absorption of Iron sucrose resulting in a reduced serum concentration and potentially a decrease in efficacy.,75,Type_75,No
+DB00514,Dextromethorphan,DB01589,Quazepam,0.7823171019554138,47,Type_47,The metabolism of Quazepam can be decreased when combined with Dextromethorphan.,73,Type_73,No
+DB00938,Salmeterol,DB06636,Isavuconazonium,0.7582977414131165,47,Type_47,The metabolism of Isavuconazonium can be decreased when combined with Salmeterol.,73,Type_73,No
+DB00349,Clobazam,DB01018,Guanfacine,0.8204295039176941,47,Type_47,The metabolism of Guanfacine can be decreased when combined with Clobazam.,49,Type_49,No
+DB01228,Encainide,DB06603,Panobinostat,0.7536712884902954,47,Type_47,The metabolism of Panobinostat can be decreased when combined with Encainide.,73,Type_73,No
+DB00176,Fluvoxamine,DB00384,Triamterene,0.8110513687133789,73,Type_73,The serum concentration of Triamterene can be increased when it is combined with Fluvoxamine.,47,Type_47,No
+DB00658,Sevelamer,DB01024,Mycophenolic acid,0.8575596213340759,67,Type_67,Sevelamer can cause a decrease in the absorption of Mycophenolic acid resulting in a reduced serum concentration and potentially a decrease in efficacy.,75,Type_75,No
+DB00908,Quinidine,DB00940,Methantheline,0.7057554721832275,73,Type_73,The serum concentration of Methantheline can be increased when it is combined with Quinidine.,49,Type_49,No
+DB00263,Sulfisoxazole,DB00586,Diclofenac,0.8166435956954956,47,Type_47,The metabolism of Diclofenac can be decreased when combined with Sulfisoxazole.,73,Type_73,No
+DB00224,Indinavir,DB08932,Macitentan,0.9003756046295166,47,Type_47,The metabolism of Macitentan can be decreased when combined with Indinavir.,73,Type_73,No
+DB00244,Mesalazine,DB01377,Magnesium oxide,0.8241534233093262,49,Type_49,The risk or severity of adverse effects can be increased when Mesalazine is combined with Magnesium oxide.,70,Type_70,No
+DB00540,Nortriptyline,DB01224,Quetiapine,0.7766919136047363,49,Type_49,The risk or severity of adverse effects can be increased when Nortriptyline is combined with Quetiapine.,20,Type_20,No
+DB01321,Josamycin,DB08864,Rilpivirine,0.9255162477493286,20,Type_20,Josamycin may increase the QTc-prolonging activities of Rilpivirine.,73,Type_73,No
+DB00661,Verapamil,DB11079,Trolamine salicylate,0.8940069079399109,49,Type_49,The risk or severity of adverse effects can be increased when Verapamil is combined with Trolamine salicylate.,6,Type_6,No
+DB00363,Clozapine,DB01590,Everolimus,0.8788415789604187,73,Type_73,The serum concentration of Everolimus can be increased when it is combined with Clozapine.,49,Type_49,No
+DB00472,Fluoxetine,DB09072,Sodium oxybate,0.9323468208312988,16,Type_16,Fluoxetine may increase the central nervous system depressant (CNS depressant) activities of Sodium oxybate.,49,Type_49,No
+DB00264,Metoprolol,DB00633,Dexmedetomidine,0.9871402382850647,25,Type_25,Metoprolol may increase the atrioventricular blocking (AV block) activities of Dexmedetomidine.,73,Type_73,No
+DB00349,Clobazam,DB01236,Sevoflurane,0.8579613566398621,47,Type_47,The metabolism of Sevoflurane can be decreased when combined with Clobazam.,49,Type_49,No
+DB01018,Guanfacine,DB01174,Phenobarbital,0.842291533946991,4,Type_4,The metabolism of Phenobarbital can be increased when combined with Guanfacine.,75,Type_75,No
+DB00582,Voriconazole,DB00672,Chlorpropamide,0.9298521280288696,47,Type_47,The metabolism of Chlorpropamide can be decreased when combined with Voriconazole.,73,Type_73,No
+DB00633,Dexmedetomidine,DB01214,Metipranolol,0.9658228754997253,25,Type_25,Dexmedetomidine may increase the atrioventricular blocking (AV block) activities of Metipranolol.,49,Type_49,No
+DB01124,Tolbutamide,DB01159,Halothane,0.739831268787384,70,Type_70,The therapeutic efficacy of Halothane can be decreased when used in combination with Tolbutamide.,47,Type_47,No
+DB00755,Tretinoin,DB01017,Minocycline,0.7221510410308838,75,Type_75,The serum concentration of Minocycline can be decreased when it is combined with Tretinoin.,49,Type_49,No
+DB00436,Bendroflumethiazide,DB06663,Pasireotide,0.7653934955596924,70,Type_70,The therapeutic efficacy of Pasireotide can be decreased when used in combination with Bendroflumethiazide.,54,Type_54,No
+DB00281,Lidocaine,DB04951,Pirfenidone,0.7735303044319153,47,Type_47,The metabolism of Pirfenidone can be decreased when combined with Lidocaine.,73,Type_73,No
+DB00259,Sulfanilamide,DB00320,Dihydroergotamine,0.8851747512817383,73,Type_73,The serum concentration of Dihydroergotamine can be increased when it is combined with Sulfanilamide.,49,Type_49,No
+DB00622,Nicardipine,DB09235,Efonidipine,0.7037335634231567,49,Type_49,The risk or severity of adverse effects can be increased when Nicardipine is combined with Efonidipine.,60,Type_60,No
+DB00224,Indinavir,DB00932,Tipranavir,0.7176972031593323,47,Type_47,The metabolism of Tipranavir can be decreased when combined with Indinavir.,75,Type_75,No
+DB00943,Zalcitabine,DB01264,Darunavir,0.7507259249687195,47,Type_47,The metabolism of Darunavir can be decreased when combined with Zalcitabine.,73,Type_73,No
+DB00700,Eplerenone,DB01349,Tasosartan,0.8046987056732178,49,Type_49,The risk or severity of adverse effects can be increased when Eplerenone is combined with Tasosartan.,68,Type_68,No
+DB00752,Tranylcypromine,DB01197,Captopril,0.7683228254318237,60,Type_60,Tranylcypromine may increase the hypotensive activities of Captopril.,47,Type_47,No
+DB00661,Verapamil,DB06335,Saxagliptin,0.7949941158294678,47,Type_47,The metabolism of Saxagliptin can be decreased when combined with Verapamil.,73,Type_73,No
+DB00263,Sulfisoxazole,DB01242,Clomipramine,0.8115047216415405,47,Type_47,The metabolism of Clomipramine can be decreased when combined with Sulfisoxazole.,20,Type_20,No
+DB00418,Secobarbital,DB00829,Diazepam,0.9533370137214661,49,Type_49,The risk or severity of adverse effects can be increased when Secobarbital is combined with Diazepam.,4,Type_4,No
+DB01236,Sevoflurane,DB09053,Ibrutinib,0.7876652479171753,73,Type_73,The serum concentration of Ibrutinib can be increased when it is combined with Sevoflurane.,49,Type_49,No
+DB00244,Mesalazine,DB00489,Sotalol,0.9535413980484009,9,Type_9,Mesalazine may increase the hypoglycemic activities of Sotalol.,37,Type_37,No
+DB00904,Ondansetron,DB09068,Vortioxetine,0.9729647040367126,49,Type_49,The risk or severity of adverse effects can be increased when Ondansetron is combined with Vortioxetine.,64,Type_64,No
+DB00270,Isradipine,DB00661,Verapamil,0.8508583903312683,47,Type_47,The metabolism of Verapamil can be decreased when combined with Isradipine.,49,Type_49,No
+DB00195,Betaxolol,DB01074,Perhexiline,0.8877105116844177,60,Type_60,Betaxolol may increase the hypotensive activities of Perhexiline.,47,Type_47,No
+DB00501,Cimetidine,DB01244,Bepridil,0.7557665109634399,47,Type_47,The metabolism of Bepridil can be decreased when combined with Cimetidine.,73,Type_73,No
+DB00213,Pantoprazole,DB00238,Nevirapine,0.7867553234100342,47,Type_47,The metabolism of Nevirapine can be decreased when combined with Pantoprazole.,4,Type_4,No
+DB01041,Thalidomide,DB01235,Levodopa,0.9146585464477539,16,Type_16,Thalidomide may increase the central nervous system depressant (CNS depressant) activities of Levodopa.,30,Type_30,No
+DB00501,Cimetidine,DB01101,Capecitabine,0.9388072490692139,47,Type_47,The metabolism of Capecitabine can be decreased when combined with Cimetidine.,77,Type_77,No
+DB00216,Eletriptan,DB00418,Secobarbital,0.7899597883224487,49,Type_49,The risk or severity of adverse effects can be increased when Eletriptan is combined with Secobarbital.,4,Type_4,No
+DB00476,Duloxetine,DB01583,Liotrix,0.7104390263557434,49,Type_49,The risk or severity of adverse effects can be increased when Duloxetine is combined with Liotrix.,70,Type_70,No
+DB00250,Dapsone,DB01131,Proguanil,0.9106024503707886,47,Type_47,The metabolism of Proguanil can be decreased when combined with Dapsone.,49,Type_49,No
+DB00774,Hydroflumethiazide,DB01214,Metipranolol,0.8616969585418701,49,Type_49,The risk or severity of adverse effects can be increased when Hydroflumethiazide is combined with Metipranolol.,60,Type_60,No
+DB00528,Lercanidipine,DB00876,Eprosartan,0.8807617425918579,49,Type_49,The risk or severity of adverse effects can be increased when Lercanidipine is combined with Eprosartan.,60,Type_60,No
+DB01169,Arsenic trioxide,DB01240,Epoprostenol,0.8192249536514282,60,Type_60,Arsenic trioxide may increase the hypotensive activities of Epoprostenol.,49,Type_49,No
+DB00246,Ziprasidone,DB01104,Sertraline,0.7240791320800781,47,Type_47,The metabolism of Sertraline can be decreased when combined with Ziprasidone.,20,Type_20,No
+DB00476,Duloxetine,DB00903,Etacrynic acid,0.7611145377159119,49,Type_49,The risk or severity of adverse effects can be increased when Duloxetine is combined with Etacrynic acid.,30,Type_30,No
+DB00619,Imatinib,DB09074,Olaparib,0.815906286239624,47,Type_47,The metabolism of Olaparib can be decreased when combined with Imatinib.,73,Type_73,No
+DB00199,Erythromycin,DB01190,Clindamycin,0.9480317831039429,47,Type_47,The metabolism of Clindamycin can be decreased when combined with Erythromycin.,70,Type_70,No
+DB00635,Prednisone,DB08881,Vemurafenib,0.7358095049858093,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Prednisone.,73,Type_73,No
+DB01356,Lithium cation,DB09477,Enalaprilat,0.7960984706878662,60,Type_60,Lithium cation may increase the hypotensive activities of Enalaprilat.,73,Type_73,No
+DB01092,Ouabain,DB06810,Plicamycin,0.756169855594635,75,Type_75,The serum concentration of Plicamycin can be decreased when it is combined with Ouabain.,58,Type_58,No
+DB00388,Phenylephrine,DB09288,Propacetamol,0.9113546013832092,76,Type_76,Phenylephrine may decrease the sedative activities of Propacetamol.,73,Type_73,No
+DB00701,Amprenavir,DB01151,Desipramine,0.9431095719337463,47,Type_47,The metabolism of Desipramine can be decreased when combined with Amprenavir.,73,Type_73,No
+DB00698,Nitrofurantoin,DB08881,Vemurafenib,0.864329993724823,73,Type_73,The serum concentration of Vemurafenib can be increased when it is combined with Nitrofurantoin.,75,Type_75,No
+DB00277,Theophylline,DB00951,Isoniazid,0.7512326836585999,47,Type_47,The metabolism of Isoniazid can be decreased when combined with Theophylline.,73,Type_73,No
+DB06290,Simeprevir,DB06769,Bendamustine,0.9764485359191895,73,Type_73,The serum concentration of Bendamustine can be increased when it is combined with Simeprevir.,47,Type_47,No
+DB00907,Cocaine,DB09128,Brexpiprazole,0.949904203414917,49,Type_49,The risk or severity of adverse effects can be increased when Cocaine is combined with Brexpiprazole.,73,Type_73,No
+DB01182,Propafenone,DB04861,Nebivolol,0.7270059585571289,54,Type_54,Propafenone may increase the bradycardic activities of Nebivolol.,73,Type_73,No
+DB00715,Paroxetine,DB01041,Thalidomide,0.8644217252731323,47,Type_47,The metabolism of Thalidomide can be decreased when combined with Paroxetine.,49,Type_49,No
+DB00847,Cysteamine,DB00863,Ranitidine,0.7193472385406494,49,Type_49,The risk or severity of adverse effects can be increased when Cysteamine is combined with Ranitidine.,70,Type_70,No
+DB00283,Clemastine,DB06605,Apixaban,0.7775120139122009,47,Type_47,The metabolism of Apixaban can be decreased when combined with Clemastine.,73,Type_73,No
+DB00872,Conivaptan,DB01159,Halothane,0.842645525932312,49,Type_49,The risk or severity of adverse effects can be increased when Conivaptan is combined with Halothane.,73,Type_73,No
+DB00322,Floxuridine,DB00980,Ramelteon,0.9652660489082336,47,Type_47,The metabolism of Ramelteon can be decreased when combined with Floxuridine.,73,Type_73,No
+DB00951,Isoniazid,DB01234,Dexamethasone,0.8122824430465698,47,Type_47,The metabolism of Dexamethasone can be decreased when combined with Isoniazid.,75,Type_75,No
+DB01178,Chlormezanone,DB01392,Yohimbine,0.9880980849266052,49,Type_49,The risk or severity of adverse effects can be increased when Chlormezanone is combined with Yohimbine.,70,Type_70,No
+DB00006,Bivalirudin,DB00346,Alfuzosin,0.7661117315292358,60,Type_60,Bivalirudin may increase the hypotensive activities of Alfuzosin.,73,Type_73,No
+DB00193,Tramadol,DB01072,Atazanavir,0.7230619192123413,47,Type_47,The metabolism of Atazanavir can be decreased when combined with Tramadol.,73,Type_73,No
+DB01320,Fosphenytoin,DB04574,Estrone sulfate,0.7996717691421509,4,Type_4,The metabolism of Estrone sulfate can be increased when combined with Fosphenytoin.,70,Type_70,No
+DB00599,Thiopental,DB01240,Epoprostenol,0.7731726169586182,4,Type_4,The metabolism of Epoprostenol can be increased when combined with Thiopental.,60,Type_60,No
+DB00363,Clozapine,DB00699,Nicergoline,0.9150597453117371,49,Type_49,The risk or severity of adverse effects can be increased when Clozapine is combined with Nicergoline.,47,Type_47,No
+DB00091,Cyclosporine,DB00700,Eplerenone,0.9274187088012695,42,Type_42,The risk or severity of hyperkalemia can be increased when Cyclosporine is combined with Eplerenone.,68,Type_68,No
+DB00964,Apraclonidine,DB01351,Amobarbital,0.9677273631095886,30,Type_30,Apraclonidine may increase the orthostatic hypotensive activities of Amobarbital.,60,Type_60,No
+DB01195,Flecainide,DB01254,Dasatinib,0.732643187046051,73,Type_73,The serum concentration of Dasatinib can be increased when it is combined with Flecainide.,20,Type_20,No
+DB00810,Biperiden,DB06207,Silodosin,0.9309340715408325,5,Type_5,Biperiden may decrease the vasoconstricting activities of Silodosin.,73,Type_73,No
+DB01174,Phenobarbital,DB06335,Saxagliptin,0.710604727268219,4,Type_4,The metabolism of Saxagliptin can be increased when combined with Phenobarbital.,75,Type_75,No
+DB00293,Raltitrexed,DB00363,Clozapine,0.754858672618866,70,Type_70,The therapeutic efficacy of Clozapine can be decreased when used in combination with Raltitrexed.,49,Type_49,No
+DB00697,Tizanidine,DB06663,Pasireotide,0.8698636293411255,20,Type_20,Tizanidine may increase the QTc-prolonging activities of Pasireotide.,54,Type_54,No
+DB09030,Vorapaxar,DB12598,Nafamostat,0.8536810278892517,6,Type_6,Vorapaxar may increase the anticoagulant activities of Nafamostat.,49,Type_49,No
+DB01095,Fluvastatin,DB01418,Acenocoumarol,0.8001963496208191,6,Type_6,Fluvastatin may increase the anticoagulant activities of Acenocoumarol.,47,Type_47,No
+DB00294,Etonogestrel,DB00312,Pentobarbital,0.8142439126968384,70,Type_70,The therapeutic efficacy of Pentobarbital can be decreased when used in combination with Etonogestrel.,4,Type_4,No
+DB00191,Phentermine,DB00252,Phenytoin,0.967114269733429,4,Type_4,The metabolism of Phenytoin can be increased when combined with Phentermine.,75,Type_75,No
+DB00559,Bosentan,DB00625,Efavirenz,0.8706066012382507,75,Type_75,The serum concentration of Efavirenz can be decreased when it is combined with Bosentan.,73,Type_73,No
+DB00091,Cyclosporine,DB00819,Acetazolamide,0.7845627665519714,68,Type_68,Cyclosporine may increase the hyperkalemic activities of Acetazolamide.,73,Type_73,No
+DB00943,Zalcitabine,DB01095,Fluvastatin,0.7202248573303223,73,Type_73,The serum concentration of Fluvastatin can be increased when it is combined with Zalcitabine.,47,Type_47,No
+DB00257,Clotrimazole,DB01184,Domperidone,0.7836974263191223,47,Type_47,The metabolism of Domperidone can be decreased when combined with Clotrimazole.,73,Type_73,No
+DB01233,Metoclopramide,DB09118,Stiripentol,0.8699485659599304,73,Type_73,The serum concentration of Stiripentol can be increased when it is combined with Metoclopramide.,47,Type_47,No
+DB00705,Delavirdine,DB01142,Doxepin,0.8181717991828918,47,Type_47,The metabolism of Doxepin can be decreased when combined with Delavirdine.,67,Type_67,No
+DB00264,Metoprolol,DB00543,Amoxapine,0.7011144757270813,73,Type_73,The serum concentration of Amoxapine can be increased when it is combined with Metoprolol.,47,Type_47,No
+DB00780,Phenelzine,DB09204,Arotinolol,0.7013092041015625,60,Type_60,Phenelzine may increase the hypotensive activities of Arotinolol.,49,Type_49,No
+DB00691,Moexipril,DB06196,Icatibant,0.9869142174720764,49,Type_49,The risk or severity of adverse effects can be increased when Moexipril is combined with Icatibant.,37,Type_37,No
+DB00539,Toremifene,DB01254,Dasatinib,0.7689241766929626,20,Type_20,Toremifene may increase the QTc-prolonging activities of Dasatinib.,73,Type_73,No
+DB00254,Doxycycline,DB00938,Salmeterol,0.9627227783203125,47,Type_47,The metabolism of Salmeterol can be decreased when combined with Doxycycline.,73,Type_73,No
+DB00257,Clotrimazole,DB01218,Halofantrine,0.7554324269294739,47,Type_47,The metabolism of Halofantrine can be decreased when combined with Clotrimazole.,73,Type_73,No
+DB01194,Brinzolamide,DB05521,Telaprevir,0.7575387954711914,47,Type_47,The metabolism of Telaprevir can be decreased when combined with Brinzolamide.,73,Type_73,No
+DB00897,Triazolam,DB04876,Vildagliptin,0.8387374877929688,70,Type_70,The therapeutic efficacy of Vildagliptin can be decreased when used in combination with Triazolam.,73,Type_73,No
+DB00215,Citalopram,DB00308,Ibutilide,0.9001376628875732,20,Type_20,Citalopram may increase the QTc-prolonging activities of Ibutilide.,33,Type_33,No
+DB01201,Rifapentine,DB01232,Saquinavir,0.738301694393158,75,Type_75,The serum concentration of Saquinavir can be decreased when it is combined with Rifapentine.,4,Type_4,No
+DB00988,Dopamine,DB13323,Trichloroethylene,0.9607638716697693,49,Type_49,The risk or severity of adverse effects can be increased when Dopamine is combined with Trichloroethylene.,82,Type_82,No
+DB00250,Dapsone,DB00316,Acetaminophen,0.8210548162460327,47,Type_47,The metabolism of Acetaminophen can be decreased when combined with Dapsone.,49,Type_49,No
+DB01023,Felodipine,DB01193,Acebutolol,0.7860493063926697,60,Type_60,Felodipine may increase the hypotensive activities of Acebutolol.,49,Type_49,No
+DB00528,Lercanidipine,DB00678,Losartan,0.9067627191543579,49,Type_49,The risk or severity of adverse effects can be increased when Lercanidipine is combined with Losartan.,60,Type_60,No
+DB00215,Citalopram,DB01169,Arsenic trioxide,0.9524534344673157,20,Type_20,Citalopram may increase the QTc-prolonging activities of Arsenic trioxide.,33,Type_33,No
+DB01132,Pioglitazone,DB08860,Pitavastatin,0.8261865973472595,73,Type_73,The serum concentration of Pitavastatin can be increased when it is combined with Pioglitazone.,47,Type_47,No
+DB00337,Pimecrolimus,DB09026,Aliskiren,0.9241936206817627,49,Type_49,The risk or severity of adverse effects can be increased when Pimecrolimus is combined with Aliskiren.,37,Type_37,No
+DB00285,Venlafaxine,DB00472,Fluoxetine,0.7399721145629883,47,Type_47,The metabolism of Fluoxetine can be decreased when combined with Venlafaxine.,20,Type_20,No
+DB01026,Ketoconazole,DB05351,Dexlansoprazole,0.9199548363685608,47,Type_47,The metabolism of Dexlansoprazole can be decreased when combined with Ketoconazole.,75,Type_75,No
+DB00285,Venlafaxine,DB00412,Rosiglitazone,0.9782971143722534,47,Type_47,The metabolism of Rosiglitazone can be decreased when combined with Venlafaxine.,9,Type_9,No
+DB01182,Propafenone,DB01201,Rifapentine,0.9307004809379578,4,Type_4,The metabolism of Rifapentine can be increased when combined with Propafenone.,75,Type_75,No
+DB06654,Safinamide,DB09291,Rolapitant,0.9814132452011108,47,Type_47,The metabolism of Rolapitant can be decreased when combined with Safinamide.,73,Type_73,No
+DB00661,Verapamil,DB01041,Thalidomide,0.909660279750824,47,Type_47,The metabolism of Thalidomide can be decreased when combined with Verapamil.,49,Type_49,No
+DB01392,Yohimbine,DB01588,Prazepam,0.7282086610794067,47,Type_47,The metabolism of Prazepam can be decreased when combined with Yohimbine.,70,Type_70,No
+DB00776,Oxcarbazepine,DB09065,Cobicistat,0.8077037334442139,73,Type_73,The serum concentration of Cobicistat can be increased when it is combined with Oxcarbazepine.,75,Type_75,No
+DB01201,Rifapentine,DB09235,Efonidipine,0.7907456755638123,4,Type_4,The metabolism of Efonidipine can be increased when combined with Rifapentine.,75,Type_75,No
+DB00734,Risperidone,DB01020,Isosorbide mononitrate,0.8900655508041382,49,Type_49,The risk or severity of adverse effects can be increased when Risperidone is combined with Isosorbide mononitrate.,60,Type_60,No
+DB00834,Mifepristone,DB01591,Solifenacin,0.7322658896446228,73,Type_73,The serum concentration of Solifenacin can be increased when it is combined with Mifepristone.,20,Type_20,No
+DB04861,Nebivolol,DB06700,Desvenlafaxine,0.8925959467887878,73,Type_73,The serum concentration of Desvenlafaxine can be increased when it is combined with Nebivolol.,85,Type_85,No
+DB01156,Bupropion,DB09053,Ibrutinib,0.7566524744033813,73,Type_73,The serum concentration of Ibrutinib can be increased when it is combined with Bupropion.,47,Type_47,No
+DB00972,Azelastine,DB01395,Drospirenone,0.8656243681907654,73,Type_73,The serum concentration of Drospirenone can be increased when it is combined with Azelastine.,68,Type_68,No
+DB01201,Rifapentine,DB09078,Lenvatinib,0.746040940284729,75,Type_75,The serum concentration of Lenvatinib can be decreased when it is combined with Rifapentine.,4,Type_4,No
+DB00652,Pentazocine,DB09049,Naloxegol,0.9959890246391296,73,Type_73,The serum concentration of Naloxegol can be increased when it is combined with Pentazocine.,49,Type_49,No
+DB01104,Sertraline,DB06203,Alogliptin,0.7661331295967102,9,Type_9,Sertraline may increase the hypoglycemic activities of Alogliptin.,47,Type_47,No
+DB00320,Dihydroergotamine,DB11586,Asunaprevir,0.7873117327690125,47,Type_47,The metabolism of Asunaprevir can be decreased when combined with Dihydroergotamine.,73,Type_73,No
+DB00564,Carbamazepine,DB04908,Flibanserin,0.8669818043708801,49,Type_49,The risk or severity of adverse effects can be increased when Carbamazepine is combined with Flibanserin.,75,Type_75,No
+DB00246,Ziprasidone,DB01169,Arsenic trioxide,0.7771517038345337,20,Type_20,Ziprasidone may increase the QTc-prolonging activities of Arsenic trioxide.,33,Type_33,No
+DB00643,Mebendazole,DB01611,Hydroxychloroquine,0.7374899983406067,47,Type_47,The metabolism of Hydroxychloroquine can be decreased when combined with Mebendazole.,75,Type_75,No
+DB01299,Sulfadoxine,DB09214,Dexketoprofen,0.7388623952865601,73,Type_73,The serum concentration of Dexketoprofen can be increased when it is combined with Sulfadoxine.,49,Type_49,No
+DB01609,Deferasirox,DB06616,Bosutinib,0.7650216817855835,73,Type_73,The serum concentration of Bosutinib can be increased when it is combined with Deferasirox.,75,Type_75,No
+DB00268,Ropinirole,DB00335,Atenolol,0.7058027982711792,49,Type_49,The risk or severity of adverse effects can be increased when Ropinirole is combined with Atenolol.,25,Type_25,No
+DB00196,Fluconazole,DB09083,Ivabradine,0.7777794599533081,20,Type_20,Fluconazole may increase the QTc-prolonging activities of Ivabradine.,73,Type_73,No
+DB00751,Epinastine,DB08814,Triflusal,0.7076900005340576,53,Type_53,Epinastine may increase the antiplatelet activities of Triflusal.,6,Type_6,No
+DB01407,Clenbuterol,DB09245,Toloxatone,0.9040254950523376,71,Type_71,Clenbuterol may increase the hypertensive activities of Toloxatone.,49,Type_49,No
+DB00695,Furosemide,DB09026,Aliskiren,0.909392774105072,49,Type_49,The risk or severity of adverse effects can be increased when Furosemide is combined with Aliskiren.,75,Type_75,No
+DB01247,Isocarboxazid,DB01355,Hexobarbital,0.8829290270805359,49,Type_49,The risk or severity of adverse effects can be increased when Isocarboxazid is combined with Hexobarbital.,60,Type_60,No
+DB00318,Codeine,DB12332,Rucaparib,0.9075493812561035,47,Type_47,The metabolism of Rucaparib can be decreased when combined with Codeine.,70,Type_70,No
+DB00270,Isradipine,DB08815,Lurasidone,0.8020409941673279,20,Type_20,Isradipine may increase the QTc-prolonging activities of Lurasidone.,73,Type_73,No
+DB01577,Metamfetamine,DB06148,Mianserin,0.7632933855056763,76,Type_76,Metamfetamine may decrease the sedative activities of Mianserin.,70,Type_70,No
+DB01205,Flumazenil,DB09034,Suvorexant,0.8869644999504089,16,Type_16,Flumazenil may increase the central nervous system depressant (CNS depressant) activities of Suvorexant.,76,Type_76,No
+DB00601,Linezolid,DB01267,Paliperidone,0.8181237578392029,64,Type_64,Linezolid may increase the serotonergic activities of Paliperidone.,49,Type_49,No
+DB00202,Succinylcholine,DB00805,Minaprine,0.7099827527999878,70,Type_70,The therapeutic efficacy of Minaprine can be decreased when used in combination with Succinylcholine.,73,Type_73,No
+DB00861,Diflunisal,DB01088,Iloprost,0.9322371482849121,70,Type_70,The therapeutic efficacy of Iloprost can be decreased when used in combination with Diflunisal.,49,Type_49,No
+DB01220,Rifaximin,DB01340,Cilazapril,0.8958226442337036,75,Type_75,The serum concentration of Cilazapril can be decreased when it is combined with Rifaximin.,73,Type_73,No
+DB00091,Cyclosporine,DB08873,Boceprevir,0.8377296328544617,47,Type_47,The metabolism of Boceprevir can be decreased when combined with Cyclosporine.,73,Type_73,No
+DB01429,Aprindine,DB05812,Abiraterone,0.9473598599433899,47,Type_47,The metabolism of Abiraterone can be decreased when combined with Aprindine.,73,Type_73,No
+DB00334,Olanzapine,DB01233,Metoclopramide,0.7080920338630676,20,Type_20,Olanzapine may increase the QTc-prolonging activities of Metoclopramide.,49,Type_49,No
+DB00333,Methadone,DB00794,Primidone,0.7134078741073608,4,Type_4,The metabolism of Primidone can be increased when combined with Methadone.,75,Type_75,No
+DB00622,Nicardipine,DB01065,Melatonin,0.8349993228912354,47,Type_47,The metabolism of Melatonin can be decreased when combined with Nicardipine.,37,Type_37,No
+DB00641,Simvastatin,DB01238,Aripiprazole,0.942236065864563,73,Type_73,The serum concentration of Aripiprazole can be increased when it is combined with Simvastatin.,75,Type_75,No
+DB00872,Conivaptan,DB06702,Fesoterodine,0.8751890063285828,77,Type_77,The serum concentration of the active metabolites of Fesoterodine can be increased when Fesoterodine is used in combination with Conivaptan.,73,Type_73,No
+DB00199,Erythromycin,DB01200,Bromocriptine,0.7736983299255371,47,Type_47,The metabolism of Bromocriptine can be decreased when combined with Erythromycin.,73,Type_73,No
+DB01118,Amiodarone,DB08901,Ponatinib,0.8855116963386536,47,Type_47,The metabolism of Ponatinib can be decreased when combined with Amiodarone.,73,Type_73,No
+DB08864,Rilpivirine,DB09119,Eslicarbazepine acetate,0.9674792289733887,73,Type_73,The serum concentration of Eslicarbazepine acetate can be increased when it is combined with Rilpivirine.,75,Type_75,No
+DB00035,Desmopressin,DB08984,Etofenamate,0.7784155607223511,70,Type_70,The therapeutic efficacy of Etofenamate can be decreased when used in combination with Desmopressin.,49,Type_49,No
+DB00454,Meperidine,DB01351,Amobarbital,0.9676859378814697,49,Type_49,The risk or severity of adverse effects can be increased when Meperidine is combined with Amobarbital.,16,Type_16,No
+DB01357,Mestranol,DB06203,Alogliptin,0.7371201515197754,70,Type_70,The therapeutic efficacy of Alogliptin can be decreased when used in combination with Mestranol.,75,Type_75,No
+DB00697,Tizanidine,DB00806,Pentoxifylline,0.7486394047737122,60,Type_60,Tizanidine may increase the hypotensive activities of Pentoxifylline.,73,Type_73,No
+DB01045,Rifampicin,DB01120,Gliclazide,0.8157863020896912,4,Type_4,The metabolism of Gliclazide can be increased when combined with Rifampicin.,75,Type_75,No
+DB00243,Ranolazine,DB00497,Oxycodone,0.7097204327583313,47,Type_47,The metabolism of Oxycodone can be decreased when combined with Ranolazine.,49,Type_49,No
+DB01228,Encainide,DB01264,Darunavir,0.9784325361251831,47,Type_47,The metabolism of Darunavir can be decreased when combined with Encainide.,73,Type_73,No
+DB01017,Minocycline,DB06153,Pizotifen,0.9338860511779785,49,Type_49,The risk or severity of adverse effects can be increased when Minocycline is combined with Pizotifen.,16,Type_16,No
+DB00679,Thioridazine,DB00850,Perphenazine,0.7283434271812439,49,Type_49,The risk or severity of adverse effects can be increased when Thioridazine is combined with Perphenazine.,73,Type_73,No
+DB00908,Quinidine,DB09280,Lumacaftor,0.7742980718612671,75,Type_75,The serum concentration of Lumacaftor can be decreased when it is combined with Quinidine.,73,Type_73,No
+DB00503,Ritonavir,DB01175,Escitalopram,0.7445032000541687,47,Type_47,The metabolism of Escitalopram can be decreased when combined with Ritonavir.,20,Type_20,No
+DB00679,Thioridazine,DB00889,Granisetron,0.9405179023742676,20,Type_20,Thioridazine may increase the QTc-prolonging activities of Granisetron.,73,Type_73,No
+DB00457,Prazosin,DB09280,Lumacaftor,0.7378953099250793,73,Type_73,The serum concentration of Lumacaftor can be increased when it is combined with Prazosin.,75,Type_75,No
+DB04871,Lorcaserin,DB06267,Udenafil,0.9763486385345459,47,Type_47,The metabolism of Udenafil can be decreased when combined with Lorcaserin.,49,Type_49,No
+DB01037,Selegiline,DB09065,Cobicistat,0.7407697439193726,73,Type_73,The serum concentration of Cobicistat can be increased when it is combined with Selegiline.,47,Type_47,No
+DB00006,Bivalirudin,DB01211,Clarithromycin,0.7484238743782043,47,Type_47,The metabolism of Clarithromycin can be decreased when combined with Bivalirudin.,70,Type_70,No
+DB01264,Darunavir,DB08865,Crizotinib,0.7136756777763367,47,Type_47,The metabolism of Crizotinib can be decreased when combined with Darunavir.,73,Type_73,No
+DB00324,Fluorometholone,DB06335,Saxagliptin,0.8678815364837646,70,Type_70,The therapeutic efficacy of Saxagliptin can be decreased when used in combination with Fluorometholone.,75,Type_75,No
+DB06264,Tolperisone,DB06290,Simeprevir,0.9740361571311951,73,Type_73,The serum concentration of Simeprevir can be increased when it is combined with Tolperisone.,47,Type_47,No
+DB01126,Dutasteride,DB08873,Boceprevir,0.825951099395752,47,Type_47,The metabolism of Boceprevir can be decreased when combined with Dutasteride.,73,Type_73,No
+DB00203,Sildenafil,DB01198,Zopiclone,0.9126039147377014,47,Type_47,The metabolism of Zopiclone can be decreased when combined with Sildenafil.,73,Type_73,No
+DB00268,Ropinirole,DB09039,Eliglustat,0.8931742906570435,47,Type_47,The metabolism of Eliglustat can be decreased when combined with Ropinirole.,73,Type_73,No
+DB01223,Aminophylline,DB01351,Amobarbital,0.8064789175987244,70,Type_70,The therapeutic efficacy of Amobarbital can be decreased when used in combination with Aminophylline.,75,Type_75,No
+DB00751,Epinastine,DB06616,Bosutinib,0.8410558700561523,73,Type_73,The serum concentration of Bosutinib can be increased when it is combined with Epinastine.,75,Type_75,No
+DB00673,Aprepitant,DB06413,Armodafinil,0.8317286372184753,73,Type_73,The serum concentration of Armodafinil can be increased when it is combined with Aprepitant.,47,Type_47,No
+DB01023,Felodipine,DB12267,Brigatinib,0.8474597334861755,47,Type_47,The metabolism of Brigatinib can be decreased when combined with Felodipine.,75,Type_75,No
+DB01184,Domperidone,DB04844,Tetrabenazine,0.9289331436157227,20,Type_20,Domperidone may increase the QTc-prolonging activities of Tetrabenazine.,33,Type_33,No
+DB00184,Nicotine,DB01264,Darunavir,0.8604500889778137,47,Type_47,The metabolism of Darunavir can be decreased when combined with Nicotine.,73,Type_73,No
+DB00661,Verapamil,DB01181,Ifosfamide,0.8898016810417175,47,Type_47,The metabolism of Ifosfamide can be decreased when combined with Verapamil.,11,Type_11,No
+DB00501,Cimetidine,DB06637,Dalfampridine,0.8623119592666626,47,Type_47,The metabolism of Dalfampridine can be decreased when combined with Cimetidine.,73,Type_73,No
+DB00673,Aprepitant,DB00682,Warfarin,0.9259123206138611,73,Type_73,The serum concentration of Warfarin can be increased when it is combined with Aprepitant.,75,Type_75,No
+DB00482,Celecoxib,DB00502,Haloperidol,0.9672594666481018,47,Type_47,The metabolism of Haloperidol can be decreased when combined with Celecoxib.,49,Type_49,No
+DB00503,Ritonavir,DB00635,Prednisone,0.9265101552009583,47,Type_47,The metabolism of Prednisone can be decreased when combined with Ritonavir.,73,Type_73,No
+DB00907,Cocaine,DB06684,Vilazodone,0.8451661467552185,49,Type_49,The risk or severity of adverse effects can be increased when Cocaine is combined with Vilazodone.,47,Type_47,No
+DB00599,Thiopental,DB00924,Cyclobenzaprine,0.7949504256248474,49,Type_49,The risk or severity of adverse effects can be increased when Thiopental is combined with Cyclobenzaprine.,4,Type_4,No
+DB00239,Oxiconazole,DB00661,Verapamil,0.7954425811767578,47,Type_47,The metabolism of Verapamil can be decreased when combined with Oxiconazole.,49,Type_49,No
+DB00537,Ciprofloxacin,DB06589,Pazopanib,0.8407469987869263,20,Type_20,Ciprofloxacin may increase the QTc-prolonging activities of Pazopanib.,73,Type_73,No
+DB00813,Fentanyl,DB00904,Ondansetron,0.9705641269683838,49,Type_49,The risk or severity of adverse effects can be increased when Fentanyl is combined with Ondansetron.,64,Type_64,No
+DB00908,Quinidine,DB01224,Quetiapine,0.8166413903236389,20,Type_20,Quinidine may increase the QTc-prolonging activities of Quetiapine.,47,Type_47,No
+DB00730,Thiabendazole,DB09330,Osimertinib,0.9700608253479004,73,Type_73,The serum concentration of Osimertinib can be increased when it is combined with Thiabendazole.,75,Type_75,No
+DB00215,Citalopram,DB00805,Minaprine,0.8145312666893005,9,Type_9,Citalopram may increase the hypoglycemic activities of Minaprine.,47,Type_47,No
+DB00575,Clonidine,DB08815,Lurasidone,0.8312728404998779,60,Type_60,Clonidine may increase the hypotensive activities of Lurasidone.,49,Type_49,No
+DB00679,Thioridazine,DB00950,Fexofenadine,0.9265502691268921,49,Type_49,The risk or severity of adverse effects can be increased when Thioridazine is combined with Fexofenadine.,73,Type_73,No
+DB00257,Clotrimazole,DB00528,Lercanidipine,0.8138850331306458,47,Type_47,The metabolism of Lercanidipine can be decreased when combined with Clotrimazole.,49,Type_49,No
+DB00503,Ritonavir,DB00690,Flurazepam,0.9019792079925537,47,Type_47,The metabolism of Flurazepam can be decreased when combined with Ritonavir.,73,Type_73,No
+DB00470,Dronabinol,DB01241,Gemfibrozil,0.7135769128799438,47,Type_47,The metabolism of Gemfibrozil can be decreased when combined with Dronabinol.,73,Type_73,No
+DB01149,Nefazodone,DB01622,Thioproperazine,0.849340558052063,73,Type_73,The serum concentration of Thioproperazine can be increased when it is combined with Nefazodone.,49,Type_49,No
+DB00035,Desmopressin,DB00210,Adapalene,0.8509253859519958,70,Type_70,The therapeutic efficacy of Adapalene can be decreased when used in combination with Desmopressin.,49,Type_49,No
+DB00571,Propranolol,DB01242,Clomipramine,0.8262377977371216,47,Type_47,The metabolism of Clomipramine can be decreased when combined with Propranolol.,49,Type_49,No
+DB00243,Ranolazine,DB00862,Vardenafil,0.7606766819953918,73,Type_73,The serum concentration of Vardenafil can be increased when it is combined with Ranolazine.,47,Type_47,No
+DB01183,Naloxone,DB09280,Lumacaftor,0.8482053279876709,4,Type_4,The metabolism of Lumacaftor can be increased when combined with Naloxone.,73,Type_73,No
+DB00757,Dolasetron,DB00908,Quinidine,0.8069807291030884,20,Type_20,Dolasetron may increase the QTc-prolonging activities of Quinidine.,47,Type_47,No
+DB08860,Pitavastatin,DB09120,Zucapsaicin,0.7314066290855408,47,Type_47,The metabolism of Zucapsaicin can be decreased when combined with Pitavastatin.,73,Type_73,No
+DB00486,Nabilone,DB08918,Levomilnacipran,0.9226218461990356,85,Type_85,Nabilone may increase the tachycardic activities of Levomilnacipran.,49,Type_49,No
+DB00484,Brimonidine,DB01175,Escitalopram,0.9131761789321899,85,Type_85,Brimonidine may increase the tachycardic activities of Escitalopram.,49,Type_49,No
+DB00188,Bortezomib,DB01264,Darunavir,0.7580648064613342,47,Type_47,The metabolism of Darunavir can be decreased when combined with Bortezomib.,73,Type_73,No
+DB00370,Mirtazapine,DB06589,Pazopanib,0.7904439568519592,73,Type_73,The serum concentration of Pazopanib can be increased when it is combined with Mirtazapine.,20,Type_20,No
+DB00555,Lamotrigine,DB00625,Efavirenz,0.9713931083679199,49,Type_49,The risk or severity of adverse effects can be increased when Lamotrigine is combined with Efavirenz.,75,Type_75,No
+DB00904,Ondansetron,DB04953,Ezogabine,0.9411893486976624,49,Type_49,The risk or severity of adverse effects can be increased when Ondansetron is combined with Ezogabine.,20,Type_20,No
+DB00468,Quinine,DB01426,Ajmaline,0.9060221314430237,20,Type_20,Quinine may increase the QTc-prolonging activities of Ajmaline.,47,Type_47,No
+DB00332,Ipratropium,DB08893,Mirabegron,0.8135807514190674,47,Type_47,The metabolism of Mirabegron can be decreased when combined with Ipratropium.,49,Type_49,No
+DB01012,Cinacalcet,DB09167,Dosulepin,0.8712790012359619,47,Type_47,The metabolism of Dosulepin can be decreased when combined with Cinacalcet.,73,Type_73,No
+DB00285,Venlafaxine,DB00914,Phenformin,0.7669350504875183,9,Type_9,Venlafaxine may increase the hypoglycemic activities of Phenformin.,47,Type_47,No
+DB00682,Warfarin,DB06717,Fosaprepitant,0.7859784960746765,73,Type_73,The serum concentration of Fosaprepitant can be increased when it is combined with Warfarin.,75,Type_75,No
+DB00233,Aminosalicylic acid,DB01014,Balsalazide,0.9109565615653992,49,Type_49,The risk or severity of adverse effects can be increased when Aminosalicylic acid is combined with Balsalazide.,6,Type_6,No
+DB00946,Phenprocoumon,DB09030,Vorapaxar,0.8156100511550903,6,Type_6,Phenprocoumon may increase the anticoagulant activities of Vorapaxar.,49,Type_49,No
+DB00661,Verapamil,DB08916,Afatinib,0.8737091422080994,73,Type_73,The serum concentration of Afatinib can be increased when it is combined with Verapamil.,75,Type_75,No
+DB06335,Saxagliptin,DB09270,Ubidecarenone,0.7280665040016174,73,Type_73,The serum concentration of Ubidecarenone can be increased when it is combined with Saxagliptin.,8,Type_8,No
+DB00653,Magnesium sulfate,DB06817,Raltegravir,0.9606817960739136,73,Type_73,The serum concentration of Raltegravir can be increased when it is combined with Magnesium sulfate.,75,Type_75,No
+DB00227,Lovastatin,DB06228,Rivaroxaban,0.7305287718772888,47,Type_47,The metabolism of Rivaroxaban can be decreased when combined with Lovastatin.,73,Type_73,No
+DB00661,Verapamil,DB01397,Magnesium salicylate,0.7329035997390747,73,Type_73,The serum concentration of Magnesium salicylate can be increased when it is combined with Verapamil.,49,Type_49,No
+DB05521,Telaprevir,DB09091,Tixocortol,0.896622359752655,73,Type_73,The serum concentration of Tixocortol can be increased when it is combined with Telaprevir.,75,Type_75,No
+DB00283,Clemastine,DB00962,Zaleplon,0.7337062358856201,49,Type_49,The risk or severity of adverse effects can be increased when Clemastine is combined with Zaleplon.,47,Type_47,No
+DB01252,Mitiglinide,DB06791,Lanreotide,0.8046867847442627,9,Type_9,Mitiglinide may increase the hypoglycemic activities of Lanreotide.,70,Type_70,No
+DB00755,Tretinoin,DB01029,Irbesartan,0.8980849981307983,49,Type_49,The risk or severity of adverse effects can be increased when Tretinoin is combined with Irbesartan.,47,Type_47,No
+DB00700,Eplerenone,DB00794,Primidone,0.7824872136116028,60,Type_60,Eplerenone may increase the hypotensive activities of Primidone.,4,Type_4,No
+DB00661,Verapamil,DB01184,Domperidone,0.8455346822738647,47,Type_47,The metabolism of Domperidone can be decreased when combined with Verapamil.,73,Type_73,No
+DB00363,Clozapine,DB00865,Benzphetamine,0.7827497124671936,47,Type_47,The metabolism of Benzphetamine can be decreased when combined with Clozapine.,61,Type_61,No
+DB00889,Granisetron,DB01118,Amiodarone,0.8419882655143738,20,Type_20,Granisetron may increase the QTc-prolonging activities of Amiodarone.,47,Type_47,No
+DB00266,Dicoumarol,DB00673,Aprepitant,0.9454476237297058,73,Type_73,The serum concentration of Aprepitant can be increased when it is combined with Dicoumarol.,4,Type_4,No
+DB00734,Risperidone,DB06288,Amisulpride,0.9505302309989929,49,Type_49,The risk or severity of adverse effects can be increased when Risperidone is combined with Amisulpride.,36,Type_36,No
+DB00877,Sirolimus,DB01167,Itraconazole,0.8064442276954651,47,Type_47,The metabolism of Itraconazole can be decreased when combined with Sirolimus.,73,Type_73,No
+DB00215,Citalopram,DB00628,Clorazepic acid,0.7011935710906982,47,Type_47,The metabolism of Clorazepic acid can be decreased when combined with Citalopram.,49,Type_49,No
+DB00471,Montelukast,DB01241,Gemfibrozil,0.9719703793525696,47,Type_47,The metabolism of Gemfibrozil can be decreased when combined with Montelukast.,73,Type_73,No
+DB09220,Nicorandil,DB09289,Tianeptine,0.7912443280220032,49,Type_49,The risk or severity of adverse effects can be increased when Nicorandil is combined with Tianeptine.,60,Type_60,No
+DB00912,Repaglinide,DB01076,Atorvastatin,0.717719316482544,9,Type_9,Repaglinide may increase the hypoglycemic activities of Atorvastatin.,49,Type_49,No
+DB04920,Clevidipine,DB08864,Rilpivirine,0.7795776128768921,73,Type_73,The serum concentration of Rilpivirine can be increased when it is combined with Clevidipine.,75,Type_75,No
+DB06335,Saxagliptin,DB09074,Olaparib,0.7333278059959412,47,Type_47,The metabolism of Olaparib can be decreased when combined with Saxagliptin.,73,Type_73,No
+DB00699,Nicergoline,DB01118,Amiodarone,0.8696198463439941,49,Type_49,The risk or severity of adverse effects can be increased when Nicergoline is combined with Amiodarone.,47,Type_47,No
+DB06791,Lanreotide,DB09063,Ceritinib,0.7343314290046692,73,Type_73,The serum concentration of Ceritinib can be increased when it is combined with Lanreotide.,54,Type_54,No
+DB00497,Oxycodone,DB00976,Telithromycin,0.7865520119667053,47,Type_47,The metabolism of Telithromycin can be decreased when combined with Oxycodone.,49,Type_49,No
+DB00589,Lisuride,DB00622,Nicardipine,0.843561053276062,49,Type_49,The risk or severity of adverse effects can be increased when Lisuride is combined with Nicardipine.,47,Type_47,No
+DB00343,Diltiazem,DB01100,Pimozide,0.7042375206947327,47,Type_47,The metabolism of Pimozide can be decreased when combined with Diltiazem.,73,Type_73,No
+DB00433,Prochlorperazine,DB06288,Amisulpride,0.7256779074668884,49,Type_49,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Amisulpride.,36,Type_36,No
+DB01184,Domperidone,DB06216,Asenapine,0.8841585516929626,20,Type_20,Domperidone may increase the QTc-prolonging activities of Asenapine.,33,Type_33,No
+DB00412,Rosiglitazone,DB01319,Fosamprenavir,0.9069560766220093,47,Type_47,The metabolism of Fosamprenavir can be decreased when combined with Rosiglitazone.,70,Type_70,No
+DB01149,Nefazodone,DB01597,Cilastatin,0.7999548316001892,47,Type_47,The metabolism of Cilastatin can be decreased when combined with Nefazodone.,73,Type_73,No
+DB00528,Lercanidipine,DB00976,Telithromycin,0.7877435684204102,47,Type_47,The metabolism of Telithromycin can be decreased when combined with Lercanidipine.,73,Type_73,No
+DB00268,Ropinirole,DB00977,Ethinylestradiol,0.8208504319190979,47,Type_47,The metabolism of Ethinylestradiol can be decreased when combined with Ropinirole.,73,Type_73,No
+DB00346,Alfuzosin,DB06267,Udenafil,0.8637589812278748,10,Type_10,Alfuzosin may increase the antihypertensive activities of Udenafil.,60,Type_60,No
+DB00239,Oxiconazole,DB06414,Etravirine,0.7371307611465454,47,Type_47,The metabolism of Etravirine can be decreased when combined with Oxiconazole.,73,Type_73,No
+DB00216,Eletriptan,DB00908,Quinidine,0.7138929963111877,64,Type_64,Eletriptan may increase the serotonergic activities of Quinidine.,47,Type_47,No
+DB00285,Venlafaxine,DB09166,Etizolam,0.7504521608352661,47,Type_47,The metabolism of Etizolam can be decreased when combined with Venlafaxine.,49,Type_49,No
+DB00346,Alfuzosin,DB00598,Labetalol,0.7536113858222961,30,Type_30,Alfuzosin may increase the orthostatic hypotensive activities of Labetalol.,60,Type_60,No
+DB00215,Citalopram,DB04844,Tetrabenazine,0.920166552066803,20,Type_20,Citalopram may increase the QTc-prolonging activities of Tetrabenazine.,47,Type_47,No
+DB00203,Sildenafil,DB06207,Silodosin,0.9398136138916016,73,Type_73,The serum concentration of Silodosin can be increased when it is combined with Sildenafil.,60,Type_60,No
+DB09054,Idelalisib,DB09166,Etizolam,0.8520607352256775,47,Type_47,The metabolism of Etizolam can be decreased when combined with Idelalisib.,73,Type_73,No
+DB01116,Trimethaphan,DB01580,Oxprenolol,0.7549512982368469,10,Type_10,Trimethaphan may increase the antihypertensive activities of Oxprenolol.,60,Type_60,No
+DB00976,Telithromycin,DB06176,Romidepsin,0.7419342398643494,47,Type_47,The metabolism of Romidepsin can be decreased when combined with Telithromycin.,73,Type_73,No
+DB01184,Domperidone,DB04946,Iloperidone,0.8535974621772766,20,Type_20,Domperidone may increase the QTc-prolonging activities of Iloperidone.,33,Type_33,No
+DB00320,Dihydroergotamine,DB01214,Metipranolol,0.9465867280960083,25,Type_25,Dihydroergotamine may increase the atrioventricular blocking (AV block) activities of Metipranolol.,19,Type_19,No
+DB00283,Clemastine,DB01198,Zopiclone,0.747582197189331,47,Type_47,The metabolism of Zopiclone can be decreased when combined with Clemastine.,73,Type_73,No
+DB00476,Duloxetine,DB01174,Phenobarbital,0.8400107622146606,4,Type_4,The metabolism of Phenobarbital can be increased when combined with Duloxetine.,49,Type_49,No
+DB00312,Pentobarbital,DB00635,Prednisone,0.7441621422767639,4,Type_4,The metabolism of Prednisone can be increased when combined with Pentobarbital.,75,Type_75,No
+DB01708,Prasterone,DB09280,Lumacaftor,0.780228853225708,75,Type_75,The serum concentration of Lumacaftor can be decreased when it is combined with Prasterone.,4,Type_4,No
+DB00476,Duloxetine,DB01297,Practolol,0.9573795795440674,30,Type_30,Duloxetine may increase the orthostatic hypotensive activities of Practolol.,73,Type_73,No
+DB01240,Epoprostenol,DB09204,Arotinolol,0.8418852686882019,30,Type_30,Epoprostenol may increase the orthostatic hypotensive activities of Arotinolol.,49,Type_49,No
+DB00204,Dofetilide,DB00246,Ziprasidone,0.9238613247871399,33,Type_33,The risk or severity of QTc prolongation can be increased when Dofetilide is combined with Ziprasidone.,73,Type_73,No
+DB00252,Phenytoin,DB08880,Teriflunomide,0.9549001455307007,75,Type_75,The serum concentration of Teriflunomide can be decreased when it is combined with Phenytoin.,47,Type_47,No
+DB00933,Mesoridazine,DB01242,Clomipramine,0.7833728790283203,49,Type_49,The risk or severity of adverse effects can be increased when Mesoridazine is combined with Clomipramine.,47,Type_47,No
+DB00514,Dextromethorphan,DB00757,Dolasetron,0.8361995220184326,47,Type_47,The metabolism of Dolasetron can be decreased when combined with Dextromethorphan.,64,Type_64,No
+DB01264,Darunavir,DB06217,Vernakalant,0.9621415138244629,47,Type_47,The metabolism of Vernakalant can be decreased when combined with Darunavir.,73,Type_73,No
+DB00674,Galantamine,DB04896,Milnacipran,0.8401538133621216,49,Type_49,The risk or severity of adverse effects can be increased when Galantamine is combined with Milnacipran.,47,Type_47,No
+DB00758,Clopidogrel,DB00806,Pentoxifylline,0.9032061100006104,6,Type_6,Clopidogrel may increase the anticoagulant activities of Pentoxifylline.,53,Type_53,No
+DB00871,Terbutaline,DB01175,Escitalopram,0.8710733652114868,49,Type_49,The risk or severity of adverse effects can be increased when Terbutaline is combined with Escitalopram.,20,Type_20,No
+DB01624,Zuclopenthixol,DB09074,Olaparib,0.8325252532958984,47,Type_47,The metabolism of Olaparib can be decreased when combined with Zuclopenthixol.,73,Type_73,No
+DB00412,Rosiglitazone,DB00864,Tacrolimus,0.8127447962760925,47,Type_47,The metabolism of Tacrolimus can be decreased when combined with Rosiglitazone.,70,Type_70,No
+DB00608,Chloroquine,DB01390,Sodium bicarbonate,0.982331395149231,67,Type_67,Chloroquine can cause a decrease in the absorption of Sodium bicarbonate resulting in a reduced serum concentration and potentially a decrease in efficacy.,75,Type_75,No
+DB09048,Netupitant,DB09118,Stiripentol,0.9952794313430786,73,Type_73,The serum concentration of Stiripentol can be increased when it is combined with Netupitant.,47,Type_47,No
+DB00353,Methylergometrine,DB00492,Fosinopril,0.7226595878601074,49,Type_49,The risk or severity of adverse effects can be increased when Methylergometrine is combined with Fosinopril.,73,Type_73,No
+DB00559,Bosentan,DB09049,Naloxegol,0.9912300109863281,73,Type_73,The serum concentration of Naloxegol can be increased when it is combined with Bosentan.,75,Type_75,No
+DB00762,Irinotecan,DB01167,Itraconazole,0.7021415829658508,47,Type_47,The metabolism of Itraconazole can be decreased when combined with Irinotecan.,73,Type_73,No
+DB00344,Protriptyline,DB00677,Isoflurophate,0.7891072034835815,49,Type_49,The risk or severity of adverse effects can be increased when Protriptyline is combined with Isoflurophate.,73,Type_73,No
+DB00489,Sotalol,DB01240,Epoprostenol,0.8609241247177124,60,Type_60,Sotalol may increase the hypotensive activities of Epoprostenol.,49,Type_49,No
+DB00601,Linezolid,DB00805,Minaprine,0.7086073160171509,71,Type_71,Linezolid may increase the hypertensive activities of Minaprine.,49,Type_49,No
+DB00208,Ticlopidine,DB01181,Ifosfamide,0.8810026049613953,47,Type_47,The metabolism of Ifosfamide can be decreased when combined with Ticlopidine.,11,Type_11,No
+DB01072,Atazanavir,DB13595,Almasilate,0.8523155450820923,75,Type_75,The serum concentration of Almasilate can be decreased when it is combined with Atazanavir.,67,Type_67,No
+DB00975,Dipyridamole,DB09204,Arotinolol,0.827627420425415,49,Type_49,The risk or severity of adverse effects can be increased when Dipyridamole is combined with Arotinolol.,54,Type_54,No
+DB01407,Clenbuterol,DB06290,Simeprevir,0.9786125421524048,73,Type_73,The serum concentration of Simeprevir can be increased when it is combined with Clenbuterol.,47,Type_47,No
+DB00335,Atenolol,DB00468,Quinine,0.7498310208320618,47,Type_47,The metabolism of Quinine can be decreased when combined with Atenolol.,60,Type_60,No
+DB00835,Brompheniramine,DB01589,Quazepam,0.9214891791343689,49,Type_49,The risk or severity of adverse effects can be increased when Brompheniramine is combined with Quazepam.,73,Type_73,No
+DB00248,Cabergoline,DB00353,Methylergometrine,0.9746705293655396,19,Type_19,Cabergoline may increase the vasoconstricting activities of Methylergometrine.,49,Type_49,No
+DB01167,Itraconazole,DB06228,Rivaroxaban,0.7014018297195435,73,Type_73,The serum concentration of Rivaroxaban can be increased when it is combined with Itraconazole.,47,Type_47,No
+DB00371,Meprobamate,DB00997,Doxorubicin,0.8524765372276306,47,Type_47,The metabolism of Doxorubicin can be decreased when combined with Meprobamate.,73,Type_73,No
+DB00751,Epinastine,DB06441,Cangrelor,0.7132511734962463,49,Type_49,The risk or severity of adverse effects can be increased when Epinastine is combined with Cangrelor.,6,Type_6,No
+DB01324,Polythiazide,DB09038,Empagliflozin,0.9074224829673767,49,Type_49,The risk or severity of adverse effects can be increased when Polythiazide is combined with Empagliflozin.,70,Type_70,No
+DB08875,Cabozantinib,DB09054,Idelalisib,0.7621164321899414,47,Type_47,The metabolism of Idelalisib can be decreased when combined with Cabozantinib.,73,Type_73,No
+DB01200,Bromocriptine,DB04876,Vildagliptin,0.9233679175376892,9,Type_9,Bromocriptine may increase the hypoglycemic activities of Vildagliptin.,73,Type_73,No
+DB01320,Fosphenytoin,DB09167,Dosulepin,0.8316212296485901,4,Type_4,The metabolism of Dosulepin can be increased when combined with Fosphenytoin.,47,Type_47,No
+DB01069,Promethazine,DB01136,Carvedilol,0.7014742493629456,73,Type_73,The serum concentration of Carvedilol can be increased when it is combined with Promethazine.,60,Type_60,No
+DB00196,Fluconazole,DB00374,Treprostinil,0.8281177282333374,20,Type_20,Fluconazole may increase the QTc-prolonging activities of Treprostinil.,47,Type_47,No
+DB04844,Tetrabenazine,DB04855,Dronedarone,0.780406653881073,20,Type_20,Tetrabenazine may increase the QTc-prolonging activities of Dronedarone.,47,Type_47,No
+DB00246,Ziprasidone,DB00468,Quinine,0.7936294078826904,20,Type_20,Ziprasidone may increase the QTc-prolonging activities of Quinine.,47,Type_47,No
+DB00205,Pyrimethamine,DB01045,Rifampicin,0.7601037621498108,4,Type_4,The metabolism of Rifampicin can be increased when combined with Pyrimethamine.,47,Type_47,No
+DB00545,Pyridostigmine,DB08864,Rilpivirine,0.8265233039855957,73,Type_73,The serum concentration of Rilpivirine can be increased when it is combined with Pyridostigmine.,75,Type_75,No
+DB00936,Salicylic acid,DB01088,Iloprost,0.916157066822052,70,Type_70,The therapeutic efficacy of Iloprost can be decreased when used in combination with Salicylic acid.,49,Type_49,No
+DB00705,Delavirdine,DB00980,Ramelteon,0.9207260608673096,47,Type_47,The metabolism of Ramelteon can be decreased when combined with Delavirdine.,73,Type_73,No
+DB00091,Cyclosporine,DB00224,Indinavir,0.9205880165100098,47,Type_47,The metabolism of Indinavir can be decreased when combined with Cyclosporine.,73,Type_73,No
+DB00295,Morphine,DB00997,Doxorubicin,0.7645033597946167,47,Type_47,The metabolism of Doxorubicin can be decreased when combined with Morphine.,73,Type_73,No
+DB00448,Lansoprazole,DB01576,Dextroamphetamine,0.7133505940437317,47,Type_47,The metabolism of Dextroamphetamine can be decreased when combined with Lansoprazole.,18,Type_18,No
+DB00752,Tranylcypromine,DB08881,Vemurafenib,0.7175874710083008,73,Type_73,The serum concentration of Vemurafenib can be increased when it is combined with Tranylcypromine.,33,Type_33,No
+DB00476,Duloxetine,DB01028,Methoxyflurane,0.8513248562812805,49,Type_49,The risk or severity of adverse effects can be increased when Duloxetine is combined with Methoxyflurane.,47,Type_47,No
+DB00304,Desogestrel,DB01072,Atazanavir,0.8911935687065125,75,Type_75,The serum concentration of Atazanavir can be decreased when it is combined with Desogestrel.,73,Type_73,No
+DB00444,Teniposide,DB05812,Abiraterone,0.8177326917648315,73,Type_73,The serum concentration of Abiraterone can be increased when it is combined with Teniposide.,47,Type_47,No
+DB00564,Carbamazepine,DB00586,Diclofenac,0.9712167382240295,4,Type_4,The metabolism of Diclofenac can be increased when combined with Carbamazepine.,75,Type_75,No
+DB01071,Mequitazine,DB01151,Desipramine,0.7758236527442932,82,Type_82,Mequitazine may increase the arrhythmogenic activities of Desipramine.,47,Type_47,No
+DB00220,Nelfinavir,DB00699,Nicergoline,0.869648814201355,47,Type_47,The metabolism of Nicergoline can be decreased when combined with Nelfinavir.,49,Type_49,No
+DB01320,Fosphenytoin,DB09166,Etizolam,0.7485339641571045,4,Type_4,The metabolism of Etizolam can be increased when combined with Fosphenytoin.,73,Type_73,No
+DB00199,Erythromycin,DB01222,Budesonide,0.8461819887161255,47,Type_47,The metabolism of Budesonide can be decreased when combined with Erythromycin.,73,Type_73,No
+DB00668,Epinephrine,DB01021,Trichlormethiazide,0.838236391544342,60,Type_60,Epinephrine may increase the hypotensive activities of Trichlormethiazide.,83,Type_83,No
+DB00598,Labetalol,DB01580,Oxprenolol,0.95432049036026,25,Type_25,Labetalol may increase the atrioventricular blocking (AV block) activities of Oxprenolol.,30,Type_30,No
+DB00715,Paroxetine,DB01264,Darunavir,0.7216607928276062,47,Type_47,The metabolism of Darunavir can be decreased when combined with Paroxetine.,75,Type_75,No
+DB00250,Dapsone,DB00254,Doxycycline,0.951441764831543,47,Type_47,The metabolism of Doxycycline can be decreased when combined with Dapsone.,49,Type_49,No
+DB00699,Nicergoline,DB00857,Terbinafine,0.8511698842048645,49,Type_49,The risk or severity of adverse effects can be increased when Nicergoline is combined with Terbinafine.,47,Type_47,No
+DB01184,Domperidone,DB12332,Rucaparib,0.7895815968513489,47,Type_47,The metabolism of Rucaparib can be decreased when combined with Domperidone.,73,Type_73,No
+DB00503,Ritonavir,DB04844,Tetrabenazine,0.8758578300476074,20,Type_20,Ritonavir may increase the QTc-prolonging activities of Tetrabenazine.,73,Type_73,No
+DB00543,Amoxapine,DB00620,Triamcinolone,0.9869533181190491,49,Type_49,The risk or severity of adverse effects can be increased when Amoxapine is combined with Triamcinolone.,70,Type_70,No
+DB01254,Dasatinib,DB06772,Cabazitaxel,0.7996218204498291,49,Type_49,The risk or severity of adverse effects can be increased when Dasatinib is combined with Cabazitaxel.,73,Type_73,No
+DB00929,Misoprostol,DB01014,Balsalazide,0.7015561461448669,49,Type_49,The risk or severity of adverse effects can be increased when Misoprostol is combined with Balsalazide.,70,Type_70,No
+DB00904,Ondansetron,DB04946,Iloperidone,0.8268641829490662,20,Type_20,Ondansetron may increase the QTc-prolonging activities of Iloperidone.,49,Type_49,No
+DB00531,Cyclophosphamide,DB09063,Ceritinib,0.8922284841537476,15,Type_15,Cyclophosphamide may increase the cardiotoxic activities of Ceritinib.,73,Type_73,No
+DB00697,Tizanidine,DB01115,Nifedipine,0.8995844721794128,49,Type_49,The risk or severity of adverse effects can be increased when Tizanidine is combined with Nifedipine.,73,Type_73,No
+DB01175,Escitalopram,DB05521,Telaprevir,0.7180838584899902,47,Type_47,The metabolism of Telaprevir can be decreased when combined with Escitalopram.,75,Type_75,No
+DB00889,Granisetron,DB04868,Nilotinib,0.8393018245697021,20,Type_20,Granisetron may increase the QTc-prolonging activities of Nilotinib.,47,Type_47,No
+DB06218,Lacosamide,DB09054,Idelalisib,0.7160106301307678,75,Type_75,The serum concentration of Idelalisib can be decreased when it is combined with Lacosamide.,73,Type_73,No
+DB00705,Delavirdine,DB00736,Esomeprazole,0.7564936280250549,47,Type_47,The metabolism of Esomeprazole can be decreased when combined with Delavirdine.,75,Type_75,No
+DB01589,Quazepam,DB04930,Permethrin,0.8515141010284424,47,Type_47,The metabolism of Permethrin can be decreased when combined with Quazepam.,73,Type_73,No
+DB00289,Atomoxetine,DB06595,Midostaurin,0.9315718412399292,47,Type_47,The metabolism of Midostaurin can be decreased when combined with Atomoxetine.,73,Type_73,No
+DB00863,Ranitidine,DB01124,Tolbutamide,0.7846932411193848,47,Type_47,The metabolism of Tolbutamide can be decreased when combined with Ranitidine.,73,Type_73,No
+DB01220,Rifaximin,DB09270,Ubidecarenone,0.8446500301361084,73,Type_73,The serum concentration of Ubidecarenone can be increased when it is combined with Rifaximin.,75,Type_75,No
+DB00619,Imatinib,DB01097,Leflunomide,0.7474028468132019,47,Type_47,The metabolism of Leflunomide can be decreased when combined with Imatinib.,49,Type_49,No
+DB00035,Desmopressin,DB00573,Fenoprofen,0.7878683805465698,70,Type_70,The therapeutic efficacy of Fenoprofen can be decreased when used in combination with Desmopressin.,49,Type_49,No
+DB00927,Famotidine,DB09063,Ceritinib,0.9377687573432922,73,Type_73,The serum concentration of Ceritinib can be increased when it is combined with Famotidine.,20,Type_20,No
+DB00411,Carbamoylcholine,DB00483,Gallamine triethiodide,0.9084820747375488,21,Type_21,Carbamoylcholine may increase the neuromuscular blocking activities of Gallamine triethiodide.,49,Type_49,No
+DB00945,Acetylsalicylic acid,DB01349,Tasosartan,0.717094898223877,47,Type_47,The metabolism of Tasosartan can be decreased when combined with Acetylsalicylic acid.,49,Type_49,No
+DB00686,Pentosan polysulfate,DB01166,Cilostazol,0.8586994409561157,6,Type_6,Pentosan polysulfate may increase the anticoagulant activities of Cilostazol.,49,Type_49,No
+DB00396,Progesterone,DB01263,Posaconazole,0.7227474451065063,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Progesterone.,13,Type_13,No
+DB08912,Dabrafenib,DB08918,Levomilnacipran,0.7089617252349854,73,Type_73,The serum concentration of Levomilnacipran can be increased when it is combined with Dabrafenib.,75,Type_75,No
+DB00475,Chlordiazepoxide,DB00679,Thioridazine,0.7617504596710205,49,Type_49,The risk or severity of adverse effects can be increased when Chlordiazepoxide is combined with Thioridazine.,47,Type_47,No
+DB00308,Ibutilide,DB04855,Dronedarone,0.860203742980957,20,Type_20,Ibutilide may increase the QTc-prolonging activities of Dronedarone.,33,Type_33,No
+DB00734,Risperidone,DB01002,Levobupivacaine,0.9663203954696655,49,Type_49,The risk or severity of adverse effects can be increased when Risperidone is combined with Levobupivacaine.,60,Type_60,No
+DB00619,Imatinib,DB06636,Isavuconazonium,0.7085747718811035,47,Type_47,The metabolism of Isavuconazonium can be decreased when combined with Imatinib.,73,Type_73,No
+DB01002,Levobupivacaine,DB01118,Amiodarone,0.8507591485977173,47,Type_47,The metabolism of Amiodarone can be decreased when combined with Levobupivacaine.,73,Type_73,No
+DB00208,Ticlopidine,DB09074,Olaparib,0.7344212532043457,47,Type_47,The metabolism of Olaparib can be decreased when combined with Ticlopidine.,73,Type_73,No
+DB01623,Thiothixene,DB08881,Vemurafenib,0.7870480418205261,33,Type_33,The risk or severity of QTc prolongation can be increased when Thiothixene is combined with Vemurafenib.,73,Type_73,No
+DB00715,Paroxetine,DB08918,Levomilnacipran,0.7530587315559387,49,Type_49,The risk or severity of adverse effects can be increased when Paroxetine is combined with Levomilnacipran.,47,Type_47,No
+DB00262,Carmustine,DB01609,Deferasirox,0.7893033623695374,75,Type_75,The serum concentration of Deferasirox can be decreased when it is combined with Carmustine.,73,Type_73,No
+DB00907,Cocaine,DB09068,Vortioxetine,0.8717502951622009,49,Type_49,The risk or severity of adverse effects can be increased when Cocaine is combined with Vortioxetine.,73,Type_73,No
+DB00964,Apraclonidine,DB01355,Hexobarbital,0.9589211940765381,30,Type_30,Apraclonidine may increase the orthostatic hypotensive activities of Hexobarbital.,60,Type_60,No
+DB00498,Phenindione,DB00564,Carbamazepine,0.9837786555290222,4,Type_4,The metabolism of Carbamazepine can be increased when combined with Phenindione.,75,Type_75,No
+DB01244,Bepridil,DB05521,Telaprevir,0.7537640929222107,47,Type_47,The metabolism of Telaprevir can be decreased when combined with Bepridil.,49,Type_49,No
+DB00091,Cyclosporine,DB01601,Lopinavir,0.8812841176986694,47,Type_47,The metabolism of Lopinavir can be decreased when combined with Cyclosporine.,73,Type_73,No
+DB00188,Bortezomib,DB00497,Oxycodone,0.8384816646575928,47,Type_47,The metabolism of Oxycodone can be decreased when combined with Bortezomib.,49,Type_49,No
+DB00518,Albendazole,DB01174,Phenobarbital,0.9283662438392639,4,Type_4,The metabolism of Phenobarbital can be increased when combined with Albendazole.,11,Type_11,No
+DB05271,Rotigotine,DB06204,Tapentadol,0.7669976949691772,16,Type_16,Rotigotine may increase the central nervous system depressant (CNS depressant) activities of Tapentadol.,32,Type_32,No
+DB00604,Cisapride,DB00857,Terbinafine,0.8117584586143494,47,Type_47,The metabolism of Terbinafine can be decreased when combined with Cisapride.,73,Type_73,No
+DB00211,Midodrine,DB00935,Oxymetazoline,0.88824462890625,71,Type_71,Midodrine may increase the hypertensive activities of Oxymetazoline.,49,Type_49,No
+DB01097,Leflunomide,DB01124,Tolbutamide,0.8741996884346008,47,Type_47,The metabolism of Tolbutamide can be decreased when combined with Leflunomide.,73,Type_73,No
+DB00908,Quinidine,DB06216,Asenapine,0.7669793367385864,20,Type_20,Quinidine may increase the QTc-prolonging activities of Asenapine.,33,Type_33,No
+DB01072,Atazanavir,DB08439,Parecoxib,0.759463369846344,47,Type_47,The metabolism of Parecoxib can be decreased when combined with Atazanavir.,73,Type_73,No
+DB00359,Sulfadiazine,DB00980,Ramelteon,0.9946141839027405,47,Type_47,The metabolism of Ramelteon can be decreased when combined with Sulfadiazine.,73,Type_73,No
+DB00564,Carbamazepine,DB08907,Canagliflozin,0.8042157292366028,4,Type_4,The metabolism of Canagliflozin can be increased when combined with Carbamazepine.,75,Type_75,No
+DB00215,Citalopram,DB09072,Sodium oxybate,0.7529318332672119,16,Type_16,Citalopram may increase the central nervous system depressant (CNS depressant) activities of Sodium oxybate.,49,Type_49,No
+DB00373,Timolol,DB01264,Darunavir,0.7321006059646606,47,Type_47,The metabolism of Darunavir can be decreased when combined with Timolol.,73,Type_73,No
+DB00363,Clozapine,DB01189,Desflurane,0.7780750393867493,49,Type_49,The risk or severity of adverse effects can be increased when Clozapine is combined with Desflurane.,20,Type_20,No
+DB00203,Sildenafil,DB01319,Fosamprenavir,0.7318998575210571,47,Type_47,The metabolism of Fosamprenavir can be decreased when combined with Sildenafil.,73,Type_73,No
+DB00182,Amphetamine,DB00214,Torasemide,0.8993251323699951,49,Type_49,The risk or severity of adverse effects can be increased when Amphetamine is combined with Torasemide.,60,Type_60,No
+DB00681,Amphotericin B,DB01268,Sunitinib,0.8591113686561584,49,Type_49,The risk or severity of adverse effects can be increased when Amphotericin B is combined with Sunitinib.,47,Type_47,No
+DB00571,Propranolol,DB08880,Teriflunomide,0.9502071142196655,37,Type_37,Propranolol may decrease the antihypertensive activities of Teriflunomide.,75,Type_75,No
+DB00404,Alprazolam,DB12267,Brigatinib,0.846520721912384,47,Type_47,The metabolism of Brigatinib can be decreased when combined with Alprazolam.,75,Type_75,No
+DB00726,Trimipramine,DB01002,Levobupivacaine,0.7903155088424683,4,Type_4,The metabolism of Levobupivacaine can be increased when combined with Trimipramine.,49,Type_49,No
+DB00679,Thioridazine,DB01062,Oxybutynin,0.8737277984619141,16,Type_16,Thioridazine may increase the central nervous system depressant (CNS depressant) activities of Oxybutynin.,73,Type_73,No
+DB00700,Eplerenone,DB08822,Azilsartan medoxomil,0.872096598148346,49,Type_49,The risk or severity of adverse effects can be increased when Eplerenone is combined with Azilsartan medoxomil.,68,Type_68,No
+DB01241,Gemfibrozil,DB01418,Acenocoumarol,0.7437382340431213,6,Type_6,Gemfibrozil may increase the anticoagulant activities of Acenocoumarol.,47,Type_47,No
+DB00800,Fenoldopam,DB00966,Telmisartan,0.8687387108802795,49,Type_49,The risk or severity of adverse effects can be increased when Fenoldopam is combined with Telmisartan.,60,Type_60,No
+DB00244,Mesalazine,DB00751,Epinastine,0.9814580082893372,49,Type_49,The risk or severity of adverse effects can be increased when Mesalazine is combined with Epinastine.,70,Type_70,No
+DB06799,Methenamine,DB09352,Hydroxyamphetamine,0.8926248550415039,72,Type_72,Methenamine may decrease the excretion rate of Hydroxyamphetamine which could result in a higher serum level.,75,Type_75,No
+DB00312,Pentobarbital,DB00959,Methylprednisolone,0.8376238942146301,4,Type_4,The metabolism of Methylprednisolone can be increased when combined with Pentobarbital.,75,Type_75,No
+DB00477,Chlorpromazine,DB01029,Irbesartan,0.7784392833709717,47,Type_47,The metabolism of Irbesartan can be decreased when combined with Chlorpromazine.,49,Type_49,No
+DB00916,Metronidazole,DB01008,Busulfan,0.7957375049591064,47,Type_47,The metabolism of Busulfan can be decreased when combined with Metronidazole.,73,Type_73,No
+DB00266,Dicoumarol,DB00564,Carbamazepine,0.9765027761459351,4,Type_4,The metabolism of Carbamazepine can be increased when combined with Dicoumarol.,75,Type_75,No
+DB00434,Cyproheptadine,DB06700,Desvenlafaxine,0.9673224687576294,49,Type_49,The risk or severity of adverse effects can be increased when Cyproheptadine is combined with Desvenlafaxine.,70,Type_70,No
+DB00318,Codeine,DB00705,Delavirdine,0.8864225745201111,47,Type_47,The metabolism of Delavirdine can be decreased when combined with Codeine.,70,Type_70,No
+DB00544,Fluorouracil,DB01098,Rosuvastatin,0.719062089920044,73,Type_73,The serum concentration of Rosuvastatin can be increased when it is combined with Fluorouracil.,47,Type_47,No
+DB01005,Hydroxyurea,DB06772,Cabazitaxel,0.7817438840866089,15,Type_15,Hydroxyurea may increase the cardiotoxic activities of Cabazitaxel.,49,Type_49,No
+DB00283,Clemastine,DB08867,Ulipristal,0.8577921986579895,47,Type_47,The metabolism of Ulipristal can be decreased when combined with Clemastine.,73,Type_73,No
+DB00706,Tamsulosin,DB00820,Tadalafil,0.7053824067115784,10,Type_10,Tamsulosin may increase the antihypertensive activities of Tadalafil.,60,Type_60,No
+DB01054,Nitrendipine,DB06697,Artemether,0.867096483707428,47,Type_47,The metabolism of Artemether can be decreased when combined with Nitrendipine.,49,Type_49,No
+DB00327,Hydromorphone,DB06212,Tolvaptan,0.7467321753501892,73,Type_73,The serum concentration of Tolvaptan can be increased when it is combined with Hydromorphone.,49,Type_49,No
+DB01194,Brinzolamide,DB01601,Lopinavir,0.8870887160301208,47,Type_47,The metabolism of Lopinavir can be decreased when combined with Brinzolamide.,73,Type_73,No
+DB00203,Sildenafil,DB01181,Ifosfamide,0.9519981741905212,47,Type_47,The metabolism of Ifosfamide can be decreased when combined with Sildenafil.,11,Type_11,No
+DB00482,Celecoxib,DB01050,Ibuprofen,0.7284828424453735,49,Type_49,The risk or severity of adverse effects can be increased when Celecoxib is combined with Ibuprofen.,47,Type_47,No
+DB00586,Diclofenac,DB01320,Fosphenytoin,0.8195086121559143,4,Type_4,The metabolism of Fosphenytoin can be increased when combined with Diclofenac.,75,Type_75,No
+DB00956,Hydrocodone,DB12332,Rucaparib,0.8293085694313049,47,Type_47,The metabolism of Rucaparib can be decreased when combined with Hydrocodone.,73,Type_73,No
+DB00224,Indinavir,DB00863,Ranitidine,0.830123245716095,47,Type_47,The metabolism of Ranitidine can be decreased when combined with Indinavir.,75,Type_75,No
+DB00409,Remoxipride,DB00502,Haloperidol,0.8496516346931458,49,Type_49,The risk or severity of adverse effects can be increased when Remoxipride is combined with Haloperidol.,47,Type_47,No
+DB01110,Miconazole,DB08881,Vemurafenib,0.7401502132415771,73,Type_73,The serum concentration of Vemurafenib can be increased when it is combined with Miconazole.,75,Type_75,No
+DB01072,Atazanavir,DB06228,Rivaroxaban,0.7565532326698303,73,Type_73,The serum concentration of Rivaroxaban can be increased when it is combined with Atazanavir.,47,Type_47,No
+DB00490,Buspirone,DB12267,Brigatinib,0.9291734099388123,47,Type_47,The metabolism of Brigatinib can be decreased when combined with Buspirone.,75,Type_75,No
+DB00458,Imipramine,DB00701,Amprenavir,0.7326143383979797,47,Type_47,The metabolism of Amprenavir can be decreased when combined with Imipramine.,73,Type_73,No
+DB00363,Clozapine,DB04953,Ezogabine,0.7835938930511475,49,Type_49,The risk or severity of adverse effects can be increased when Clozapine is combined with Ezogabine.,20,Type_20,No
+DB00916,Metronidazole,DB06589,Pazopanib,0.7268628478050232,73,Type_73,The serum concentration of Pazopanib can be increased when it is combined with Metronidazole.,20,Type_20,No
+DB00834,Mifepristone,DB06216,Asenapine,0.8221092820167542,20,Type_20,Mifepristone may increase the QTc-prolonging activities of Asenapine.,73,Type_73,No
+DB02703,Fusidic acid,DB09389,Norgestrel,0.8880982995033264,75,Type_75,The serum concentration of Norgestrel can be decreased when it is combined with Fusidic acid.,73,Type_73,No
+DB00564,Carbamazepine,DB08918,Levomilnacipran,0.9321063756942749,4,Type_4,The metabolism of Levomilnacipran can be increased when combined with Carbamazepine.,47,Type_47,No
+DB00296,Ropivacaine,DB00997,Doxorubicin,0.7363388538360596,73,Type_73,The serum concentration of Doxorubicin can be increased when it is combined with Ropivacaine.,47,Type_47,No
+DB00997,Doxorubicin,DB01110,Miconazole,0.7346351742744446,47,Type_47,The metabolism of Miconazole can be decreased when combined with Doxorubicin.,73,Type_73,No
+DB01115,Nifedipine,DB01186,Pergolide,0.745842456817627,37,Type_37,Nifedipine may decrease the antihypertensive activities of Pergolide.,49,Type_49,No
+DB00270,Isradipine,DB01036,Tolterodine,0.9330002665519714,20,Type_20,Isradipine may increase the QTc-prolonging activities of Tolterodine.,47,Type_47,No
+DB01149,Nefazodone,DB08932,Macitentan,0.9656383991241455,47,Type_47,The metabolism of Macitentan can be decreased when combined with Nefazodone.,73,Type_73,No
+DB00675,Tamoxifen,DB09238,Manidipine,0.9377647638320923,47,Type_47,The metabolism of Manidipine can be decreased when combined with Tamoxifen.,11,Type_11,No
+DB00419,Miglustat,DB06663,Pasireotide,0.7953568696975708,9,Type_9,Miglustat may increase the hypoglycemic activities of Pasireotide.,70,Type_70,No
+DB00872,Conivaptan,DB01609,Deferasirox,0.857047975063324,73,Type_73,The serum concentration of Deferasirox can be increased when it is combined with Conivaptan.,75,Type_75,No
+DB00353,Methylergometrine,DB00668,Epinephrine,0.9826541543006897,71,Type_71,Methylergometrine may increase the hypertensive activities of Epinephrine.,49,Type_49,No
+DB00972,Azelastine,DB06700,Desvenlafaxine,0.7118841409683228,53,Type_53,Azelastine may increase the antiplatelet activities of Desvenlafaxine.,49,Type_49,No
+DB00564,Carbamazepine,DB01340,Cilazapril,0.7748748064041138,75,Type_75,The serum concentration of Cilazapril can be decreased when it is combined with Carbamazepine.,4,Type_4,No
+DB01098,Rosuvastatin,DB09119,Eslicarbazepine acetate,0.7018389701843262,73,Type_73,The serum concentration of Eslicarbazepine acetate can be increased when it is combined with Rosuvastatin.,75,Type_75,No
+DB00823,Ethynodiol diacetate,DB08873,Boceprevir,0.8439797163009644,75,Type_75,The serum concentration of Boceprevir can be decreased when it is combined with Ethynodiol diacetate.,73,Type_73,No
+DB00252,Phenytoin,DB01181,Ifosfamide,0.7425974011421204,4,Type_4,The metabolism of Ifosfamide can be increased when combined with Phenytoin.,77,Type_77,No
+DB09082,Vilanterol,DB09167,Dosulepin,0.7971335053443909,47,Type_47,The metabolism of Dosulepin can be decreased when combined with Vilanterol.,49,Type_49,No
+DB06605,Apixaban,DB08865,Crizotinib,0.7576943039894104,47,Type_47,The metabolism of Crizotinib can be decreased when combined with Apixaban.,73,Type_73,No
+DB00243,Ranolazine,DB09076,Umeclidinium,0.8408123254776001,47,Type_47,The metabolism of Umeclidinium can be decreased when combined with Ranolazine.,73,Type_73,No
+DB00216,Eletriptan,DB00502,Haloperidol,0.7257701754570007,49,Type_49,The risk or severity of adverse effects can be increased when Eletriptan is combined with Haloperidol.,47,Type_47,No
+DB00708,Sufentanil,DB01158,Bretylium,0.9689481854438782,49,Type_49,The risk or severity of adverse effects can be increased when Sufentanil is combined with Bretylium.,54,Type_54,No
+DB00176,Fluvoxamine,DB00502,Haloperidol,0.7196930646896362,47,Type_47,The metabolism of Haloperidol can be decreased when combined with Fluvoxamine.,73,Type_73,No
+DB00343,Diltiazem,DB00575,Clonidine,0.725914478302002,47,Type_47,The metabolism of Clonidine can be decreased when combined with Diltiazem.,25,Type_25,No
+DB00213,Pantoprazole,DB00705,Delavirdine,0.8943370580673218,47,Type_47,The metabolism of Delavirdine can be decreased when combined with Pantoprazole.,75,Type_75,No
+DB00907,Cocaine,DB06770,Benzyl alcohol,0.716714084148407,49,Type_49,The risk or severity of adverse effects can be increased when Cocaine is combined with Benzyl alcohol.,47,Type_47,No
+DB05521,Telaprevir,DB08932,Macitentan,0.8990428447723389,47,Type_47,The metabolism of Macitentan can be decreased when combined with Telaprevir.,73,Type_73,No
+DB00221,Isoetharine,DB00598,Labetalol,0.9662983417510986,14,Type_14,Isoetharine may decrease the bronchodilatory activities of Labetalol.,5,Type_5,No
+DB01168,Procarbazine,DB08895,Tofacitinib,0.9180057644844055,54,Type_54,Procarbazine may increase the bradycardic activities of Tofacitinib.,34,Type_34,No
+DB00586,Diclofenac,DB01014,Balsalazide,0.7967666387557983,57,Type_57,Diclofenac may increase the nephrotoxic activities of Balsalazide.,49,Type_49,No
+DB00604,Cisapride,DB04855,Dronedarone,0.7131273150444031,20,Type_20,Cisapride may increase the QTc-prolonging activities of Dronedarone.,47,Type_47,No
+DB00285,Venlafaxine,DB01156,Bupropion,0.9477691650390625,47,Type_47,The metabolism of Bupropion can be decreased when combined with Venlafaxine.,73,Type_73,No
+DB00243,Ranolazine,DB00694,Daunorubicin,0.8197846412658691,47,Type_47,The metabolism of Daunorubicin can be decreased when combined with Ranolazine.,73,Type_73,No
+DB00705,Delavirdine,DB06203,Alogliptin,0.7331446409225464,47,Type_47,The metabolism of Alogliptin can be decreased when combined with Delavirdine.,75,Type_75,No
+DB00492,Fosinopril,DB00774,Hydroflumethiazide,0.7013387680053711,49,Type_49,The risk or severity of adverse effects can be increased when Fosinopril is combined with Hydroflumethiazide.,60,Type_60,No
+DB00230,Pregabalin,DB00681,Amphotericin B,0.8893412351608276,70,Type_70,The therapeutic efficacy of Amphotericin B can be decreased when used in combination with Pregabalin.,49,Type_49,No
+DB00472,Fluoxetine,DB04846,Celiprolol,0.7348566055297852,47,Type_47,The metabolism of Celiprolol can be decreased when combined with Fluoxetine.,73,Type_73,No
+DB00697,Tizanidine,DB01217,Anastrozole,0.8944834470748901,70,Type_70,The therapeutic efficacy of Anastrozole can be decreased when used in combination with Tizanidine.,73,Type_73,No
+DB00333,Methadone,DB01045,Rifampicin,0.8426210880279541,4,Type_4,The metabolism of Rifampicin can be increased when combined with Methadone.,75,Type_75,No
+DB00379,Mexiletine,DB01589,Quazepam,0.9840752482414246,47,Type_47,The metabolism of Quazepam can be decreased when combined with Mexiletine.,73,Type_73,No
+DB00736,Esomeprazole,DB01167,Itraconazole,0.8304421901702881,47,Type_47,The metabolism of Itraconazole can be decreased when combined with Esomeprazole.,75,Type_75,No
+DB00363,Clozapine,DB06595,Midostaurin,0.87467360496521,47,Type_47,The metabolism of Midostaurin can be decreased when combined with Clozapine.,73,Type_73,No
+DB00454,Meperidine,DB01075,Diphenhydramine,0.8546268939971924,49,Type_49,The risk or severity of adverse effects can be increased when Meperidine is combined with Diphenhydramine.,47,Type_47,No
+DB01166,Cilostazol,DB05246,Methsuximide,0.7742378115653992,49,Type_49,The risk or severity of adverse effects can be increased when Cilostazol is combined with Methsuximide.,73,Type_73,No
+DB00613,Amodiaquine,DB06708,Lumefantrine,0.7826232314109802,47,Type_47,The metabolism of Lumefantrine can be decreased when combined with Amodiaquine.,33,Type_33,No
+DB00370,Mirtazapine,DB01095,Fluvastatin,0.8476343154907227,73,Type_73,The serum concentration of Fluvastatin can be increased when it is combined with Mirtazapine.,47,Type_47,No
+DB01126,Dutasteride,DB01263,Posaconazole,0.9391226768493652,47,Type_47,The metabolism of Posaconazole can be decreased when combined with Dutasteride.,73,Type_73,No
+DB01589,Quazepam,DB13874,Enasidenib,0.8300521969795227,47,Type_47,The metabolism of Enasidenib can be decreased when combined with Quazepam.,73,Type_73,No
+DB00343,Diltiazem,DB06237,Avanafil,0.738004207611084,10,Type_10,Diltiazem may increase the antihypertensive activities of Avanafil.,73,Type_73,No
+DB00608,Chloroquine,DB01058,Praziquantel,0.8345623016357422,47,Type_47,The metabolism of Praziquantel can be decreased when combined with Chloroquine.,75,Type_75,No
+DB00675,Tamoxifen,DB06595,Midostaurin,0.7863121032714844,47,Type_47,The metabolism of Midostaurin can be decreased when combined with Tamoxifen.,73,Type_73,No
+DB00590,Doxazosin,DB01174,Phenobarbital,0.8230403065681458,4,Type_4,The metabolism of Phenobarbital can be increased when combined with Doxazosin.,60,Type_60,No
+DB00683,Midazolam,DB01589,Quazepam,0.8608372807502747,49,Type_49,The risk or severity of adverse effects can be increased when Midazolam is combined with Quazepam.,73,Type_73,No
+DB00238,Nevirapine,DB01218,Halofantrine,0.8002593517303467,4,Type_4,The metabolism of Halofantrine can be increased when combined with Nevirapine.,73,Type_73,No
+DB00358,Mefloquine,DB01611,Hydroxychloroquine,0.8420254588127136,47,Type_47,The metabolism of Hydroxychloroquine can be decreased when combined with Mefloquine.,49,Type_49,No
+DB00254,Doxycycline,DB00619,Imatinib,0.7810568809509277,47,Type_47,The metabolism of Imatinib can be decreased when combined with Doxycycline.,73,Type_73,No
+DB00220,Nelfinavir,DB00497,Oxycodone,0.8187873959541321,47,Type_47,The metabolism of Oxycodone can be decreased when combined with Nelfinavir.,49,Type_49,No
+DB00343,Diltiazem,DB00501,Cimetidine,0.9291273951530457,47,Type_47,The metabolism of Cimetidine can be decreased when combined with Diltiazem.,73,Type_73,No
+DB00678,Losartan,DB11362,Selexipag,0.9680441617965698,60,Type_60,Losartan may increase the hypotensive activities of Selexipag.,47,Type_47,No
+DB00428,Streptozocin,DB00657,Mecamylamine,0.8473387360572815,49,Type_49,The risk or severity of adverse effects can be increased when Streptozocin is combined with Mecamylamine.,21,Type_21,No
+DB00356,Chlorzoxazone,DB00679,Thioridazine,0.7513675093650818,49,Type_49,The risk or severity of adverse effects can be increased when Chlorzoxazone is combined with Thioridazine.,47,Type_47,No
+DB00254,Doxycycline,DB08912,Dabrafenib,0.9737963676452637,75,Type_75,The serum concentration of Dabrafenib can be decreased when it is combined with Doxycycline.,47,Type_47,No
+DB01037,Selegiline,DB01355,Hexobarbital,0.8050484657287598,49,Type_49,The risk or severity of adverse effects can be increased when Selegiline is combined with Hexobarbital.,60,Type_60,No
+DB00709,Lamivudine,DB08880,Teriflunomide,0.7115922570228577,49,Type_49,The risk or severity of adverse effects can be increased when Lamivudine is combined with Teriflunomide.,73,Type_73,No
+DB00215,Citalopram,DB00501,Cimetidine,0.9484838247299194,47,Type_47,The metabolism of Cimetidine can be decreased when combined with Citalopram.,73,Type_73,No
+DB00457,Prazosin,DB01210,Levobunolol,0.8409590721130371,30,Type_30,Prazosin may increase the orthostatic hypotensive activities of Levobunolol.,49,Type_49,No
+DB01035,Procainamide,DB01100,Pimozide,0.704605758190155,20,Type_20,Procainamide may increase the QTc-prolonging activities of Pimozide.,33,Type_33,No
+DB00182,Amphetamine,DB09273,Doxofylline,0.8113639950752258,60,Type_60,Amphetamine may increase the hypotensive activities of Doxofylline.,49,Type_49,No
+DB09118,Stiripentol,DB09330,Osimertinib,0.9453563094139099,73,Type_73,The serum concentration of Osimertinib can be increased when it is combined with Stiripentol.,75,Type_75,No
+DB00208,Ticlopidine,DB00936,Salicylic acid,0.9466322064399719,47,Type_47,The metabolism of Salicylic acid can be decreased when combined with Ticlopidine.,49,Type_49,No
+DB00564,Carbamazepine,DB00946,Phenprocoumon,0.9418173432350159,4,Type_4,The metabolism of Phenprocoumon can be increased when combined with Carbamazepine.,75,Type_75,No
+DB00972,Azelastine,DB06209,Prasugrel,0.7560548186302185,47,Type_47,The metabolism of Prasugrel can be decreased when combined with Azelastine.,6,Type_6,No
+DB00543,Amoxapine,DB06695,Dabigatran etexilate,0.7680631279945374,77,Type_77,The serum concentration of the active metabolites of Dabigatran etexilate can be increased when Dabigatran etexilate is used in combination with Amoxapine.,73,Type_73,No
+DB00428,Streptozocin,DB00997,Doxorubicin,0.9951332211494446,24,Type_24,Streptozocin may increase the hypocalcemic activities of Doxorubicin.,75,Type_75,No
+DB00526,Oxaliplatin,DB01030,Topotecan,0.8133692145347595,73,Type_73,The serum concentration of Topotecan can be increased when it is combined with Oxaliplatin.,49,Type_49,No
+DB00486,Nabilone,DB00598,Labetalol,0.994874894618988,49,Type_49,The risk or severity of adverse effects can be increased when Nabilone is combined with Labetalol.,85,Type_85,No
+DB00283,Clemastine,DB01222,Budesonide,0.7453963160514832,47,Type_47,The metabolism of Budesonide can be decreased when combined with Clemastine.,73,Type_73,No
+DB00899,Remifentanil,DB01235,Levodopa,0.996839165687561,49,Type_49,The risk or severity of adverse effects can be increased when Remifentanil is combined with Levodopa.,30,Type_30,No
+DB00393,Nimodipine,DB00706,Tamsulosin,0.8491417765617371,49,Type_49,The risk or severity of adverse effects can be increased when Nimodipine is combined with Tamsulosin.,60,Type_60,No
+DB00359,Sulfadiazine,DB00715,Paroxetine,0.8161828517913818,47,Type_47,The metabolism of Paroxetine can be decreased when combined with Sulfadiazine.,9,Type_9,No
+DB01149,Nefazodone,DB09072,Sodium oxybate,0.9287378191947937,16,Type_16,Nefazodone may increase the central nervous system depressant (CNS depressant) activities of Sodium oxybate.,49,Type_49,No
+DB00245,Benzatropine,DB00805,Minaprine,0.9781461954116821,71,Type_71,Benzatropine may increase the hypertensive activities of Minaprine.,70,Type_70,No
+DB00282,Pamidronic acid,DB01609,Deferasirox,0.7370187640190125,75,Type_75,The serum concentration of Deferasirox can be decreased when it is combined with Pamidronic acid.,49,Type_49,No
+DB01060,Amoxicillin,DB01601,Lopinavir,0.9081400632858276,47,Type_47,The metabolism of Lopinavir can be decreased when combined with Amoxicillin.,4,Type_4,No
+DB08873,Boceprevir,DB08875,Cabozantinib,0.705126166343689,47,Type_47,The metabolism of Cabozantinib can be decreased when combined with Boceprevir.,73,Type_73,No
+DB00199,Erythromycin,DB00897,Triazolam,0.843890905380249,47,Type_47,The metabolism of Triazolam can be decreased when combined with Erythromycin.,73,Type_73,No
+DB00864,Tacrolimus,DB09183,Dasabuvir,0.7506043910980225,47,Type_47,The metabolism of Dasabuvir can be decreased when combined with Tacrolimus.,73,Type_73,No
+DB00208,Ticlopidine,DB00945,Acetylsalicylic acid,0.9107701182365417,47,Type_47,The metabolism of Acetylsalicylic acid can be decreased when combined with Ticlopidine.,49,Type_49,No
+DB00408,Loxapine,DB01200,Bromocriptine,0.9149020910263062,49,Type_49,The risk or severity of adverse effects can be increased when Loxapine is combined with Bromocriptine.,70,Type_70,No
+DB00264,Metoprolol,DB00972,Azelastine,0.9817034602165222,37,Type_37,Metoprolol may decrease the antihypertensive activities of Azelastine.,73,Type_73,No
+DB00865,Benzphetamine,DB01075,Diphenhydramine,0.8895367980003357,47,Type_47,The metabolism of Diphenhydramine can be decreased when combined with Benzphetamine.,76,Type_76,No
+DB00677,Isoflurophate,DB01200,Bromocriptine,0.7341453433036804,49,Type_49,The risk or severity of adverse effects can be increased when Isoflurophate is combined with Bromocriptine.,73,Type_73,No
+DB00623,Fluphenazine,DB01131,Proguanil,0.8411680459976196,47,Type_47,The metabolism of Proguanil can be decreased when combined with Fluphenazine.,73,Type_73,No
+DB00338,Omeprazole,DB00705,Delavirdine,0.8653955459594727,47,Type_47,The metabolism of Delavirdine can be decreased when combined with Omeprazole.,75,Type_75,No
+DB00204,Dofetilide,DB01184,Domperidone,0.7018187642097473,20,Type_20,Dofetilide may increase the QTc-prolonging activities of Domperidone.,33,Type_33,No
+DB00390,Digoxin,DB00582,Voriconazole,0.8666568398475647,73,Type_73,The serum concentration of Voriconazole can be increased when it is combined with Digoxin.,47,Type_47,No
+DB06268,Sitaxentan,DB08895,Tofacitinib,0.916772723197937,47,Type_47,The metabolism of Tofacitinib can be decreased when combined with Sitaxentan.,73,Type_73,No
+DB00420,Promazine,DB01189,Desflurane,0.8823872804641724,49,Type_49,The risk or severity of adverse effects can be increased when Promazine is combined with Desflurane.,20,Type_20,No
+DB00691,Moexipril,DB00864,Tacrolimus,0.781194269657135,73,Type_73,The serum concentration of Tacrolimus can be increased when it is combined with Moexipril.,47,Type_47,No
+DB00564,Carbamazepine,DB01181,Ifosfamide,0.8615380525588989,4,Type_4,The metabolism of Ifosfamide can be increased when combined with Carbamazepine.,77,Type_77,No
+DB00908,Quinidine,DB01174,Phenobarbital,0.7640421390533447,4,Type_4,The metabolism of Phenobarbital can be increased when combined with Quinidine.,80,Type_80,No
+DB01137,Levofloxacin,DB08880,Teriflunomide,0.8730165362358093,27,Type_27,Levofloxacin may increase the neuroexcitatory activities of Teriflunomide.,73,Type_73,No
+DB00169,Cholecalciferol,DB00675,Tamoxifen,0.9351378083229065,47,Type_47,The metabolism of Tamoxifen can be decreased when combined with Cholecalciferol.,11,Type_11,No
+DB01030,Topotecan,DB01229,Paclitaxel,0.970048725605011,49,Type_49,The risk or severity of adverse effects can be increased when Topotecan is combined with Paclitaxel.,73,Type_73,No
+DB09167,Dosulepin,DB11586,Asunaprevir,0.8003040552139282,47,Type_47,The metabolism of Asunaprevir can be decreased when combined with Dosulepin.,73,Type_73,No
+DB00673,Aprepitant,DB00749,Etodolac,0.8764365315437317,73,Type_73,The serum concentration of Etodolac can be increased when it is combined with Aprepitant.,4,Type_4,No
+DB00270,Isradipine,DB00956,Hydrocodone,0.7074082493782043,47,Type_47,The metabolism of Hydrocodone can be decreased when combined with Isradipine.,73,Type_73,No
+DB01320,Fosphenytoin,DB09118,Stiripentol,0.7664881348609924,73,Type_73,The serum concentration of Stiripentol can be increased when it is combined with Fosphenytoin.,47,Type_47,No
+DB01041,Thalidomide,DB06290,Simeprevir,0.8179757595062256,73,Type_73,The serum concentration of Simeprevir can be increased when it is combined with Thalidomide.,47,Type_47,No
+DB00794,Primidone,DB01182,Propafenone,0.7107607126235962,4,Type_4,The metabolism of Propafenone can be increased when combined with Primidone.,75,Type_75,No
+DB00446,Chloramphenicol,DB01095,Fluvastatin,0.8215734362602234,47,Type_47,The metabolism of Fluvastatin can be decreased when combined with Chloramphenicol.,73,Type_73,No
+DB06218,Lacosamide,DB06595,Midostaurin,0.8446969985961914,75,Type_75,The serum concentration of Midostaurin can be decreased when it is combined with Lacosamide.,73,Type_73,No
+DB00444,Teniposide,DB00541,Vincristine,0.7171798944473267,73,Type_73,The serum concentration of Vincristine can be increased when it is combined with Teniposide.,35,Type_35,No
+DB00571,Propranolol,DB00908,Quinidine,0.920367956161499,47,Type_47,The metabolism of Quinidine can be decreased when combined with Propranolol.,73,Type_73,No
+DB09078,Lenvatinib,DB09291,Rolapitant,0.848039984703064,47,Type_47,The metabolism of Rolapitant can be decreased when combined with Lenvatinib.,73,Type_73,No
+DB00187,Esmolol,DB00706,Tamsulosin,0.7585256695747375,49,Type_49,The risk or severity of adverse effects can be increased when Esmolol is combined with Tamsulosin.,30,Type_30,No
+DB01041,Thalidomide,DB08881,Vemurafenib,0.8505054712295532,75,Type_75,The serum concentration of Vemurafenib can be decreased when it is combined with Thalidomide.,73,Type_73,No
+DB01200,Bromocriptine,DB01238,Aripiprazole,0.9420250654220581,73,Type_73,The serum concentration of Aripiprazole can be increased when it is combined with Bromocriptine.,60,Type_60,No
+DB00476,Duloxetine,DB00625,Efavirenz,0.7962655425071716,47,Type_47,The metabolism of Efavirenz can be decreased when combined with Duloxetine.,49,Type_49,No
+DB01032,Probenecid,DB11079,Trolamine salicylate,0.8094435334205627,73,Type_73,The serum concentration of Trolamine salicylate can be increased when it is combined with Probenecid.,70,Type_70,No
+DB04574,Estrone sulfate,DB05521,Telaprevir,0.8496407866477966,47,Type_47,The metabolism of Telaprevir can be decreased when combined with Estrone sulfate.,75,Type_75,No
+DB00708,Sufentanil,DB00734,Risperidone,0.8794644474983215,49,Type_49,The risk or severity of adverse effects can be increased when Sufentanil is combined with Risperidone.,60,Type_60,No
+DB00091,Cyclosporine,DB00196,Fluconazole,0.8975912928581238,47,Type_47,The metabolism of Fluconazole can be decreased when combined with Cyclosporine.,73,Type_73,No
+DB00502,Haloperidol,DB00986,Glycopyrronium,0.8165769577026367,20,Type_20,Haloperidol may increase the QTc-prolonging activities of Glycopyrronium.,75,Type_75,No
+DB00246,Ziprasidone,DB01198,Zopiclone,0.7366315722465515,47,Type_47,The metabolism of Zopiclone can be decreased when combined with Ziprasidone.,73,Type_73,No
+DB00564,Carbamazepine,DB08883,Perampanel,0.7822962403297424,16,Type_16,Carbamazepine may increase the central nervous system depressant (CNS depressant) activities of Perampanel.,75,Type_75,No
+DB01580,Oxprenolol,DB09072,Sodium oxybate,0.8004473447799683,49,Type_49,The risk or severity of adverse effects can be increased when Oxprenolol is combined with Sodium oxybate.,16,Type_16,No
+DB00734,Risperidone,DB09232,Cilnidipine,0.9203960299491882,49,Type_49,The risk or severity of adverse effects can be increased when Risperidone is combined with Cilnidipine.,60,Type_60,No
+DB00625,Efavirenz,DB00898,Ethanol,0.9988077878952026,16,Type_16,Efavirenz may increase the central nervous system depressant (CNS depressant) activities of Ethanol.,49,Type_49,No
+DB00246,Ziprasidone,DB05271,Rotigotine,0.8856635093688965,47,Type_47,The metabolism of Rotigotine can be decreased when combined with Ziprasidone.,32,Type_32,No
+DB00668,Epinephrine,DB01069,Promethazine,0.8468993902206421,60,Type_60,Epinephrine may increase the hypotensive activities of Promethazine.,5,Type_5,No
+DB00246,Ziprasidone,DB00904,Ondansetron,0.725453794002533,20,Type_20,Ziprasidone may increase the QTc-prolonging activities of Ondansetron.,47,Type_47,No
+DB00343,Diltiazem,DB00393,Nimodipine,0.910849928855896,49,Type_49,The risk or severity of adverse effects can be increased when Diltiazem is combined with Nimodipine.,73,Type_73,No
+DB00696,Ergotamine,DB00904,Ondansetron,0.8424602746963501,49,Type_49,The risk or severity of adverse effects can be increased when Ergotamine is combined with Ondansetron.,64,Type_64,No
+DB00656,Trazodone,DB00976,Telithromycin,0.9242432117462158,20,Type_20,Trazodone may increase the QTc-prolonging activities of Telithromycin.,47,Type_47,No
+DB00239,Oxiconazole,DB00681,Amphotericin B,0.8692669868469238,49,Type_49,The risk or severity of adverse effects can be increased when Oxiconazole is combined with Amphotericin B.,70,Type_70,No
+DB00575,Clonidine,DB00708,Sufentanil,0.9683114290237427,49,Type_49,The risk or severity of adverse effects can be increased when Clonidine is combined with Sufentanil.,54,Type_54,No
+DB00715,Paroxetine,DB06203,Alogliptin,0.9065221548080444,9,Type_9,Paroxetine may increase the hypoglycemic activities of Alogliptin.,47,Type_47,No
+DB00420,Promazine,DB01426,Ajmaline,0.8682348132133484,20,Type_20,Promazine may increase the QTc-prolonging activities of Ajmaline.,47,Type_47,No
+DB00358,Mefloquine,DB00976,Telithromycin,0.8181194067001343,20,Type_20,Mefloquine may increase the QTc-prolonging activities of Telithromycin.,47,Type_47,No
+DB00257,Clotrimazole,DB00938,Salmeterol,0.9607115983963013,47,Type_47,The metabolism of Salmeterol can be decreased when combined with Clotrimazole.,73,Type_73,No
+DB00544,Fluorouracil,DB04938,Ospemifene,0.7603625059127808,47,Type_47,The metabolism of Ospemifene can be decreased when combined with Fluorouracil.,73,Type_73,No
+DB00374,Treprostinil,DB09063,Ceritinib,0.8771284222602844,20,Type_20,Treprostinil may increase the QTc-prolonging activities of Ceritinib.,73,Type_73,No
+DB01154,Thiamylal,DB01367,Rasagiline,0.7713502049446106,49,Type_49,The risk or severity of adverse effects can be increased when Thiamylal is combined with Rasagiline.,60,Type_60,No
+DB01320,Fosphenytoin,DB06701,Dexmethylphenidate,0.7502337098121643,4,Type_4,The metabolism of Dexmethylphenidate can be increased when combined with Fosphenytoin.,73,Type_73,No
+DB08895,Tofacitinib,DB08910,Pomalidomide,0.9434902667999268,47,Type_47,The metabolism of Pomalidomide can be decreased when combined with Tofacitinib.,34,Type_34,No
+DB01395,Drospirenone,DB05521,Telaprevir,0.7168344259262085,73,Type_73,The serum concentration of Telaprevir can be increased when it is combined with Drospirenone.,75,Type_75,No
+DB00182,Amphetamine,DB01129,Rabeprazole,0.7957947254180908,47,Type_47,The metabolism of Rabeprazole can be decreased when combined with Amphetamine.,18,Type_18,No
+DB00975,Dipyridamole,DB08807,Bopindolol,0.7448149919509888,49,Type_49,The risk or severity of adverse effects can be increased when Dipyridamole is combined with Bopindolol.,54,Type_54,No
+DB00969,Alosetron,DB09272,Eluxadoline,0.9124688506126404,77,Type_77,The serum concentration of the active metabolites of Eluxadoline can be increased when Eluxadoline is used in combination with Alosetron.,39,Type_39,No
+DB00675,Tamoxifen,DB08893,Mirabegron,0.7475671768188477,47,Type_47,The metabolism of Mirabegron can be decreased when combined with Tamoxifen.,11,Type_11,No
+DB00619,Imatinib,DB01234,Dexamethasone,0.9439683556556702,47,Type_47,The metabolism of Dexamethasone can be decreased when combined with Imatinib.,75,Type_75,No
+DB01234,Dexamethasone,DB06335,Saxagliptin,0.8369302749633789,70,Type_70,The therapeutic efficacy of Saxagliptin can be decreased when used in combination with Dexamethasone.,75,Type_75,No
+DB00346,Alfuzosin,DB06695,Dabigatran etexilate,0.84336918592453,77,Type_77,The serum concentration of the active metabolites of Dabigatran etexilate can be increased when Dabigatran etexilate is used in combination with Alfuzosin.,73,Type_73,No
+DB01186,Pergolide,DB01217,Anastrozole,0.818787157535553,70,Type_70,The therapeutic efficacy of Anastrozole can be decreased when used in combination with Pergolide.,49,Type_49,No
+DB00395,Carisoprodol,DB01601,Lopinavir,0.933751106262207,47,Type_47,The metabolism of Lopinavir can be decreased when combined with Carisoprodol.,4,Type_4,No
+DB00404,Alprazolam,DB01072,Atazanavir,0.7303008437156677,47,Type_47,The metabolism of Atazanavir can be decreased when combined with Alprazolam.,73,Type_73,No
+DB00552,Pentostatin,DB00864,Tacrolimus,0.7804969549179077,57,Type_57,Pentostatin may increase the nephrotoxic activities of Tacrolimus.,49,Type_49,No
+DB01198,Zopiclone,DB01211,Clarithromycin,0.7873607277870178,47,Type_47,The metabolism of Clarithromycin can be decreased when combined with Zopiclone.,73,Type_73,No
+DB00776,Oxcarbazepine,DB09389,Norgestrel,0.8205700516700745,70,Type_70,The therapeutic efficacy of Norgestrel can be decreased when used in combination with Oxcarbazepine.,75,Type_75,No
+DB00679,Thioridazine,DB01189,Desflurane,0.9027585983276367,49,Type_49,The risk or severity of adverse effects can be increased when Thioridazine is combined with Desflurane.,20,Type_20,No
+DB08932,Macitentan,DB09065,Cobicistat,0.7452492713928223,47,Type_47,The metabolism of Cobicistat can be decreased when combined with Macitentan.,73,Type_73,No
+DB00246,Ziprasidone,DB01259,Lapatinib,0.7413297891616821,47,Type_47,The metabolism of Lapatinib can be decreased when combined with Ziprasidone.,20,Type_20,No
+DB00884,Risedronic acid,DB01026,Ketoconazole,0.8843767642974854,47,Type_47,The metabolism of Ketoconazole can be decreased when combined with Risedronic acid.,49,Type_49,No
+DB01180,Rescinnamine,DB01592,Iron,0.9375259280204773,57,Type_57,Rescinnamine may increase the nephrotoxic activities of Iron.,49,Type_49,No
+DB00898,Ethanol,DB04908,Flibanserin,0.976462185382843,16,Type_16,Ethanol may increase the central nervous system depressant (CNS depressant) activities of Flibanserin.,60,Type_60,No
+DB00765,Metyrosine,DB01320,Fosphenytoin,0.7355122566223145,16,Type_16,Metyrosine may increase the central nervous system depressant (CNS depressant) activities of Fosphenytoin.,32,Type_32,No
+DB00263,Sulfisoxazole,DB06684,Vilazodone,0.9103339314460754,47,Type_47,The metabolism of Vilazodone can be decreased when combined with Sulfisoxazole.,73,Type_73,No
+DB00921,Buprenorphine,DB01622,Thioproperazine,0.7756701111793518,16,Type_16,Buprenorphine may increase the central nervous system depressant (CNS depressant) activities of Thioproperazine.,60,Type_60,No
+DB00356,Chlorzoxazone,DB00476,Duloxetine,0.863758385181427,49,Type_49,The risk or severity of adverse effects can be increased when Chlorzoxazone is combined with Duloxetine.,47,Type_47,No
+DB00320,Dihydroergotamine,DB01211,Clarithromycin,0.9498005509376526,47,Type_47,The metabolism of Clarithromycin can be decreased when combined with Dihydroergotamine.,73,Type_73,No
+DB00629,Guanabenz,DB00805,Minaprine,0.8693009614944458,71,Type_71,Guanabenz may increase the hypertensive activities of Minaprine.,60,Type_60,No
+DB00708,Sufentanil,DB00968,Methyldopa,0.9899534583091736,49,Type_49,The risk or severity of adverse effects can be increased when Sufentanil is combined with Methyldopa.,54,Type_54,No
+DB00208,Ticlopidine,DB07615,Tranilast,0.8113706111907959,47,Type_47,The metabolism of Tranilast can be decreased when combined with Ticlopidine.,6,Type_6,No
+DB00358,Mefloquine,DB00794,Primidone,0.759393036365509,4,Type_4,The metabolism of Primidone can be increased when combined with Mefloquine.,70,Type_70,No
+DB00035,Desmopressin,DB01600,Tiaprofenic acid,0.8608226180076599,70,Type_70,The therapeutic efficacy of Tiaprofenic acid can be decreased when used in combination with Desmopressin.,49,Type_49,No
+DB00250,Dapsone,DB00908,Quinidine,0.7907314896583557,47,Type_47,The metabolism of Quinidine can be decreased when combined with Dapsone.,49,Type_49,No
+DB00968,Methyldopa,DB01420,Testosterone propionate,0.8850980401039124,49,Type_49,The risk or severity of adverse effects can be increased when Methyldopa is combined with Testosterone propionate.,47,Type_47,No
+DB00625,Efavirenz,DB01131,Proguanil,0.8402590155601501,47,Type_47,The metabolism of Proguanil can be decreased when combined with Efavirenz.,75,Type_75,No
+DB00169,Cholecalciferol,DB00215,Citalopram,0.9880785346031189,47,Type_47,The metabolism of Citalopram can be decreased when combined with Cholecalciferol.,73,Type_73,No
+DB01026,Ketoconazole,DB09166,Etizolam,0.7117692828178406,47,Type_47,The metabolism of Etizolam can be decreased when combined with Ketoconazole.,73,Type_73,No
+DB00598,Labetalol,DB04743,Nimesulide,0.9740756750106812,37,Type_37,Labetalol may decrease the antihypertensive activities of Nimesulide.,60,Type_60,No
+DB12364,Betrixaban,DB13167,Alclofenac,0.999994158744812,16,Type_16,Betrixaban may increase the central nervous system depressant (CNS depressant) activities of Alclofenac.,66,Type_66,No
+DB00232,Methyclothiazide,DB01119,Diazoxide,0.898520290851593,60,Type_60,Methyclothiazide may increase the hypotensive activities of Diazoxide.,49,Type_49,No
+DB01074,Perhexiline,DB01264,Darunavir,0.743986189365387,47,Type_47,The metabolism of Darunavir can be decreased when combined with Perhexiline.,73,Type_73,No
+DB06589,Pazopanib,DB08806,Roxatidine acetate,0.727928638458252,75,Type_75,The serum concentration of Roxatidine acetate can be decreased when it is combined with Pazopanib.,67,Type_67,No
+DB00521,Carteolol,DB01115,Nifedipine,0.8278998136520386,49,Type_49,The risk or severity of adverse effects can be increased when Carteolol is combined with Nifedipine.,60,Type_60,No
+DB00312,Pentobarbital,DB00741,Hydrocortisone,0.9656656384468079,4,Type_4,The metabolism of Hydrocortisone can be increased when combined with Pentobarbital.,75,Type_75,No
+DB06218,Lacosamide,DB08873,Boceprevir,0.7769509553909302,75,Type_75,The serum concentration of Boceprevir can be decreased when it is combined with Lacosamide.,73,Type_73,No
+DB00214,Torasemide,DB00622,Nicardipine,0.8156676292419434,49,Type_49,The risk or severity of adverse effects can be increased when Torasemide is combined with Nicardipine.,47,Type_47,No
+DB00216,Eletriptan,DB00320,Dihydroergotamine,0.7844343781471252,49,Type_49,The risk or severity of adverse effects can be increased when Eletriptan is combined with Dihydroergotamine.,73,Type_73,No
+DB00264,Metoprolol,DB00412,Rosiglitazone,0.8103939890861511,47,Type_47,The metabolism of Rosiglitazone can be decreased when combined with Metoprolol.,73,Type_73,No
+DB00091,Cyclosporine,DB01628,Etoricoxib,0.7533690333366394,47,Type_47,The metabolism of Etoricoxib can be decreased when combined with Cyclosporine.,57,Type_57,No
+DB00182,Amphetamine,DB01193,Acebutolol,0.7934139966964722,60,Type_60,Amphetamine may increase the hypotensive activities of Acebutolol.,49,Type_49,No
+DB00608,Chloroquine,DB09104,Magnesium hydroxide,0.8872707486152649,67,Type_67,Chloroquine can cause a decrease in the absorption of Magnesium hydroxide resulting in a reduced serum concentration and potentially a decrease in efficacy.,75,Type_75,No
+DB00972,Azelastine,DB01397,Magnesium salicylate,0.7335168719291687,16,Type_16,Azelastine may increase the central nervous system depressant (CNS depressant) activities of Magnesium salicylate.,49,Type_49,No
+DB00611,Butorphanol,DB09049,Naloxegol,0.9961063265800476,73,Type_73,The serum concentration of Naloxegol can be increased when it is combined with Butorphanol.,49,Type_49,No
+DB00278,Argatroban,DB00346,Alfuzosin,0.8080057501792908,60,Type_60,Argatroban may increase the hypotensive activities of Alfuzosin.,73,Type_73,No
+DB00467,Enoxacin,DB00658,Sevelamer,0.8629570603370667,75,Type_75,The serum concentration of Sevelamer can be decreased when it is combined with Enoxacin.,67,Type_67,No
+DB00425,Zolpidem,DB00877,Sirolimus,0.7858915328979492,47,Type_47,The metabolism of Sirolimus can be decreased when combined with Zolpidem.,73,Type_73,No
+DB00672,Chlorpropamide,DB01072,Atazanavir,0.8670027852058411,47,Type_47,The metabolism of Atazanavir can be decreased when combined with Chlorpropamide.,70,Type_70,No
+DB00264,Metoprolol,DB00338,Omeprazole,0.8041250109672546,47,Type_47,The metabolism of Omeprazole can be decreased when combined with Metoprolol.,73,Type_73,No
+DB00202,Succinylcholine,DB01408,Bambuterol,0.78328537940979,49,Type_49,The risk or severity of adverse effects can be increased when Succinylcholine is combined with Bambuterol.,8,Type_8,No
+DB06292,Dapagliflozin,DB09065,Cobicistat,0.7194036245346069,47,Type_47,The metabolism of Cobicistat can be decreased when combined with Dapagliflozin.,73,Type_73,No
+DB04876,Vildagliptin,DB06287,Temsirolimus,0.8993871212005615,70,Type_70,The therapeutic efficacy of Temsirolimus can be decreased when used in combination with Vildagliptin.,49,Type_49,No
+DB00613,Amodiaquine,DB00715,Paroxetine,0.9062149524688721,47,Type_47,The metabolism of Paroxetine can be decreased when combined with Amodiaquine.,73,Type_73,No
+DB00322,Floxuridine,DB04938,Ospemifene,0.9421316385269165,47,Type_47,The metabolism of Ospemifene can be decreased when combined with Floxuridine.,73,Type_73,No
+DB00239,Oxiconazole,DB00615,Rifabutin,0.7527729272842407,4,Type_4,The metabolism of Rifabutin can be increased when combined with Oxiconazole.,73,Type_73,No
+DB00998,Frovatriptan,DB09330,Osimertinib,0.9198445677757263,73,Type_73,The serum concentration of Osimertinib can be increased when it is combined with Frovatriptan.,75,Type_75,No
+DB01609,Deferasirox,DB08820,Ivacaftor,0.9617331624031067,73,Type_73,The serum concentration of Ivacaftor can be increased when it is combined with Deferasirox.,75,Type_75,No
+DB00846,Flurandrenolide,DB05521,Telaprevir,0.9327602982521057,73,Type_73,The serum concentration of Telaprevir can be increased when it is combined with Flurandrenolide.,75,Type_75,No
+DB01104,Sertraline,DB04871,Lorcaserin,0.8618922829627991,47,Type_47,The metabolism of Lorcaserin can be decreased when combined with Sertraline.,49,Type_49,No
+DB00162,Vitamin A,DB00982,Isotretinoin,0.9895248413085938,70,Type_70,The therapeutic efficacy of Isotretinoin can be decreased when used in combination with Vitamin A.,49,Type_49,No
+DB00934,Maprotiline,DB09330,Osimertinib,0.8930662870407104,73,Type_73,The serum concentration of Osimertinib can be increased when it is combined with Maprotiline.,75,Type_75,No
+DB00420,Promazine,DB01267,Paliperidone,0.858540415763855,20,Type_20,Promazine may increase the QTc-prolonging activities of Paliperidone.,49,Type_49,No
+DB00349,Clobazam,DB00907,Cocaine,0.8010771870613098,47,Type_47,The metabolism of Cocaine can be decreased when combined with Clobazam.,49,Type_49,No
+DB09093,Chlortetracycline,DB09147,Ferric pyrophosphate,0.8963702321052551,75,Type_75,The serum concentration of Ferric pyrophosphate can be decreased when it is combined with Chlortetracycline.,67,Type_67,No
+DB00615,Rifabutin,DB09216,Tolfenamic acid,0.7408478260040283,4,Type_4,The metabolism of Tolfenamic acid can be increased when combined with Rifabutin.,75,Type_75,No
+DB00661,Verapamil,DB01224,Quetiapine,0.7277093529701233,47,Type_47,The metabolism of Quetiapine can be decreased when combined with Verapamil.,49,Type_49,No
+DB00608,Chloroquine,DB06697,Artemether,0.7375420928001404,47,Type_47,The metabolism of Artemether can be decreased when combined with Chloroquine.,33,Type_33,No
+DB00373,Timolol,DB00975,Dipyridamole,0.805791437625885,49,Type_49,The risk or severity of adverse effects can be increased when Timolol is combined with Dipyridamole.,54,Type_54,No
+DB00327,Hydromorphone,DB01151,Desipramine,0.7695468068122864,49,Type_49,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Desipramine.,47,Type_47,No
+DB00501,Cimetidine,DB00675,Tamoxifen,0.9178239703178406,47,Type_47,The metabolism of Tamoxifen can be decreased when combined with Cimetidine.,11,Type_11,No
+DB00322,Floxuridine,DB06218,Lacosamide,0.9118462800979614,58,Type_58,Floxuridine may decrease the cardiotoxic activities of Lacosamide.,73,Type_73,No
+DB08907,Canagliflozin,DB09279,Fimasartan,0.9036975502967834,49,Type_49,The risk or severity of adverse effects can be increased when Canagliflozin is combined with Fimasartan.,68,Type_68,No
+DB01075,Diphenhydramine,DB01466,Ethylmorphine,0.7594692707061768,49,Type_49,The risk or severity of adverse effects can be increased when Diphenhydramine is combined with Ethylmorphine.,47,Type_47,No
+DB00679,Thioridazine,DB00699,Nicergoline,0.8921369910240173,49,Type_49,The risk or severity of adverse effects can be increased when Thioridazine is combined with Nicergoline.,47,Type_47,No
+DB00320,Dihydroergotamine,DB01171,Moclobemide,0.7415751218795776,47,Type_47,The metabolism of Moclobemide can be decreased when combined with Dihydroergotamine.,49,Type_49,No
+DB00238,Nevirapine,DB05676,Apremilast,0.7294104695320129,4,Type_4,The metabolism of Apremilast can be increased when combined with Nevirapine.,75,Type_75,No
+DB00598,Labetalol,DB07615,Tranilast,0.9716674089431763,37,Type_37,Labetalol may decrease the antihypertensive activities of Tranilast.,60,Type_60,No
+DB00454,Meperidine,DB00805,Minaprine,0.9094392657279968,49,Type_49,The risk or severity of adverse effects can be increased when Meperidine is combined with Minaprine.,41,Type_41,No
+DB00377,Palonosetron,DB06204,Tapentadol,0.7774572372436523,64,Type_64,Palonosetron may increase the serotonergic activities of Tapentadol.,52,Type_52,No

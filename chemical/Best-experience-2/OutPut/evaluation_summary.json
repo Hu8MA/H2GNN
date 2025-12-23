@@ -1,0 +1,16 @@
+{
+    "Best_Epoch": 469,
+    "Accuracy": 0.931262731552124,
+    "Precision": 0.9195809364318848,
+    "Recall": 0.9468966722488403,
+    "F1_Score": 0.9330388903617859,
+    "ROC_AUC": 0.9842213120970351,
+    "PR_AUC": 0.9841456458490558,
+    "Total_Samples": 38378,
+    "True_Positives": 18170,
+    "True_Negatives": 17600,
+    "False_Positives": 1589,
+    "False_Negatives": 1019,
+    "High_Confidence_Correct": 31415,
+    "Uncertain_Predictions": 1200
+}

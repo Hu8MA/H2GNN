@@ -1,0 +1,52 @@
+# Best-Experiment-1 (🥇 Top Performer)
+
+## Model Configuration
+
+| Parameter | Value |
+|-----------|-------|
+| Model Name | metabolic_network_original |
+| Learning Rate | 0.005 |
+| Hidden Units | 128 |
+| Dropout | 0.5 |
+| Weight Decay | 0.0 |
+| Alpha | 0.3 |
+| Training Seed | 42 |
+
+## Results
+
+| Metric | Value |
+|--------|:-----:|
+| **ROC-AUC (macro)** | 99.44% |
+| **PR-AUC (macro)** | 87.24% |
+| **Top-1 Accuracy** | 85.73% |
+| **Top-3 Accuracy** | 98.11% |
+| **Precision (macro)** | 84.99% |
+| **Recall (macro)** | 80.10% |
+| **F1-Score (macro)** | 81.08% |
+| **Precision (weighted)** | 86% |
+| **Recall (weighted)** | 86% |
+| **F1-Score (weighted)** | 86% |
+
+## Training Details
+
+| Metric | Value |
+|--------|:-----:|
+| Best Epoch | 499 |
+| Best Validation Loss | 0.4900 |
+| Total Training Time | 18.62 minutes |
+| RAM Used | 0.29 GB |
+
+## Files in This Folder
+
+```
+Best-Experiment-1/
+├── Model2_metabolic.ipynb    # Google Colab notebook with full code
+├── info-Model-2.pdf          # Detailed configuration and results
+├── info-Model-2.docx
+├── README.md                 # This file
+└── OutPut/                   # Saved model weights and outputs
+```
+
+## Input Embedding
+
+This model uses **E-1** embedding from [Chemical Network Best-Experiment-1](../../chemical/Best-Experiment-1/).

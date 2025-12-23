@@ -1,0 +1,36 @@
+{
+    "experiment_name": "metabolic_network_original",
+    "timestamp": "2025-11-17T19:02:44.351833",
+    "checkpoint_info": {
+        "best_epoch": 499,
+        "best_val_loss": 0.4900483191013336,
+        "checkpoint_path": "/content/drive/MyDrive/MyModel/DB/Metabolic/Model2-metabolic_network_original/metabolic_network_complete_checkpoint.pt"
+    },
+    "metrics": {
+        "top1_accuracy": 0.85734375,
+        "top3_accuracy": 0.98109375,
+        "precision_macro": 0.8499191730516159,
+        "recall_macro": 0.8010256870194911,
+        "f1_score_macro": 0.8107557157338185,
+        "roc_auc_macro": 0.994405051757957,
+        "pr_auc_macro": 0.8724329733609257
+    },
+    "statistics": {
+        "total_samples": 19200,
+        "num_types": 86,
+        "correct_predictions": 16461,
+        "incorrect_predictions": 2739,
+        "high_confidence_correct": 14384,
+        "high_confidence_errors": 1086,
+        "low_confidence": 1022,
+        "moderate_confidence": 2708
+    },
+    "score_statistics": {
+        "overall_mean": 0.8575677941498967,
+        "overall_std": 0.17065057988470247,
+        "correct_mean": 0.891195042740132,
+        "correct_std": 0.14514795505807848,
+        "incorrect_mean": 0.6554728182302683,
+        "incorrect_std": 0.17289550615989946
+    }
+}
