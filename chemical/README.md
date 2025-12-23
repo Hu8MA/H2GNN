@@ -142,7 +142,7 @@ chemical/
 
 ## 🔗 Embeddings Generated
 
-The top 2 models generate embeddings used by the [Metabolic Network](../metabolic/):
+The top 2 models generate embeddings used by the [Metabolic Network](https://github.com/Hu8MA/H2GNN/tree/main/metabolic):
 
 | Embedding | Source Model         | Used In           |
 | --------- | -------------------- | ----------------- |
