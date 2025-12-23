@@ -49,7 +49,7 @@ chemical/
 │   ├── drugbank_kmers_k12.csv
 │   └── drugbank_kmers_k15.csv
 │
-└── README.md                           # This file
+└── README.md                          
 ```
 
 ---
