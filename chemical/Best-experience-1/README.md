@@ -35,4 +35,4 @@ Best-Experiment-1/
 
 ## Embedding
 
-This model generates **E-1** embedding used in the [Metabolic Network](../../metabolic/).
+This model generates **E-1** embedding used in the [Metabolic Network](https://github.com/Hu8MA/H2GNN/tree/main/metabolic).
