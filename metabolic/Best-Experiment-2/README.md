@@ -4,7 +4,7 @@
 
 | Parameter | Value |
 |-----------|-------|
-| Model Name | metabolic_network_original |
+| Model Name | Model_metabolic_network_1 |
 | Learning Rate | 0.005 |
 | Hidden Units | 128 |
 | Dropout | 0.5 |
