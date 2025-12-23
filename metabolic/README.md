@@ -99,7 +99,7 @@ metabolic/
 
 ## 🔗 Input Embeddings
 
-Embeddings are transferred from the [Chemical Network](../chemical/):
+Embeddings are transferred from the [Chemical Network](https://github.com/Hu8MA/H2GNN/tree/main/chemical):
 
 | Embedding | Source | Description |
 |-----------|--------|-------------|
