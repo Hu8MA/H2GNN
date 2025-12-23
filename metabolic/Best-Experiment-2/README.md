@@ -48,7 +48,7 @@ Best-Experiment-2/
 
 ## Input Embedding
 
-This model uses **E-1** embedding from [Chemical Network Best-Experiment-1](../../chemical/Best-Experiment-1/).
+This model uses **E-1** embedding from [Chemical Network Best-Experiment-1](https://github.com/Hu8MA/H2GNN/tree/main/chemical/Best-experience-1).
 
 ## Note
 
