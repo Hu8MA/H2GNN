@@ -4,7 +4,7 @@
 
 | Parameter | Value |
 |-----------|-------|
-| Model Name | Stage1_Chemical_Network_Model1 |
+| Model Name | Stage1_Chemical_Network_Model2 |
 | Learning Rate | 0.005 |
 | Hidden Units | 128 |
 | Dropout | 0.1 |
