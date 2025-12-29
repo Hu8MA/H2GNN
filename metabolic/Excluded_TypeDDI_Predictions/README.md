@@ -1,5 +1,5 @@
 # Dataset Analysis Results
-
+During preprocessing, 406 drug–drug interaction pairs were annotated with multiple interaction categories. To enable single-label supervised learning, only one label was retained for each pair and all additional labels were removed. Among these multi-label cases, 38 (9.36%) appeared in the stratified test split, allowing assessment of the model's ability to recover excluded interaction types. Remarkably, the model reproduced 94.74% of the omitted labels within its top-3 predictions, despite never encountering them during training or validation. This result suggests that the hypergraph architecture captures underlying multi-mechanistic pharmacological relationships and can infer secondary interaction mechanisms beyond the primary label used during training.
 ## Summary Statistics
 
 The dataset underwent processing to identify and remove pairs with multiple reaction types.
@@ -14,7 +14,6 @@ The dataset underwent processing to identify and remove pairs with multiple reac
 
 ## Validation Results
 
-A validation was performed to determine where excluded labels appeared in the model's predictions. Out of the excluded pairs, 38 were matched for analysis.
 
 ### Distribution of Excluded Labels
 
